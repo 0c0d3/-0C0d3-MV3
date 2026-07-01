@@ -35,7 +35,7 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "ublockfull@custom",
+      "id": "{bb6f4d85-3cea-4bb4-8599-be8362e09673}",
       "strict_min_version": "109.0"
     }
   }
