@@ -1,0 +1,256 @@
+/* options.css - diseño original para 0c0d3 */
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: #f5f7fa;
+  color: #1e293b;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+#container {
+  max-width: 1100px;
+  margin: 0 auto;
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+  overflow: hidden;
+}
+
+#header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 32px;
+  border-bottom: 2px solid #e9edf2;
+  background: #ffffff;
+}
+
+#brand {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+
+#logo {
+  font-size: 28px;
+  font-weight: 700;
+  color: #0f172a;
+  letter-spacing: -0.5px;
+}
+
+#version {
+  font-size: 13px;
+  color: #94a3b8;
+  font-weight: 500;
+}
+
+#stats {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+#rules-count {
+  font-size: 32px;
+  font-weight: 700;
+  color: #2563eb;
+  line-height: 1;
+}
+
+#rules-label {
+  font-size: 12px;
+  color: #94a3b8;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+#content {
+  padding: 24px 32px 32px;
+}
+
+#info-bar {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  padding: 12px 16px;
+  background: #f8fafc;
+  border-radius: 8px;
+  margin-bottom: 24px;
+  border: 1px solid #e9edf2;
+}
+
+#info-bar span {
+  font-size: 14px;
+  color: #475569;
+  flex: 1;
+}
+
+#info-bar #last-updated {
+  font-weight: 600;
+  color: #2563eb;
+}
+
+.btn-primary, .btn-secondary {
+  padding: 8px 20px;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.1s;
+}
+
+.btn-primary {
+  background: #2563eb;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background: #1d4ed8;
+}
+
+.btn-secondary {
+  background: #e9edf2;
+  color: #1e293b;
+}
+
+.btn-secondary:hover {
+  background: #d1d5db;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 4px;
+  color: #0f172a;
+}
+
+.subtitle {
+  font-size: 14px;
+  color: #64748b;
+  margin-bottom: 20px;
+}
+
+#lists-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.category {
+  background: #f8fafc;
+  border-radius: 10px;
+  border: 1px solid #e9edf2;
+  overflow: hidden;
+}
+
+.category-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 20px;
+  background: #ffffff;
+  border-bottom: 1px solid #e9edf2;
+  font-weight: 600;
+  color: #0f172a;
+}
+
+.category-name {
+  font-size: 15px;
+}
+
+.category-count {
+  font-size: 13px;
+  color: #64748b;
+  background: #f1f5f9;
+  padding: 2px 10px;
+  border-radius: 12px;
+}
+
+.category-items {
+  padding: 8px 20px 12px;
+}
+
+.list-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 6px 0;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.list-item:last-child {
+  border-bottom: none;
+}
+
+.list-item input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  accent-color: #2563eb;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.list-item label {
+  font-size: 14px;
+  color: #1e293b;
+  cursor: pointer;
+  flex: 1;
+  word-break: break-all;
+}
+
+.list-item .list-link {
+  color: #94a3b8;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  transition: background 0.2s, color 0.2s;
+}
+
+.list-item .list-link:hover {
+  background: #e9edf2;
+  color: #2563eb;
+}
+
+.notification {
+  padding: 10px 16px;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  font-size: 14px;
+  background: #dcfce7;
+  color: #166534;
+  border: 1px solid #bbf7d0;
+}
+
+.notification.error {
+  background: #fee2e2;
+  color: #991b1b;
+  border-color: #fecaca;
+}
+
+.notification.info {
+  background: #e0f2fe;
+  color: #1e40af;
+  border-color: #bae6fd;
+}
+
+#footer {
+  text-align: center;
+  padding: 16px 32px;
+  border-top: 1px solid #e9edf2;
+  font-size: 13px;
+  color: #94a3b8;
+  background: #fafbfc;
+}
+
+/* Responsive */
+@media (max-width: 640px) {
+  #header { flex-direction: column; align-items: flex-start; gap: 8px; }
+  #stats { align-items: flex-start; }
+  #info-bar { flex-direction: column; align-items: stretch; }
+  .btn-primary, .btn-secondary { width: 100%; text-align: center; }
+}
