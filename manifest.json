@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "0c0d3",
+  "version": "3.0",
+  "description": "0c0d3 Ad-Blocker",
+  "permissions": [
+    "declarativeNetRequest",
+    "declarativeNetRequestWithHostAccess",
+    "storage",
+    "alarms",
+    "webNavigation",
+    "tabs"
+  ],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "page": "background.html"
+  },
+  "action": {
+    "default_title": "0c0d3 Ad-Blocker",
+    "default_area": "navbar"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content/cosmetics.js", "content/scriptlets.js"],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ],
+  "icons": {
+    "48": "icons/icon.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{bb6f4d85-3cea-4bb4-8599-be8362e09673}",
+      "strict_min_version": "109.0"
+    }
+  }
+}
