@@ -1,4 +1,4 @@
-// content/observer.js - Aplica selectores cosméticos con depuración
+// content/observer.js - Carga índices por dominio
 (function() {
   if (window.top !== window) return;
 
@@ -6,111 +6,127 @@
   let currentSelectors = [];
   let observer = null;
   let appliedHostname = '';
+  let appliedUrl = '';
 
-  // Cargar selectores desde el archivo generado por build.js
-  async function loadCosmetics() {
+  let indexCache = null;
+  let fileCache = {};
+
+  async function loadIndex() {
+    if (indexCache) return indexCache;
     try {
-      const url = browser.runtime.getURL('assets/cosmetics.json');
-      const response = await fetch(url);
-      if (!response.ok) throw new Error('HTTP ' + response.status);
-      const data = await response.json();
-      return data;
+      const url = browser.runtime.getURL('assets/cosmetic-index.json');
+      const resp = await fetch(url);
+      if (!resp.ok) throw new Error('HTTP ' + resp.status);
+      indexCache = await resp.json();
+      return indexCache;
     } catch (e) {
-      console.warn('[Cosmetics] No se pudo cargar cosmetics.json:', e);
+      console.warn('[Cosmetics] Error cargando índice:', e);
       return {};
     }
   }
 
-  // Obtener selectores para el dominio actual
-  function getSelectorsForDomain(cosmetics, hostname) {
-    const result = [];
-    for (const [domain, selectors] of Object.entries(cosmetics)) {
-      if (domain === '*' || hostname === domain || hostname.endsWith('.' + domain)) {
-        result.push(...selectors);
-      }
+  async function loadFile(filename) {
+    if (fileCache[filename]) return fileCache[filename];
+    try {
+      const url = browser.runtime.getURL(`assets/cosmetics/${filename}`);
+      const resp = await fetch(url);
+      if (!resp.ok) return [];
+      const data = await resp.json();
+      fileCache[filename] = data;
+      return data;
+    } catch (e) {
+      console.warn(`[Cosmetics] Error cargando ${filename}:`, e);
+      return [];
     }
-    return [...new Set(result)];
   }
 
-  // Aplicar selectores mediante CSS
-  function applySelectors(selectors) {
-    if (!selectors || !selectors.length) {
-      if (styleElement) {
-        styleElement.remove();
-        styleElement = null;
+  async function loadSelectorsForDomain(hostname) {
+    const index = await loadIndex();
+    let files = [];
+
+    // Buscar coincidencia exacta
+    if (index[hostname]) files = files.concat(index[hostname]);
+
+    // Buscar dominios padre (sub.example.com -> example.com)
+    const parts = hostname.split('.');
+    for (let i = 1; i < parts.length; i++) {
+      const parent = parts.slice(i).join('.');
+      if (index[parent]) files = files.concat(index[parent]);
+    }
+
+    // Si no hay nada, usar reglas globales '*'
+    if (files.length === 0 && index['*']) {
+      files = files.concat(index['*']);
+    }
+
+    if (!files.length) return [];
+
+    const all = [];
+    for (const file of files) {
+      const selectors = await loadFile(file);
+      for (const sel of selectors) {
+        if (!all.includes(sel)) all.push(sel);
       }
+    }
+    return all;
+  }
+
+  function applySelectors(selectors) {
+    if (styleElement) {
+      styleElement.remove();
+      styleElement = null;
+    }
+    if (!selectors || !selectors.length) {
       currentSelectors = [];
-      console.log('[Cosmetics] Selectores eliminados');
       return;
     }
-
-    if (!styleElement) {
-      styleElement = document.createElement('style');
-      styleElement.id = 'adb-cosmetic-observer';
-      document.documentElement.appendChild(styleElement);
-    }
-
-    const css = selectors.map(s => `${s} { display: none !important; }`).join('\n');
-    styleElement.textContent = css;
+    styleElement = document.createElement('style');
+    styleElement.id = 'adb-cosmetic';
+    styleElement.textContent = selectors.map(s => `${s} { display: none !important; }`).join('\n');
+    (document.head || document.documentElement).appendChild(styleElement);
     currentSelectors = selectors;
-    console.log(`[Cosmetics] Aplicados ${selectors.length} selectores`);
   }
 
-  // Observar cambios en el DOM para reaplicar (por si el estilo se pierde)
   function startObserver() {
     if (observer) observer.disconnect();
     observer = new MutationObserver(() => {
       if (currentSelectors.length && styleElement && !styleElement.parentNode) {
-        document.documentElement.appendChild(styleElement);
-        const css = currentSelectors.map(s => `${s} { display: none !important; }`).join('\n');
-        styleElement.textContent = css;
+        (document.head || document.documentElement).appendChild(styleElement);
       }
     });
-    observer.observe(document.documentElement, { childList: true, subtree: true });
+    observer.observe(document.head || document.documentElement, { childList: true, subtree: true });
   }
 
-  // Inicializar
+  // SPA detection
+  let spaTimeout;
+  function handleSPANavigation() {
+    clearTimeout(spaTimeout);
+    spaTimeout = setTimeout(() => {
+      if (location.hostname !== appliedHostname || location.href !== appliedUrl) {
+        appliedUrl = '';
+        init();
+      }
+    }, 300);
+  }
+  window.addEventListener('popstate', handleSPANavigation);
+  const _push = history.pushState; history.pushState = function(...a){ _push.apply(this,a); handleSPANavigation(); };
+  const _replace = history.replaceState; history.replaceState = function(...a){ _replace.apply(this,a); handleSPANavigation(); };
+
   async function init() {
-    const hostname = window.location.hostname;
-    if (hostname === appliedHostname) return; // Ya aplicado
+    const hostname = location.hostname;
+    const url = location.href;
+    if (hostname === appliedHostname && url === appliedUrl) return;
     appliedHostname = hostname;
+    appliedUrl = url;
 
-    const cosmetics = await loadCosmetics();
-    const selectors = getSelectorsForDomain(cosmetics, hostname);
-    if (selectors.length > 0) {
-      applySelectors(selectors);
-      startObserver();
-    } else {
-      console.log(`[Cosmetics] No hay selectores para ${hostname}`);
-      applySelectors([]);
-    }
-
-    // Escuchar mensajes para actualizar selectores (opcional)
-    browser.runtime.onMessage.addListener(msg => {
-      if (msg.type === 'updateCosmetics' && msg.selectors) {
-        applySelectors(msg.selectors);
-      }
-      if (msg.type === 'clearCosmetics' && msg.styleId === 'adb-cosmetic-observer') {
-        applySelectors([]);
-        if (observer) observer.disconnect();
-      }
-    });
+    const selectors = await loadSelectorsForDomain(hostname);
+    applySelectors(selectors);
+    if (selectors.length) startObserver();
   }
 
-  // Esperar a que el DOM esté listo
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', init);
   } else {
     init();
   }
-
-  // También se ejecuta al cambiar de página (SPA)
-  let lastUrl = location.href;
-  new MutationObserver(() => {
-    if (location.href !== lastUrl) {
-      lastUrl = location.href;
-      appliedHostname = '';
-      setTimeout(init, 500);
-    }
-  }).observe(document, { subtree: true, childList: true });
 })();
