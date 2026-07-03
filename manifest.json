@@ -3,22 +3,17 @@
   "name": "0c0d3",
   "version": "3.0.1",
   "description": "0c0d3 Ad-Blocker",
-
   "permissions": [
     "declarativeNetRequest",
     "storage",
     "alarms",
     "webNavigation",
-    "tabs",
-    "scripting"
+    "tabs"
   ],
-
   "host_permissions": ["<all_urls>"],
-
   "background": {
     "scripts": ["background.js"]
   },
-
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
@@ -27,30 +22,25 @@
       "all_frames": false
     }
   ],
-
   "action": {
     "default_title": "0c0d3 Ad-Blocker",
     "default_icon": {
       "48": "icons/icon.png"
     }
   },
-
   "options_ui": {
     "page": "options.html",
     "open_in_tab": true
   },
-
   "web_accessible_resources": [
     {
-      "resources": ["assets/*.json"],
+      "resources": ["assets/*.jsonx", "assets/*.json", "assets/cosmetics/*.json", "assets/cosmetic-index.json"],
       "matches": ["<all_urls>"]
     }
   ],
-
   "icons": {
     "48": "icons/icon.png"
   },
-
   "browser_specific_settings": {
     "gecko": {
       "id": "{bb6f4d85-3cea-4bb4-8599-be8362e09673}",
