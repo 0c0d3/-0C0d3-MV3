@@ -1,0 +1,1 @@
+["#gatsby-focus-wrapper > div[style^=\"min-height:calc\"] > div[class*=\" \"]:has(> div[class^=\"sc-\"]:only-child > div[class*=\" \"]:only-child > :is(a, button)[data-gtm-button=\"guest_create_account_bar\"])"]

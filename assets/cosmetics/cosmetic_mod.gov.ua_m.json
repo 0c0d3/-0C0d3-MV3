@@ -1,0 +1,1 @@
+["main > div[class] > aside.flex:has(> ul > li > button.react-share__ShareButton)"]

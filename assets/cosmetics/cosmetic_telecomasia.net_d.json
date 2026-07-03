@@ -1,0 +1,1 @@
+["div[class^=\"Button-module\"]:has(> .js-seo)","div[class^=\"Bookmakers\"]","div[class^=\"CookieAllowance\"]","div[class^=\"Subscribe-module\"]"]

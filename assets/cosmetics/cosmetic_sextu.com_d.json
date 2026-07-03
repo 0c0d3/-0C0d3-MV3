@@ -1,0 +1,1 @@
+["div.headline:has(> h2:contains(Advertisement))","div[class^=\"video\"][class*=\"info\"] > section"]

@@ -1,0 +1,1 @@
+["div[class]:has(> #leaderboard:only-child)","div[id*=\"-rail-\"]","div[id^=\"banner-\"]"]

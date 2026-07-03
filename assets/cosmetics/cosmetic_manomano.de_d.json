@@ -1,0 +1,1 @@
+["div[data-testid=\"boosted-product-recommendations\"]","div > div:has([data-testid=\"banner-spr-label\"])"]

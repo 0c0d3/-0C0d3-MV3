@@ -1,0 +1,1 @@
+["#head + div[id] div[class] > a[target=\"_blank\"][rel] > img","#head + div[id] div[class] > a[target=\"_blank\"][rel] > div[style^=\"background-image: url\"]","#head + div[id] div[class*=\" \"][id]:has(> div[data-freestar-ad]:only-child)"]

@@ -1,0 +1,1 @@
+["main > div.flex > div.hidden > div:has(> a[href^=\"https://www.youtube.com/@insider_gaming?\"])"]

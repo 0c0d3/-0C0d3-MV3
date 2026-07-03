@@ -1,0 +1,1 @@
+[".container > div.flex:has(> div.relative > form input[name=\"email\"])",".justify-self-center > button:has(> span > svg > path[d^=\"M237.66\"])"]

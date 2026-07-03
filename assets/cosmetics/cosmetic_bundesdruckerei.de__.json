@@ -1,0 +1,1 @@
+[".node__content > div.paragraph:has(> div[class] input#newsletter-submit)"]

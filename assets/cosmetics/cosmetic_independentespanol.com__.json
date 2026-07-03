@@ -1,0 +1,1 @@
+["#stickyFooterRoot","#main > div[class^=\"sc-\"]:has(> div.mobile-only > div.mobile-only > div[data-mpu])"]

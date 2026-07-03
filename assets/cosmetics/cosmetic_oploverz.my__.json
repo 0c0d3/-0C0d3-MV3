@@ -1,0 +1,1 @@
+["#sidebar > .widget_text:has(> div.textwidget > a)","#sidebar > .widget_text:has(> div.textwidget > #histats_counter)"]

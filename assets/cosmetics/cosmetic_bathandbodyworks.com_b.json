@@ -1,0 +1,1 @@
+["body > .ui-dialog:has(> #dialog-container > div.email-dialog-content > a[href=\"/loyalty-rewards\"])"]

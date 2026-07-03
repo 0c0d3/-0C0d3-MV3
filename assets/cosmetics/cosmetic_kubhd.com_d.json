@@ -1,0 +1,1 @@
+["div[role=\"main\"] center:has(> a[href][target=\"_blank\"])"]

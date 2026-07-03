@@ -1,0 +1,1 @@
+["div[data-ui-id=\"post\"] > div.stk-grid:has(> div > div > div > h4:contains(Подпишитесь))"]

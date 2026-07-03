@@ -1,0 +1,1 @@
+[".sidebar > section[id^=\"text-\"]:has(> div.textwidget > p.small > a[href=\"https://www.antiwar.com/advertise/\"])"]

@@ -1,0 +1,1 @@
+[".row > .col:has(> div[class^=\"ui-card-root\"] > a[rel=\"noopener noreferrer sponsored\"])"]

@@ -1,0 +1,1 @@
+["div[class^=\"sku-configurator__banner\"]:has([aria-label=\"Sponsored Products\"])"]

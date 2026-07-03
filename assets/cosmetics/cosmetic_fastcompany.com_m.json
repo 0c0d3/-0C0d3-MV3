@@ -1,0 +1,1 @@
+["main ul[class^=\"gap-\"]:has(li.border-r > button#Share_button_link)","main > ul:has(> li > a[href^=\"https://www.facebook.com/sharer.php\"])"]

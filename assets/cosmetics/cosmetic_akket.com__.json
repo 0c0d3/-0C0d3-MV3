@@ -1,0 +1,1 @@
+["#anycomment-root .MuiSnackbarContent-root",".entry > p:has(> a[href^=\"https://news.google.com/s/\"])",".entry > p:has(> a[href^=\"https://news.google.com/s/\"]) + p",".anycomment-subscribe",".social-zone"]

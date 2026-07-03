@@ -1,0 +1,1 @@
+["drb-infinite-scroll .service-result:has(drb-tooltip[data-featured-badge])","drb-infinite-scroll div[data-username]:has(drb-tooltip[data-featured-badge])"]

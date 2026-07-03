@@ -1,0 +1,1 @@
+["div.row:has(> .mb-md-0.text-dt > [data-bs-content^=\"Sponsored\"])"]

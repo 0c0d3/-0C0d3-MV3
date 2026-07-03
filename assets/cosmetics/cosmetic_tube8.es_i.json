@@ -1,0 +1,1 @@
+["img[src*=\"blob:\" i]:not(video)"]

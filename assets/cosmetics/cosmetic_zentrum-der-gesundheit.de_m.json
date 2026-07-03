@@ -1,0 +1,1 @@
+["main > div > div[class*=\"lime\"]:has(> form > button[aria-label=\"Jetzt anmelden\"])"]

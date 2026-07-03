@@ -1,0 +1,1 @@
+["main > div[class^=\"PageBlock_\"][style^=\"z-index:\"]:has(> section div[class^=\"indexes__FormInsideWrapper-\"])","main > div[class^=\"PageBlock_page-block\"]:has(> section a[href^=\"https://www.g2a.com/mobile-app\"] > img.bqci-image)","main > div.trust_banner"]

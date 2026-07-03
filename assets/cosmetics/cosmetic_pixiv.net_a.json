@@ -1,0 +1,1 @@
+["aside > section[class^=\"sc-\"]:has(> div[class^=\"sc-\"] > iframe[width=\"100%\"])","a[target=\"premium_noads\"]"]

@@ -1,0 +1,1 @@
+["div[class*=\"-layout__\"]:has(> div:only-child:is(.info-small, .info-medium, .info-large) > a[rel=\"nofollow\"] > img)","div[class*=\"-layout__\"]:has(> div:only-child:is(.info-small, .info-medium, .info-large) > .info-text > span.info-text__contact)"]

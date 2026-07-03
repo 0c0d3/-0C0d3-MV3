@@ -1,0 +1,1 @@
+["div[class=\"lg:col-span-1\"] > aside > div:has(> .text-center > div[id^=\"lightbox-inline-form-\"])","div[id^=\"lightbox-inline-form-\"]"]

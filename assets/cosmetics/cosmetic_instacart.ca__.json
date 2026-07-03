@@ -1,0 +1,1 @@
+[":matches-path(/store/staples/storefront) #store-wrapper > div > div > div:has(div[style=\"display: flex;\"] > span + span:contains(sored))"]

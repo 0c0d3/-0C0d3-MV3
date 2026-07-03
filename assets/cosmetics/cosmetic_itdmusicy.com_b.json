@@ -1,0 +1,1 @@
+["body > div[class]:has(> a[href^=\"https://chpadblock.com/\"])","body > div[id][class*=\" \"]:has(div.adblock_subtitle)"]

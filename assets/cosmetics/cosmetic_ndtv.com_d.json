@@ -1,0 +1,1 @@
+["div[class^=\"add_\"]","div:has(> [id^=\"adslot\"])","div[id^=\"adslot\"]","div[class^=\"photogallery_share\"]","div[class^=\"st_sharebar\"]","div[class^=\"ad-art_\"]","div[data-google-ad=\"googlead\"]"]

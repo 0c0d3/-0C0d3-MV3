@@ -1,0 +1,1 @@
+["div[data-socialshare]","div[class^=\"_\"] > .mrecasadscode ~ div[class^=\"_\"] > div[class*=\"_\"] > h3 + ul > li > a[href^=\"https://www.gadgetsnow.com/affiliate_amazon.cms?\"]","div[class^=\"_\"] > .mrecasadscode ~ div[class^=\"_\"] > div[class*=\"_\"] > h3:contains(/^Promoted$/) + ul > li > a[href^=\"https://www.gadgetsnow.com/affiliate_amazon.cms?\"]:upward(3)"]

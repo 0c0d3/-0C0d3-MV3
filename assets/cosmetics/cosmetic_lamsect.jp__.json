@@ -1,0 +1,1 @@
+[".antena","#main_line > div.content:has(> div[style] > script[src*=\"blogroll\"])","#main_line > div.content:has(> div.cate > script[src*=\"google.com/jsapi\"])"]

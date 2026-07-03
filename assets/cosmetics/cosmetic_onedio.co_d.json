@@ -1,0 +1,1 @@
+["div.overflow-hidden:has(> div.absolute:contains(Advertisement))"]

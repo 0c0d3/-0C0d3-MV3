@@ -1,0 +1,1 @@
+["div[data-testid=\"story-body\"] div[style]:has(> div[style] > amp-ad)"]

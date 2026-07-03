@@ -1,0 +1,1 @@
+["center:has(> div[style*=\"overflow\"] > [data-cl-spot])"]

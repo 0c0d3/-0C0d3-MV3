@@ -1,0 +1,1 @@
+["div[class^=\"_container_\"] ~ div[class^=\"_container_\"]:has(> div[data-disclaimer=\"true\"] a[href^=\"https://t.me/\"])","div[class^=\"_banner_\"]","div[class^=\"banner\"]","div[data-analytics=\"banner\"]","div[class^=\"_sharer_\"]"]

@@ -1,0 +1,1 @@
+["div[class^=\"video\"][class*=\"info\"] > section","div[class^=\"partners\"]","div[class^=\"partners\"] + div[class]"]

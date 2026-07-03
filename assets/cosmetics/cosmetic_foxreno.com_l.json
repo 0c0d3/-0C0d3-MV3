@@ -1,0 +1,1 @@
+["li[style^=\"background-color:\"]:has(> a[href^=\"https://twitter.com/intent/\"])"]

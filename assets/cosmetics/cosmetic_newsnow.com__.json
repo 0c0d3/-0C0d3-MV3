@@ -1,0 +1,1 @@
+[".hero-wrapper",".newsfeed__inner > div:has(> div.container__group > div.ad__container)",".container__group:has(> .ad__container:only-child)",".ad__container + div"]

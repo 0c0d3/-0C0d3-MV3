@@ -1,0 +1,1 @@
+["div[class*=\" \"] > video ~ div:not([class]) > div[style] > div:contains(광고없이 고화질로 끊김없이 감상해보세요!)"]

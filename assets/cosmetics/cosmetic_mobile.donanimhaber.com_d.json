@@ -1,0 +1,1 @@
+["div[style=\"width: 100%; float: left; position: relative; height: auto; text-align: center;\"]","div[style$=\"width:320px; height:100px;\"]","div[style^=\"width: 100%; float: left; position: relative;\"] > div[style*=\"margin: 10px auto; text-align: center; width: 320px; height: 100px;\"]:has(> div[id^=\"div-gpt-ad-\"])"]

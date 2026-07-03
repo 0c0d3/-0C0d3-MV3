@@ -1,0 +1,1 @@
+["app-opt-in","app-dynamic:has(> div.dynamic-container div.items > a[title^=\"Compartilhe\"])","app-share"]

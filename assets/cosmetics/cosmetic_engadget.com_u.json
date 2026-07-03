@@ -1,0 +1,1 @@
+["ul[data-component=\"LatestStream\"] > li:has(> div[data-component=\"NewsletterCard\"])"]

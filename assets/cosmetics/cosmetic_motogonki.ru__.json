@@ -1,0 +1,1 @@
+["#article > div[style^=\"position:\"]:has(> a[onclick*=\"/go/click.php?\"])","#widget"]

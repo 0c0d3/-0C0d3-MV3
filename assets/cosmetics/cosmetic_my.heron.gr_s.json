@@ -1,0 +1,1 @@
+["section[class^=\"_container_\"]:has(> article[class^=\"_buttons_\"] > button.MuiButtonBase-root > span.MuiButton-label:contains(cookies))"]

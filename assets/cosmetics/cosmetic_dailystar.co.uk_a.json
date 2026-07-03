@@ -1,0 +1,1 @@
+["aside span > span.react-loading-skeleton","aside > div[class^=\"sc-\"]:has(> span > span.react-loading-skeleton)","article > p[class]:has(> strong > a:is([href=\"https://www.facebook.com/thedailystarsport#\"], [href=\"https://www.dailystar.co.uk/newsletter-preference-centre/\"]))","a[data-testid=\"premium-button\"][href=\"/subscribe\"]"]

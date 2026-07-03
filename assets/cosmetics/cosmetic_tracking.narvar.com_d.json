@@ -1,0 +1,1 @@
+["div[class^=\"Panel-module_scrollableContainerScroll__\"]:has(> a[target=\"_blank\"] > div[role=\"img\"])"]

@@ -1,0 +1,1 @@
+["div[class^=\"ai-viewport\"]:has(> .code-block > .gub-ad-article)"]

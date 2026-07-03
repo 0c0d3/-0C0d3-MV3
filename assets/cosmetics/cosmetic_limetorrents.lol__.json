@@ -1,0 +1,1 @@
+[".torrentinfo > .downloadareabig:has(> .dltorrent > div > a[rel])","#rightbar > div:not([class]) > div.head:contains(Advertisement):upward(1)",".torrentinfo > div > div[style^=\"float:\"]"]

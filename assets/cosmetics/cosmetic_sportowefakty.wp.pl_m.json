@@ -1,0 +1,1 @@
+["main div[class*=\" \"]:empty:not(.btnmute):not(.volsliderbg):not([style]):not([id]):not([img]):not([src]):not(.galleryslide__content):not(.answer_tab):not(.jw-spacer)"]

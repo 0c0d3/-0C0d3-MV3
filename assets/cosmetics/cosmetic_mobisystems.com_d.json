@@ -1,0 +1,1 @@
+["div[class*=\"bottom-\"]:has(> div > div > div > span#consent-learn-more)"]

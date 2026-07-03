@@ -1,0 +1,1 @@
+["main > div[class*=\" \"]:nth-child(-n+2) > div ~ div"]

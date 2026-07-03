@@ -1,0 +1,1 @@
+["div[data-resultid$=\"-sponsored\"]","div[class$=\"-result-item-container\"]:has(a[href*=\"/s/clickthrough.jsp?\"])","div[class$=\"-result-item-container\"]:has(div[class$=\"-ad-badge\"])","div[role=\"button\"]:has(.c_3eP-badge-content)","div[role=\"button\"][tabindex=\"0\"]:has(div.c_3eP-badge-content)","div[role=\"link\"]:has(.c_3eP-badge-content)"]

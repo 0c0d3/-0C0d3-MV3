@@ -1,0 +1,1 @@
+["div[class*=\"-\"] > div[class*=\"-\"][class*=\" \"]:has(> img[src=\"https://i.wpimg.pl/O/56x45/i.wp.pl/a/i/stg/pkf/bg.png\"])","div[class*=\" \"]:has(> div[class]:first-child:empty + img[src*=\"://v.wpimg.pl/\"][alt]:empty)","div[data-reactid=\"110\"]"]

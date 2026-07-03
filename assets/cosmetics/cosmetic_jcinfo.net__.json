@@ -1,0 +1,1 @@
+["#content > div[style^=\"min-height:\"]:has(> .social-btn)"]

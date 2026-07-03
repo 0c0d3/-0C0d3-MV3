@@ -1,0 +1,1 @@
+["div[id^=\"admin-\"]","div[id^=\"admin-\"] > a[data-bid]","div[id^=\"text-\"]:has(> div.textwidget > div[id^=\"admin-\"] > a.adblock-warning)"]

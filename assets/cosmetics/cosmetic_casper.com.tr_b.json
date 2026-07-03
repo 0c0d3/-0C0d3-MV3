@@ -1,0 +1,1 @@
+["body > div.custom-popup-wrapper:has(> div#popup-overlay > div#popup-modal iframe[src^=\"https://www.youtube.com/\"])"]

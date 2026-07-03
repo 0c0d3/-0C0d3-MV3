@@ -1,0 +1,1 @@
+["div[data-advertisement$=\":mobile\"]","div[class*=\"min-h\"]:has(> div[data-sticky-ad-offset] > [data-advertisement])","div[data-area=\"news-section\"] > div:has(> div[style*=\"polygon-ad\"])","div[class]:has(> div[style*=\"-ad-sticky-offset\"]:only-child)"]

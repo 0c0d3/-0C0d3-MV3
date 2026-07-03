@@ -1,0 +1,1 @@
+["div[class*=\"margin-Advert\"]","div[class^=\"advert-placeholder_\"]","div[data-cypress^=\"sticky-header\"]","div[class^=\"advert-placeholder\"]","div[class^=\"floating-video-player_container\"]:has(> div#primisPlayer)","div[class$=\"-margin-Advert\"]","div[class^=\"soft-notification-modal_\"]","div[class^=\"share-links\"]","div[class*=\"-observer_bottomAd\"]"]

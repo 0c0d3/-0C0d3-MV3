@@ -1,0 +1,1 @@
+["div[class^=\"AppPromo\"]","div[class^=\"ContentWrapper_wrapper_\"]:has(> article[class^=\"W2ALink_\"])"]

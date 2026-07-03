@@ -1,0 +1,1 @@
+["div[class^=\"_sidebar_\"] > div[class^=\"_wrapper_\"]:has(div[class^=\"_form_\"] > label[placeholder=\"Оставить email\"])","div[class*=\"_subscribe\"]"]

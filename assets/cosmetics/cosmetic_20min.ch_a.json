@@ -1,0 +1,1 @@
+["article > div[class]:has(> div[id^=\"inside-full-content-\"])"]

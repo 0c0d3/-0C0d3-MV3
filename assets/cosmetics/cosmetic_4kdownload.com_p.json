@@ -1,0 +1,1 @@
+["p[class^=\"Text_subtitle\"]:has(> a[download][href^=\"https://dl.4kdownload.com/app/4kvideo\"][href*=\".exe?\"]) + p[class^=\"Text_subtitle\"]"]

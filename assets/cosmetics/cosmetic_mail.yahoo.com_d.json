@@ -1,0 +1,1 @@
+["div[data-test-id=\"mail-reader\"] > div:has(> div[style*=\"https://s.yimg.com/nq/nr/img/novation_promo_card_\"])","div[style=\"width:640px;height:360px\"][id=\"video-player\"]:upward(div:not([class]))","div[data-test-id=\"ad-carousel-container\"]"]

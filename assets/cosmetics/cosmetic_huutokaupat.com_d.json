@@ -1,0 +1,1 @@
+["div[data-test=\"entry-list-container\"] > article:not([data-test]):has(a[data-external=\"true\"][variant=\"primary\"])"]

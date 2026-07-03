@@ -1,0 +1,1 @@
+["nav[aria-label=\"Breadcrumb\"] + aside.w-full:has(input[type=\"email\"])"]

@@ -1,0 +1,1 @@
+["li.nav-item:has(> a:not([href*=\"leakedzone.com\"]))"]

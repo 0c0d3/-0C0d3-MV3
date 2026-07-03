@@ -1,0 +1,1 @@
+["main > section[class^=\"container\"]:has(> div.row > div[class^=\"col-\"] > div:contains(Рекомендуемые программы))"]

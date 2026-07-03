@@ -1,0 +1,1 @@
+["div[class^=\"postdetail_right_box__\"] > div[class^=\"PostReact_post_button_wrap__\"]:has(use[href$=\"#ico-share-hover\"])"]

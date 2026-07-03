@@ -1,0 +1,1 @@
+["div[class*=\"banner\"]:has(a[onclick*=\"gtag\"])","div[class^=\"pagebanner\"] > *:has([onclick*=\"gtag\"])","div[class*=\"bottom\"]:has([onclick*=\"gtag\"])","div[class*=\"-mask\"]","div[class*=\"pop\"]:has([onclick*=\"gtag\"])","div[class*=\"pop\"][class*=\"bg\"]","div[class*=\"float-\"]"]

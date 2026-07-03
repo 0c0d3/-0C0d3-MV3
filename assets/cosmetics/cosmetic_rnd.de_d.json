@@ -1,0 +1,1 @@
+["div[class^=\"SpacingWrapper\"]:has(> div[data-testid=\"newsletter-widget\"])","div[class^=\"Articlestyled__\"] div[data-testid=\"piano-container\"]"]

@@ -1,0 +1,1 @@
+[".news-detail__panel > div.news-detail__panel-col:has(> div.news-detail__panel-bottom > a[href^=\"https://dzen.ru/ivanovonews.ru?\"])",".popup-share__list > a:not([data-share=\"copy\"])"]

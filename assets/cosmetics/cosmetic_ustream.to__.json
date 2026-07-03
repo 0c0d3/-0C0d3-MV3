@@ -1,0 +1,1 @@
+[".container > p[style^=\"color:\"] + hr + div[onclick^=\"window.open(\"]"]

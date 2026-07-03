@@ -1,0 +1,1 @@
+["footer + div[class]:has(> div > div > a[href=\"/cookies\"])"]

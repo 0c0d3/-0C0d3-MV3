@@ -1,0 +1,1 @@
+[".search-items-container__tab-panel > .item-card-list > .item-card-list__item-card-wrapper:has(> a[href] > div[class] > div[class]:not([class^=\"_\"]) > div[class]:last-child:contains(/^Iklan$/))"]

@@ -1,0 +1,1 @@
+["article > div[class]:has(> div[class] > div[data-mpu])","article > div > div > div:has(> div > a[href^=\"https://www.facebook.com/sharer/\"])"]

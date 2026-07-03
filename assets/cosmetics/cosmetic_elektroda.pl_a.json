@@ -1,0 +1,1 @@
+["a[href]:not([href^=\"https://www.elektroda.pl/\"]) > picture > source[media^=\"(min-width:\"] + img"]

@@ -1,0 +1,1 @@
+["footer > div:has(> amp-ad)","footer > div:has(> amp-iframe[src^=\"https://m.mixadvert.com/\"])"]

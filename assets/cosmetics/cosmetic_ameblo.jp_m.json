@@ -1,0 +1,1 @@
+["main + div[class=\"\"] + aside[class^=\"_\"] > div[class^=\"_\"] > div[class^=\"_\"]:only-child:has(> div:not([class]):empty:only-child)","main > div > div.LazyLoad[style=\"height:80vw\"]","main + aside[class^=\"_\"] > div[class^=\"_\"]:only-child > div[class^=\"_\"]:only-child > div:only-child:upward(1)"]

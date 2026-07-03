@@ -1,0 +1,1 @@
+[".wrapper > div[class]:has(div[id^=\"suggestion\"])","#fhvids",".video-ntv-wrapper",".tag__item:has(> a[target=\"_blank\"][href])",".nopop",".cookies-policy-block",".content > [class$=\"wrapper\"] > section"]

@@ -1,0 +1,1 @@
+["div[class*=\"sticky\"][style*=\"opacity\"] > .absolute > .text-extrasmall","div[class*=\"sticky\"][style*=\"opacity\"] > .absolute > .items-center[style]:has(> button[data-state=\"closed\"])"]

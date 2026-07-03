@@ -1,0 +1,1 @@
+[".box-antenna","#container > .free-area:has(> #lite_link)","#container > .free-area:has(> div[id^=\"im-\"])","#container > .free-area:has(> script)",".advertisement-position","#lite_link",".free-area script[src^=\"https://js.ad-\"]:upward(.free-area)"]

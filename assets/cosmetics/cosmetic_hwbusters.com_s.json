@@ -1,0 +1,1 @@
+["section.widget:has(> div[data-hwbus-trackbid])","section.widget_block:has(> div[id^=\"hwbus-\"]:only-child:empty)"]

@@ -1,0 +1,1 @@
+[".menu-inner > li.menu-item:has(> a:is([href$=\"/camslink/\"],[href$=\"/datinglink/\"],[href$=\"/gameslink/\"]))","#gallery-container > div.grid-item.fr","#gallery-container > div.grid-item.info"]

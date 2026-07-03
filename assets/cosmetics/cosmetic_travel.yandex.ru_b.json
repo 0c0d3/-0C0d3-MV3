@@ -1,0 +1,1 @@
+["button:has(> div svg > path[d^=\"m12.31\"])","button[title=\"Поделиться\"]"]

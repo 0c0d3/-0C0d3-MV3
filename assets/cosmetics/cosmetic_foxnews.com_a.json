@@ -1,0 +1,1 @@
+["article[class|=\"article story\"]:has(.sponsored-by)"]

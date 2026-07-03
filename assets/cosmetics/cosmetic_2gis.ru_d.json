@@ -1,0 +1,1 @@
+["div[style=\"height:100%\"] > div > div > div:not([id]):has(> div > div > div[style=\"width:307px\"] button + a[href^=\"mailto:help@2gis.ru?subject=\"])","div[data-rack=\"true\"] > div[class^=\"_\"]:has(> div > div[class^=\"_\"] > div[class^=\"_\"] > a[href^=\"https://2gis.onelink.me/\"])"]

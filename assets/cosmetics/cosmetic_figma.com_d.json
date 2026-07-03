@@ -1,0 +1,1 @@
+["div[role=\"alertdialog\"][aria-label*=\"ookie\"]","div[data-testid=\"cookie-banner\"]","div[class^=\"meta_container--rightSide--\"] > [class^=\"social_links--\"]","div[class^=\"meta_container--rightSide--\"] > hr:has(+ [class^=\"social_links--\"])"]

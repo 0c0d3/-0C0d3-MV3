@@ -1,0 +1,1 @@
+["body > div:not([id]):not([class])[style*=\"fixed\"], body > div:not([id]):not([class])[style*=\"absolute\"]"]

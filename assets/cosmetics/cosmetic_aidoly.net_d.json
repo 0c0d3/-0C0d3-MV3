@@ -1,0 +1,1 @@
+["div[style^=\"padding-top: 10px\"]:has(> .ad:only-child)"]

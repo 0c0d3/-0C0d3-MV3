@@ -1,0 +1,1 @@
+[".popular-article-side ~ div[style^=\"text-align\"]:has(> a[href] > img[src*=\"images/bn/\"])"]

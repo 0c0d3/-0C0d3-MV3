@@ -1,0 +1,1 @@
+["aside[aria-label=\"advertisement\"]","a[aria-label=\"Get the Daily Briefing in your inbox\"]","aside[aria-label=\"Newsletter signup form\"]","article > div[aria-label] + div[class] > div[class]:has(> aside[aria-label=\"advertisement\"])"]

@@ -1,0 +1,1 @@
+["div[class^=\"headlinerss\"]","div.recommend:has(> div[class^=\"headlinerss\"])","div[class^=\"article-outer\"] > div.recommend:has(> div.ninja-recommend-block)"]

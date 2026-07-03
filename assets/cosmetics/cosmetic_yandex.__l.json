@@ -1,0 +1,1 @@
+["li[class*=\"_card\"]:has(a[href^=\"https://yandex.com/search/_crpd/\"])","li[class^=\"ya-share2\"][class$=\"vkontakte\"]","li[class^=\"ya-share2\"][class$=\"odnoklassniki\"]","li[class^=\"ya-share2\"][class$=\"facebook\"]","li[class^=\"ya-share2\"][class$=\"twitter\"]"]

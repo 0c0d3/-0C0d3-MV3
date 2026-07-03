@@ -1,0 +1,1 @@
+[".home-content > div:has(.title ~ a[href][rel=\"noindex, nofollow\"] img[src*=\"/images/download\"])",".container div[class]:not([id]) > div[class]:not([id]):has(> div.title ~ p.blue ~ a[href][rel=\"noindex, nofollow\"])"]

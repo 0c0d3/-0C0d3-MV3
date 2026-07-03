@@ -1,0 +1,1 @@
+["body > div[id]:has(> div[style] > a[href^=\"https://engine.fishki.net/reference?gid=\"])"]

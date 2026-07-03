@@ -1,0 +1,1 @@
+["footer[class^=\"_\"] > div[class^=\"_\"] > div[class^=\"_\"] > div[class^=\"_\"]:has(> p + form)"]

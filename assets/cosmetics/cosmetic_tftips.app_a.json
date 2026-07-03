@@ -1,0 +1,1 @@
+["aside > div.flex:has(> button[aria-label=\"Share on X\"])"]

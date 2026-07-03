@@ -1,0 +1,1 @@
+["div[data-area=\"article\"] section[data-banner]:has(> div.row > div[class] > a.article-advert-banner__link)"]

@@ -1,0 +1,1 @@
+["[class^=\"header__\"] > div[class] > [class] > a[target=\"_blank\"][href]",".tag__item:has(> a[target=\"_blank\"][href])",".nopop"]

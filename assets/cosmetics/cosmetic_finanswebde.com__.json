@@ -1,0 +1,1 @@
+[".container > div[style^=\"height:\"] > .alert-dismissible > a[type=\"cookie\"]:upward(1)",".app__content > div[style*=\"height:250px;text-align:center\"]"]

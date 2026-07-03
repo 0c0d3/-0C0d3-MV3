@@ -1,0 +1,1 @@
+["div[style*=\"display:\"]:has(> ins.adsbygoogle)","div[style*=\"display:\"]:has(> script + iframe[id][style^=\"width:300px\"])","div[style=\"padding:20px 0; text-align:center;\"]"]

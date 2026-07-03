@@ -1,0 +1,1 @@
+[".adunit:not(#widget_playlist)","[class^=\"publication_\"][class*=\"ad-\"]",".header-boost--promo",".article-sm__item--title",".article-sm__item--title ~ li > *:not(.js-comments):not(.js-print-publication-button):not(.article-sm__item--comments-count)",".article-social > .wykop",".article-social > .twitter"]

@@ -1,0 +1,1 @@
+["div[data-name] ~ div:has(> div:only-child > div[data-gtm=\"share\"])","div[data-gtm=\"share\"]"]

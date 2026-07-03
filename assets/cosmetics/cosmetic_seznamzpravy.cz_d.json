@@ -1,0 +1,1 @@
+["div[data-e2e=\"ogm-branding\"] > div:has(> div > div > div[data-e2e=\"mol-advert\"])","div[style^=\"max-width:\"][style*=\"970px;\"]","div[style^=\"max-width:\"][style*=\"300px;\"]","div[data-e2e=\"mol-advert\"]","div[data-dot=\"mol-social-share-buttons\"]"]

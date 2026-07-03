@@ -1,0 +1,1 @@
+["section.group + div > section.group","section:has(> svg:first-child + div:last-child > a[href^=\"/newsletters\"])"]

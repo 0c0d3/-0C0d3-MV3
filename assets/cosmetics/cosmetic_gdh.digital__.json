@@ -1,0 +1,1 @@
+[".publish-bar-sticky ~ div.w-full > div.my-4 > div.overflow-visible + div.flex + div:not([class]) > div.w-full",".border[class^=\"max-w-\"]:has(> .items-center > .flex-row > a[href^=\"https://play.google.com/\"])",".publish-bar-sticky > .gap-1 > div:is(.items-center, .relative):has(> button[data-state=\"closed\"])"]

@@ -1,0 +1,1 @@
+["img[onclick^='window.open'][onclick*='/print.php?']"]

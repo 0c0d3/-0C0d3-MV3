@@ -1,0 +1,1 @@
+["div[class^=\"draggable_\"] > div[class^=\"wrap_\"]:has(> div[class^=\"plot_\"] > a[href^=\"https://max.ru/\"])","div[class^=\"benefitsBlock_\"]","div[class^=\"sharing_\"]"]

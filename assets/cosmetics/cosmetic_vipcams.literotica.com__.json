@@ -1,0 +1,1 @@
+["#ModelList__container > div[style^=\"height:\"]:has(> div.ModelCard--package-banner-model)"]

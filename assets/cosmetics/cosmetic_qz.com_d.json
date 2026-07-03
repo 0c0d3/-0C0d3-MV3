@@ -1,0 +1,1 @@
+["div[class=\"hidden md:block\"]","div[class*=\":block\"]:has(> .ay-ad-slot)","div[class*=\"my-\"]:has(> .ay-ad-slot)","div[class^=\"sc-\"]:has(> div[class=\"ad-unit\"])","div[class^=\"sc-\"]:has(> div[is=\"bulbs-dfp\"])","div[class]:has(> div[id^=\"optidigital\"]:only-child)","div[class]:has(> div[class]:only-child > .ad-unit:only-child)"]

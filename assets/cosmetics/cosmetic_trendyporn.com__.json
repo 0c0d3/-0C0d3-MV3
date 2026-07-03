@@ -1,0 +1,1 @@
+[".container > div.row:has(> div.well h4:contains(LIVE MODELS))",".container > center:has(> div[style^=\"height:\"][style$=\"width:auto\"])"]

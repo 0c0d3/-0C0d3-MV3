@@ -1,0 +1,1 @@
+["ul[class^=\"_spi_release_\"] > li:not([class^=\"_spi_cnt_\"])"]

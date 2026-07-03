@@ -1,0 +1,1 @@
+[".video-player__container div[class^=\"Layout-\"]:has(> span[data-a-target=\"video-ad-label\"])"]

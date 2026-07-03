@@ -1,0 +1,1 @@
+["div[class^=\"c-sidebar__banners\"] a:not([href^=\"https://www.youtube.com\"]) > img"]

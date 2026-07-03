@@ -1,0 +1,1 @@
+["#cuvva-app-injection-site > div:has(> div button[data-testid=\"accept-cookies\"])"]

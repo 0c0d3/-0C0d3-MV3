@@ -1,0 +1,1 @@
+[".hidden-xs:has(> iframe[src^=\"https://www.facebook.com\"])"]

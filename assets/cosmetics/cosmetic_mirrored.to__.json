@@ -1,0 +1,1 @@
+[".centered > form[target^=\"_blank\"]",".dl-width .col-sm > form[action*=\"_out.php?\"][target=\"_blank\"]",".container div.row > div[class] > h4 ~ div.card.fluid:last-child"]

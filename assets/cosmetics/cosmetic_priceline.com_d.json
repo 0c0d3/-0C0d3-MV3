@@ -1,0 +1,1 @@
+["div[data-testid=\"HTL_NEW_LISTING_CARD_RESP\"]:has(a[aria-label*=\" Promoted\"])","div[id^=\"listing-\"]:has(span[class*=\"Promoted\"])"]

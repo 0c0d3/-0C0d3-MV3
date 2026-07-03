@@ -1,0 +1,1 @@
+["div[class^=\"game-day_ad-\"]","div[class^=\"open-web-ad_\"]","div[data-testid=\"ad-slot\"]","div[class^=\"article-body\"] span:has(> table td > strong:contains(WhatsApp))","div[class^=\"modal_\"]:has(> div[class^=\"modal_\"] > div[class^=\"store-button\"])"]

@@ -1,0 +1,1 @@
+["iframe[role=\"presentation\"][src*=\"ogs.google.\"][src*=\"widget/callout\"]","iframe[role=\"presentation\"][src*=\"ogs.google.\"][src*=\"widget/callout\"]:upward(div[style^=\"overflow: hidden; position: absolute; top: 0px; width: 370px;\"])"]

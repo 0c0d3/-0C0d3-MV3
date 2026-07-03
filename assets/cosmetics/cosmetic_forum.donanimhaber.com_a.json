@@ -1,0 +1,1 @@
+["article > div[style]:has(> div[style] > div.empower-ad)"]

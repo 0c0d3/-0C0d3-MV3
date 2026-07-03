@@ -1,0 +1,1 @@
+["body > div[style*=\"color:white\"], body > div:not([id]) > div[style*=\"color:white\"]"]

@@ -1,0 +1,1 @@
+[".contents_main_area > div.innerframe:has(iframe[id^=\"frm_rss_\"])"]

@@ -1,0 +1,1 @@
+["div[class*=\"CookieBanner\"]","div[class^=\"ArticleSidebar-\"][class$=\"_item\"]:has(> div[class^=\"shared-module-\"] > a[href=\"https://iranintl.com/newsletter\"])","div[class^=\"URLShareDialog-\"]"]

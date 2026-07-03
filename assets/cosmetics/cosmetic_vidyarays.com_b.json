@@ -1,0 +1,1 @@
+["body > center:has(> p:contains(Advertisement))"]

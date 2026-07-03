@@ -1,0 +1,1 @@
+[".container > div.row:has(> div.col-lg-12 > div.card-shadow > div.text-center > a[href^=\"https://play.google.com/store/apps/\"])"]

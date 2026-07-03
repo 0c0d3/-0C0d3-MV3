@@ -1,0 +1,1 @@
+[".v-tour > .v-step:has(> div.v-step__content > div > div > a[href=\"/login\"])"]

@@ -1,0 +1,1 @@
+["#container > div[style]:has(> iframe[src^=\"https://www.elog-ch.net/blogparts_iframe.php\"])"]

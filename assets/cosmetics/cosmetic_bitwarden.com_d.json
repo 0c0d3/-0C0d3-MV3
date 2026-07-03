@@ -1,0 +1,1 @@
+["div[class^=\"css\"] > div[class^=\"css\"]:has(> a[target=\"_blank\"][aria-label=\"Twitter\"])"]

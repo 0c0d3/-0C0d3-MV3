@@ -1,0 +1,1 @@
+[".kanren > dl:has(> dt > a[href*=\"://new\"][target=\"_blank\"])",".sns"]

@@ -1,0 +1,1 @@
+["[href*=\"bit.ly/\"]",".intl-ad",".promo--isad",".player > div[class]:not([class*=\"player\"]) > aside[class]:has(> div[class]:not(.embed) > iframe[name^=\"spot_id_\"])",".player > .player-hd + div[class] > aside[class]:has(> div[class] > script[src^=\"https://a.magsrv.com/\"])"]

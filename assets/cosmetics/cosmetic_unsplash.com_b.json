@@ -1,0 +1,1 @@
+["body > dialog[class^=\"styles-module_dialog__\"]","body > dialog:has(> a[href=\"/cookies#manage-consent\"])"]

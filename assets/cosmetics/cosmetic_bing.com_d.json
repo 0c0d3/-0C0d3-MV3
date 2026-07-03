@@ -1,0 +1,1 @@
+["div[aria-label$=\"ProductAds\"]","div[class=\"ins_exp tds\"]","div[class=\"ins_exp vsp\"]","div[id^=\"bnp.nid.\"][data-viewname=\"VerticalHeaderFlyout\"] > div[id^=\"b_vfly_\"] > div[id^=\"b_vfly_\"]:has(> a[href^=\"https://bingapp.microsoft.com/bing\"])","div[data-viewname=\"MobileDefaultBrowserRich\"]"]

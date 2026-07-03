@@ -1,0 +1,1 @@
+["ul[data-testid=\"list-item-ul\"] > div[class^=\"RelatedInline_\"]:has(> div[style] > div[class^=\"NewsletterSubscription_\"])"]

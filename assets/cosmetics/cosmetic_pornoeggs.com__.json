@@ -1,0 +1,1 @@
+[".col > .card-deck:has(> .card > .card-img > div[class^=\"ib-\"])"]

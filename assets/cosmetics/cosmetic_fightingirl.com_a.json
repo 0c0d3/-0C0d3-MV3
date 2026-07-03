@@ -1,0 +1,1 @@
+["article > div.execphpwidget:has(> div[style] > div[class^=\"click_fit__\"] > script[src])"]

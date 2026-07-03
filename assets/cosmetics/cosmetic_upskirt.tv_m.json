@@ -1,0 +1,1 @@
+["main > div.container > aside:has(> div[style^=\"min-height:\"])"]

@@ -1,0 +1,1 @@
+[".tabs li:has(> button[data-id=\"ad\"])",".data_table > div.data_item a:has(> span)",".data_table > div.data_item > div > div:has(> i + span)","#main-menu > nav > ul > li > a[target=\"_blank\"]",".add-top",".data_table a[target=\"_blank\"] > i.ip-icon-warning",".ad-test-vpn",".mainadv",".sidebar-adv",".data_table > div.data_item a:contains(/Уточнит|Исправить|Make it plain/)"]

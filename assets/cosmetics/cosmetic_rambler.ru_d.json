@@ -1,0 +1,1 @@
+["div[data-marker-observer]","div[data-blocks=\"content_info\"] + div[class^=\"container-\"]","div[class^=\"container-\"]:has(> amp-embed[data-container*=\"ScriptRoot\"])","div[class^=\"bannerContainer\"]","div[style=\"height: 250px; margin-top: 20px;\"]","div[style=\"height: 250px; margin-bottom: 20px;\"]","div[style=\"height: 250px; margin-bottom: 15px;\"]"]

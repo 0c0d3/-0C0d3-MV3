@@ -1,0 +1,1 @@
+["section[data-test=\"report-news\"]","section[class]:has(> div[class^=\"links_\"] > a[href=\"https://vk.com/fontanka?from=news_share\"])","section[class^=\"sliderWrap_\"]:has(> div[class^=\"slider_\"] > div[class^=\"wrap_\"] > div[class^=\"companyNewsItem_\"])","section[itemprop=\"articleBody\"] span:has(> img[alt=\"Поделиться\"])"]

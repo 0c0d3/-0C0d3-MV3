@@ -1,0 +1,1 @@
+["div[class^=\"js-rac-\"][data-zone-id]:has(> script[src^=\"//a.ads.\"])","div[data-type=\"share\"]"]

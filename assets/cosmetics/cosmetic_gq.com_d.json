@@ -1,0 +1,1 @@
+["div[class^=\"MessageBannerWrapper-\"]","div[data-testid=\"message-banner\"]","div[data-testid=\"RowWrapper\"]:has(> .consumer-marketing-unit)","div[class^=\"InContentBarrierFloatingBar\"]:has(> a[href^=\"https://www.gq.com/v2/offers/\"])","div[class^=\"PersistentBottomWrapper\"]"]

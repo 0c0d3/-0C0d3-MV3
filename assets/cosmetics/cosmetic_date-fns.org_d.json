@@ -1,0 +1,1 @@
+["div:has(> div > div > form[action*=\"list-manage.com/subscribe/\"])"]

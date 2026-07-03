@@ -1,0 +1,1 @@
+["#mcont > div.items:has(> div.item-card > div[id^=\"afr\"])"]

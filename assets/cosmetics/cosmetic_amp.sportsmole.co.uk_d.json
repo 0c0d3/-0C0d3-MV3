@@ -1,0 +1,1 @@
+["div[class^=\"std_bk\"]:has(span amp-ad)","div[class^=\"std_bk\"]:has(> div[id^=\"advert\"])"]

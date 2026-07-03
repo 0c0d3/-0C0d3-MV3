@@ -1,0 +1,1 @@
+["#content div.col:has(> div[style] > form[action=\"/subscribe.php\"])"]

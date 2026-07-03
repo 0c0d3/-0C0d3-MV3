@@ -1,0 +1,1 @@
+["div[class^=\"sc-\"]:has(> a[href^=\"https://dodopizza.onelink.me/\"])"]

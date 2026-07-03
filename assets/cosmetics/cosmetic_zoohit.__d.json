@@ -1,0 +1,1 @@
+["div[class^=\"SearchSuggestion-module_suggestionItem_\"]:has(.z-sponsored-tag)","div[data-zta=\"product-card\"]:has(.z-sponsored-tag)"]

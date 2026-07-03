@@ -1,0 +1,1 @@
+["footer > div:has(> div > div[data-testid=\"kp-ui.amediateka-footer-promotion.subscription-title\"])"]

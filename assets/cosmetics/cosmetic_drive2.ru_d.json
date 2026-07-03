@@ -1,0 +1,1 @@
+["div[itemscope] > div[class]:has(> div.o-group > button[data-action=\"share.share\"])","div[data-track]:has(> div[id] > span:empty)"]

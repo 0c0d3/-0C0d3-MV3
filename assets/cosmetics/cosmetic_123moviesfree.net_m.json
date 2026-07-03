@@ -1,0 +1,1 @@
+["main > div.card:has(> div.card-body:contains(Ads can be a pain))"]

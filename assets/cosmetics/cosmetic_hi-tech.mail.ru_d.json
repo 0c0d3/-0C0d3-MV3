@@ -1,0 +1,1 @@
+["div[data-logger-parent=\"top\"] > div[style*=\"height\"][style*=\"40px\"]:has(> div[data-rb-slot])","div[data-logger-parent=\"top\"] > div[data-rb-slot]:empty","div[data-logger-parent=\"top\"] > div[data-rb-slot]::before","div[id^=\"trg-fs-wrapper\"]"]

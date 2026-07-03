@@ -1,0 +1,1 @@
+["article > div[class*=\" \"]:has(> .lngtd-dynamic-inarticle)","aside > div[class*=\" \"]:has(> div[class*=\" \"] > .lngtd-dynamic-rr)"]

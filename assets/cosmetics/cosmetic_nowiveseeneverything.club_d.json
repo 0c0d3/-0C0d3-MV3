@@ -1,0 +1,1 @@
+["div[data-test-id=\"article-content\"] > div[class*=\" \"]:has(> aside[style*=\"min-height:\"]:only-child > div[class]:contains(/^Advertisement$/))"]

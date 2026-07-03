@@ -1,0 +1,1 @@
+[".cookies:not(html, body)",".file-details-item:has(> .file-details-item-text > .socials)"]

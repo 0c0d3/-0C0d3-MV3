@@ -1,0 +1,1 @@
+["section > div.flex:has(> div[title^=\"share to\"])"]

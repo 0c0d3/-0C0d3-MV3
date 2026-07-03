@@ -1,0 +1,1 @@
+["#react-app > footer > div[class^=\"sc-\"]:has(> .cookie-policy-button)","#react-app > div[class]:has(> .cookie-policy-button)"]

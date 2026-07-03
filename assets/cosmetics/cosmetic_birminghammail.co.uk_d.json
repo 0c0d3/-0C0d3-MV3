@@ -1,0 +1,1 @@
+["div[data-testid^=\"commercial-\"]","div[class^=\"sc-\"]:has(> span[aria-live=\"polite\"] > .react-loading-skeleton)","div[data-testid^=\"ncu-within-group-\"]","div[class^=\"Article_below-article-commercial-box\"]","div[data-testid^=\"non-commercial-\"]","div[data-testid=\"newsletter-signup-inline\"]","div[class^=\"ShareBar_sharebar-inner-wrapper__\"]"]

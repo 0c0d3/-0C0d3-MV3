@@ -1,0 +1,1 @@
+["div[type=\"authors\"] div[class]:has(> button[data-testid=\"ButtonShare\"])"]

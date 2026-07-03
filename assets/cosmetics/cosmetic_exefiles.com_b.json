@@ -1,0 +1,1 @@
+["body > div.row:has(> div.large-12 a[href*=\"/recommended/winthruster/\"])"]

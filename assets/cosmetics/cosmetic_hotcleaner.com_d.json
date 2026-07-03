@@ -1,0 +1,1 @@
+["div[class]:has(> div:not([class]) > ins.adsbygoogle)"]

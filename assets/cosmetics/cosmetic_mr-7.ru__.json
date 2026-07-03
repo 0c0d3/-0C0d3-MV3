@@ -1,0 +1,1 @@
+["#article-body div:not([class]) > div[class]:has(span[class] > img[alt=\"share\"])"]

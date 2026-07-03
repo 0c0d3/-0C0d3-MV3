@@ -1,0 +1,1 @@
+["main > div[data-testid=\"grid-item\"]:has(> div[class^=\"sc-\"] > form[name=\"newsletter-form\"])"]

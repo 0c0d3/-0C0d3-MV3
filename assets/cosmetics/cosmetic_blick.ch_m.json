@@ -1,0 +1,1 @@
+["main > div~ div[class] button[aria-label]:not([aria-label=\"copy\"])"]

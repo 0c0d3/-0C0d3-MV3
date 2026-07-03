@@ -1,0 +1,1 @@
+["#image-container:has(> a#image-link[href^=\"https://bit.ly/\"])",".alert.info",".content.right > center:has(input.MyButton)"]

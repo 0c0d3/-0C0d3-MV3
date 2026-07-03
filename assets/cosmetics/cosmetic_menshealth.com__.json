@@ -1,0 +1,1 @@
+[".subscribe","#main-content > section:not([id]):has(> div[class^=\"css-\"] form[novalidate] label#Email-label)",".sharebar > li:not(.email):not(.subscribe)"]

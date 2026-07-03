@@ -1,0 +1,1 @@
+["div[class^=\"advert-placeholder\"]","div[class^=\"floating-video-player_container\"]:has(> div#primisPlayer)","div[class^=\"article-header_shareLink\"]","div[class*=\"-observer_bottomAd\"]"]

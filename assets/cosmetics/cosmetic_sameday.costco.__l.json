@@ -1,0 +1,1 @@
+["li:has([aria-label=\"Product\"]):has([data-fp-eligible]):not(:has(h2))"]

@@ -1,0 +1,1 @@
+["body > div[id][class]:not(#math_parentdiv):not(#pagina)"]

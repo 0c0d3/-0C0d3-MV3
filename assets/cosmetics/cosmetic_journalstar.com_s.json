@@ -1,0 +1,1 @@
+["section.block:has(> div.clearfix > div h3:contains(/Print|ads/))"]

@@ -1,0 +1,1 @@
+["main >  div[style][class^=\"css-\"]:has(> div:not([class]) > div.vm-placement)","main > .text-center > a[href^=\"https://op.gg/desktop/download\"][target=\"_blank\"]","main > div[class^=\"flex flex-col gap-\"] > section[class^=\"w-full md:overflow-hidden md:rounded flex-col\"]"]

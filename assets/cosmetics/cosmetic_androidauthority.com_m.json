@@ -1,0 +1,1 @@
+["main div[class]:has(> form:only-child)","main button[type=\"button\"]:has(+ div[class] > .viafoura > div[data-widget=\"sharebar\"])"]

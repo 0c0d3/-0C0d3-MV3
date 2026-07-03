@@ -1,0 +1,1 @@
+["div[class*=\"is-desktop-ads-\"]","div[class*=\"_right_\"]:has(> .ad-removal-info)","div[class^=\"col\"] > div[style^=\"min-height\"]:has(> div.spnsr)","div:has(> div[style=\"min-height:327px;\"]:only-child)"]

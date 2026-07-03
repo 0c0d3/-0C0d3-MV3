@@ -1,0 +1,1 @@
+["div[class^=\"css-\"] > div[class^=\"css-\"]:has(> div[class^=\"css-\"] > h2 > span:contains(Follow Us))"]

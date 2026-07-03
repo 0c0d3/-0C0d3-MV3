@@ -1,0 +1,1 @@
+["div[id^=\"div-articleOOP\"] ~ div:has(div[class*=\"imp-adSlot\"])","div[id^=\"row\"] > .MuiGrid-root > .MuiGrid-item:has(> .MuiBox-root > div[style*=\"bottom\"] div[class*=\"imp-adSlot\"])","div[style*=\"block\"] .MuiBox-root:not([data-testid=\"heading\"]):has(> div[style]:only-child)"]

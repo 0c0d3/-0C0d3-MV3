@@ -1,0 +1,1 @@
+["body > div[jsowner]:has(> div > div[role=\"dialog\"] a[href^=\"https://policies.google.com/privacy\"])"]

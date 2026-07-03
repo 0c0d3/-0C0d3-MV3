@@ -1,0 +1,1 @@
+["video[autoplay][src*=\"blob:\" i]","video[autoplay][src*=\"data:\" i]"]

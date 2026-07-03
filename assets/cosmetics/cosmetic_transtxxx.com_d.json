@@ -1,0 +1,1 @@
+["div[class^=\"video-conten\"] > div:has(> div > a[href=\"/signin/\"])","div[class^=\"video-conten\"] > div[class]:first-child > div[class]:first-child > div[class]:first-child:has(> div[class] > div[id][class]:empty)","div[class^=\"links\"] > [href][target=\"_blank\"]"]

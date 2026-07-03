@@ -1,0 +1,1 @@
+["li[class*=\"-ShareElement\"] > a[class*=\"-ShareLink-\"]:not([class*=\"-ShareLink-PocketShare\"])"]

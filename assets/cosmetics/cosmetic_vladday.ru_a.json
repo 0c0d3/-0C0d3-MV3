@@ -1,0 +1,1 @@
+["article div.my-3:has(> div a[href][target=\"_blank\"])"]

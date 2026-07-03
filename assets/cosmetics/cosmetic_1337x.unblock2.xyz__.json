@@ -1,0 +1,1 @@
+[".page-content > .box-info:has(> .box-info-heading > div[onclick^=\"location.href=\"][style])"]

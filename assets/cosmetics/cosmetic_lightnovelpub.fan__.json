@@ -1,0 +1,1 @@
+[".comment-list > div[class]:has(> *:is([data-stpd], [id^=\"gpt_slot_\"]))"]

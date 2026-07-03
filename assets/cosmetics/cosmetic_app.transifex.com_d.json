@@ -1,0 +1,1 @@
+["div[class^=\"u-padding-\"]:has(> div.js-social-share)"]

@@ -1,0 +1,1 @@
+["div[class*=\"lang__card_frame\"]:has(> div[class*=\"lang__card_inner\"] > div[class^=\"downloads_wrapper\"])","div[class^=\"share\"]"]

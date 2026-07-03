@@ -1,0 +1,1 @@
+["[href*=\"bit.ly/\"]",".container > .row > .col-lg-12 > .card:has(> .d-flex > .flex-fill > .item-card-desc > span.text-nowrap:contains(/^Sponsor$/))"]

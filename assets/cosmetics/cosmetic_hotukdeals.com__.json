@@ -1,0 +1,1 @@
+[".listLayout-box:has(> .bRad--a)","#softMessages-list",".softMessages-item","#cmpbox",".js-threadList > div:not([class]):not([id]):has(> .box--contents > div[class] > .slot--bg)"]

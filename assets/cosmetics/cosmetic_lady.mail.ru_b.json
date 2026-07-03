@@ -1,0 +1,1 @@
+["body > div[class][style]:has(> div[class] button[data-logger=\"PushSubscribeButton\"])"]

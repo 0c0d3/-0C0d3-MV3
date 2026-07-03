@@ -1,0 +1,1 @@
+["div[class$=\"_ads-container\"]","div[class^=\"_structured-body_\"] > div[class^=\"_\"]:has(> div > span)","div[class^=\"_shared-socia-buttons\"]","div[class^=\"SharedSocialButtons_\"]"]

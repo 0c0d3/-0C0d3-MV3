@@ -1,0 +1,1 @@
+["article > .pc-display-contents:has(> div[class*=\"subscribeDialog\"])","article > div > div.pencraft:has(> div.pencraft > div.subscribe-widget)","a[href*=\"action=share\"]"]

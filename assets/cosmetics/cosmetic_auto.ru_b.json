@@ -1,0 +1,1 @@
+["body > div:has(> div.Modal > div.Modal__container > div[class*=\"AdminsMarketingPopup__wrapper\"])","button[class*=\"LogbookCardActions__share\"]","button[class*=\"CatalogActionButtons__shareBtn-\"]","button[class^=\"PostNavigationShareButton-\"]"]

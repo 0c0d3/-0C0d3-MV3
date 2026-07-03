@@ -1,0 +1,1 @@
+["header > div[class^=\"sc-\"] > div[class^=\"sc-\"] > div[class^=\"sc-\"]:has(> div[class^=\"sc-\"]:first-child:contains(/^Support$/))"]

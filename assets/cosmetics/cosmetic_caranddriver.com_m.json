@@ -1,0 +1,1 @@
+["main > section:not([data-lazy-id]):has(> div[class^=\"css-\"] > div.ad-disclaimer)"]

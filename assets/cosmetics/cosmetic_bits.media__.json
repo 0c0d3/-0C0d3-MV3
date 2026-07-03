@@ -1,0 +1,1 @@
+[".article-page > div:has(> p > strong > a[href^=\"https://t.me/\"])",".subscribe-form-news"]

@@ -1,0 +1,1 @@
+["body div.container-fluid:has(> div.container div.newsletter-info)"]

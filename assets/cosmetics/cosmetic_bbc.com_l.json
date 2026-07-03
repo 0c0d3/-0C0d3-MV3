@@ -1,0 +1,1 @@
+["li[class*=\"-ListItem\"]:has(div.dotcom-ad)","li:has(> div > a[href^=\"https://www.bbc.com/\"][href*=\"/send/\"])"]

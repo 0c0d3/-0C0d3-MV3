@@ -1,0 +1,1 @@
+["div[class*=\" \"]:not(.wp-image-placeholder):has(> img[src^=\"https://v.wpimg.pl/\"]:first-child + div:last-child:empty:not(.wp-badge-wrapper))"]

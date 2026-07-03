@@ -1,0 +1,1 @@
+["body > .header__ele:has(> .header__toast:contains(VIP))"]

@@ -1,0 +1,1 @@
+["body > div.notifications-placeholder:has(#localNotice a[href^=\"/wiki/Special:\"])"]

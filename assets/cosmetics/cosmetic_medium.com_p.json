@@ -1,0 +1,1 @@
+["p + div:has(> div > span > div > div > input[placeholder=\"Enter your email\"])"]

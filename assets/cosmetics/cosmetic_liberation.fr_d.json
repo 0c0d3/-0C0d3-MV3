@@ -1,0 +1,1 @@
+["div[class] > div[class]:has(> button[aria-label^=\"Partagez\"])"]

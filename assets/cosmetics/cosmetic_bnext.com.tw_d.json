@@ -1,0 +1,1 @@
+["div[x-data=\"social_share\"] > div.flex:has(> span[\\@click^=\"toShare\"])","div[x-data=\"social_share\"] > span[\\@click^=\"toShare\"]"]

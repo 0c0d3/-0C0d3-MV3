@@ -1,0 +1,1 @@
+["body > div[class][style^=\"opacity:\"]:has(> div div[id^=\"ts_ad_native_pop\"])"]

@@ -1,0 +1,1 @@
+[".frame:has(> script[src$=\"/blogroll.js\"]) + br",".frame > script[src$=\"/blogroll.js\"]:upward(1)",".page-title:contains(/話題の|ピックアップ/)",".topWrap1Frame > div.frame > script[src$=\"/blogroll.js\"]:upward(2)"]

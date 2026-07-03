@@ -1,0 +1,1 @@
+["button[class*=\"like-button_likeButton\"] ~ div[class^=\"divider_div\"]"]

@@ -1,0 +1,1 @@
+["#main_contents > center > a:not([href^=\"https://deneblog.jp\"]):not([href^=\"/blog-entry-\"]):not([href*=\"fc2.com\"]) > img",".permanent_area > a:not([href^=\"https://deneblog.jp\"]):not([href^=\"/blog-entry-\"]):not([href*=\"fc2.com\"]) > img"]

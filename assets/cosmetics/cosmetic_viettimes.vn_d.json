@@ -1,0 +1,1 @@
+["div[class^=\"social\"] > a[class^=\"button\"]:not([class^=\"button-copy\"]):not([class^=\"button-textsize\"])"]

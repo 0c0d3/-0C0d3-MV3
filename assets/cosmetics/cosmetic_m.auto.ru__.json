@@ -1,0 +1,1 @@
+[".commercial-listing > div.commercial-listing-item-wrapper > div[id]:not([class*=\"Listing\"]):not([class*=\"item\"])",".content > div.index.i-bem > div.section:has(> div > a[href^=\"https://an.yandex.ru/\"])",".content > div.card > div[class*=\"_type_card\"]:not([data-bem]):has(> div > div[class$=\"__badge\"]:contains(/^Реклама/))"]

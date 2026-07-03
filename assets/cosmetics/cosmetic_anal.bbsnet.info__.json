@@ -1,0 +1,1 @@
+["#lcBox > div.aside:has(> div.asdr > div.siteshokai)","#lcBox > h2.colorh2:has(+ div.mainBack > p > a.btn-square-soft2[href*=\"/go.php?\"])","#lcBox > h2:has(+ p > a.btn-square-soft[href^=\"https://ac.cross-system.com\"])","#lcBox p:has(> a[class^=\"btn-square\"][target=\"_blank\"])"]

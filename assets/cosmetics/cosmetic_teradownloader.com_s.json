@@ -1,0 +1,1 @@
+["section > section:has(> div > a[href*=\"?id=com.parrot.downloader\"])","section > div:has(> h2 + div .share-btn)"]

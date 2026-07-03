@@ -1,0 +1,1 @@
+["div[id^=\"wtg_\"]","div[class*=\" \"]:has(> img[src^=\"/staticfiles/wm-placeholder.png\"]:first-child + div[class*=\" \"] + script:last-child)"]

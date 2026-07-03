@@ -1,0 +1,1 @@
+["div[style^=\"display: flex;\"] > div[class^=\"css-\"]:has(> div[class^=\"css-\"] > div.wrapper > div.close-icon)"]

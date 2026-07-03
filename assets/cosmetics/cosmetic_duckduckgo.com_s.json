@@ -1,0 +1,1 @@
+["section > div[class]:has(button[data-testid=\"ad-badge-ad-tooltip-products\"])","section[class^=\"mobile-badge-banner_\"]","section[class^=\"homepage-cta-section_\"]"]

@@ -1,0 +1,1 @@
+["main div[data-pendo-guide] button:has(> div[class^=\"sc-\"] > div > svg[data-tag=\"IconShare\"])"]

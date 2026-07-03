@@ -1,0 +1,1 @@
+["div[type=\"content_ignite_advert\"]","div[class]:has(> div[id^=\"ci_ad\"])","div[class]:has(> div[class^=\"ci-ad\"])","div[element=\"drupal-block-newsletter-block\"]","div[element=\"drupal-block-follow-us-block\"]","div[element=\"drupal-block-basic\"] > a[data-entity-substitution]"]

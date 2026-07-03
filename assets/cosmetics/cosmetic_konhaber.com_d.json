@@ -1,0 +1,1 @@
+["div.flex:has(> a#share-twitter)","div.flex:has(> button#share-facebook)"]

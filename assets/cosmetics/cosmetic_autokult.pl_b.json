@@ -1,0 +1,1 @@
+["body > div[id] > div[class]:empty","body > div[class^=\"_\"]> a[href][target=\"_blank\"]:only-child > div[style^=\"position:\"][style*=\"background-image: url\"]"]

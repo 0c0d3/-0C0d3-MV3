@@ -1,0 +1,1 @@
+[".my-2:has(> div.border-top > div.bg-white:contains(partners videos))"]

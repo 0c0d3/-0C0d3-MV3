@@ -1,0 +1,1 @@
+[".notify-messages-popups",":matches-path(/^/$/) .gridContainer > div[class*=\"grid\"]:has(> section[class^=\"baseBlock_\"] > a[href]:contains(/^(Новости компаний|Фонтанка PRO)$/))",".gridFullMobile > div:has(div.flickity-enabled a[href*=\"/?erid=\"])","#onesignal-promt-target div[class]:has(> div[class] >#adv_mob_hb-top)"]

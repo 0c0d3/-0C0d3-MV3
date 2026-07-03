@@ -1,0 +1,1 @@
+["ul > li:has(> a[class*=\"rticle_ad\"])"]

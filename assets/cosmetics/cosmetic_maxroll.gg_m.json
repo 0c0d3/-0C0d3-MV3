@@ -1,0 +1,1 @@
+["main div.mt-2:has(> div.flex > span[title^=\"Share\"])"]

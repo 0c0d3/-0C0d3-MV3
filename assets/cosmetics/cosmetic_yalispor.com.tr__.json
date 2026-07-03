@@ -1,0 +1,1 @@
+[".sidebar > div.widget:has(> form[data-ajaxform=\"true\"])"]

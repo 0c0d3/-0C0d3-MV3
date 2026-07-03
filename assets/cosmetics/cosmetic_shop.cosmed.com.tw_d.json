@@ -1,0 +1,1 @@
+["div:has(> div:first-child > p:first-child > a[href^=\"//shop.cosmed.com.tw/MyAccount/Privacy\"])"]

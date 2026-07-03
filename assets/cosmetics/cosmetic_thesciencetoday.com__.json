@@ -1,0 +1,1 @@
+["#primary > div[style]:has(> div.container > iframe[src=\"/vastad\"])"]

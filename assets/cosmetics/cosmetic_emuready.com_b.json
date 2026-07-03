@@ -1,0 +1,1 @@
+["body > div.fixed.inset-0:has(button[aria-label=\"Close cookie banner\"])"]

@@ -1,0 +1,1 @@
+["header ~ div[class^=\"modal_\"]:has(div[class^=\"modal_modalContent\"] > div[class^=\"popup-banner_popupBanner\"])"]

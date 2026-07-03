@@ -1,0 +1,1 @@
+["body > div[class^=\"NewModal_\"]:has(> div > div[class*=\"CookiesConsentPopUp_\"])"]

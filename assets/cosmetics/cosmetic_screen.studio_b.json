@@ -1,0 +1,1 @@
+["body > div[class]:has(> div[style] a[href=\"/privacy\"])"]

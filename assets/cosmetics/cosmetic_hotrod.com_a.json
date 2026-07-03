@@ -1,0 +1,1 @@
+["article > .grid[data-ids=\"LayoutGrid\"] + div:has(> div.max-lg\\:hidden > div.items-center > div[data-ad])"]

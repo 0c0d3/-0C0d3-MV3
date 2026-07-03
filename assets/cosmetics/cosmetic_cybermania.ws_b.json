@@ -1,0 +1,1 @@
+["body > style + div[id][class*=\" \"]","body > div[id][style]:not(#topside, #content)"]

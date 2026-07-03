@@ -1,0 +1,1 @@
+["div[data-ti=\"disclaimer_wrapper\"]","div[data-ti=\"banner\"]","div[data-kind=\"grid-col\"] > div[class^=\"view__wrapper\"]:has(> div[data-ti=\"email_subscribe\"])","div[data-ti=\"mobile_app_banner\"]","div[class^=\"mainLayoutContainer_\"] > div[class^=\"dBlock_\"]:has(> a[href=\"https://tutu.onelink.me/CCCT/vboktiiu\"])"]

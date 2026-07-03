@@ -1,0 +1,1 @@
+["li[class^=\"sBtn_\"]:not(.sBtn_reply)"]

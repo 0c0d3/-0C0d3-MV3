@@ -1,0 +1,1 @@
+["div:has(> div[id^=\"hrm-banner-shotgun\"])","div:has(> div > div[class^=\"Carousel_wrapper\"]:contains(Promoted))","div:has(> div > div[class^=\"ModuleSet_moduleSetContainer\"]:contains(Promoted))"]

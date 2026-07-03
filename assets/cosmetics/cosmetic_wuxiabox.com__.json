@@ -1,0 +1,1 @@
+[".chapter-content > div[align=\"center\"] > div[class*=\" \"]:has(> div[id^=\"pf-\"])"]

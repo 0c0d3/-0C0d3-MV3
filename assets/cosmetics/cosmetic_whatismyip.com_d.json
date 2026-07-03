@@ -1,0 +1,1 @@
+["div[data-ip-lookup-wrapper] > div.hidden:has(> .ip-leaderboard-ad)"]

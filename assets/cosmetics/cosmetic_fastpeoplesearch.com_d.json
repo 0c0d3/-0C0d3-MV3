@@ -1,0 +1,1 @@
+["div[id]:has(> div[class^=\"ad-widget-\"])","div[style]:has(> div[class^=\"ad-widget-\"])"]

@@ -1,0 +1,1 @@
+[".grid > div.gall_el:has(> div > div[data-cl-spot])"]

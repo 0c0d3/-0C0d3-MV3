@@ -1,0 +1,1 @@
+["main h2 ~ div:not([class*=\"#email\"]):has(button[aria-label=\"Download the Claude app\"])"]

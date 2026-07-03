@@ -1,0 +1,1 @@
+["main > div[class] > aside[class]:has(> div[class] > a[href^=\"https://rcv.ixd.dmm.com/api/surl?\"])"]

@@ -1,0 +1,1 @@
+["ul[data-results-grid-container] li:has([id^=\"ad-listing-title-\"])"]

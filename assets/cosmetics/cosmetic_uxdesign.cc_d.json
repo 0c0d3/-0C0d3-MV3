@@ -1,0 +1,1 @@
+["div:has(div[role='alert'] > a[href^=\"https://policy.medium.com/medium-privacy-policy-\"])","div[data-action-scope].streamItem--section:has(div[data-action=\"open-promo-link\"])","div[aria-describedby=\"postFooterSocialMenu\"]"]

@@ -1,0 +1,1 @@
+["body div[data-testid=\"text-html\"]:has(> div.showTemplate > div.pn-ribbon)"]

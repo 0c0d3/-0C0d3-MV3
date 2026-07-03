@@ -1,0 +1,1 @@
+["li.teaserModul:has(> div > .item > .textFrame > .articleInfo > .autorName:contains(Anzeige))"]

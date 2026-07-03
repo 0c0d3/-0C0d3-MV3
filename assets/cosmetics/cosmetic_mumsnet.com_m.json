@@ -1,0 +1,1 @@
+["main > div.relative.mx-auto > div.hidden:has(> div#primis-video-desktop)","main > div.relative.mx-auto > div.bg-white:has(> div[data-nativeslot])"]

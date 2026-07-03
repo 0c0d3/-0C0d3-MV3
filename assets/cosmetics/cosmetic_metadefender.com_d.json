@@ -1,0 +1,1 @@
+["div[data-testid=\"banner\"]:has(a[href=\"https://www.opswat.com/legal/cookies-policy\"])"]

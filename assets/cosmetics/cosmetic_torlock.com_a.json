@@ -1,0 +1,1 @@
+["article > .table-responsive:has(> table > tbody > tr > td > div[style] > a[rel]:not([href*=\"torlock.com/\"],[href^=\"/\"]))","article > table.table-condensed + div[class] > div.row a.extneed","article > table:has(> tbody > tr > td > div.warn)"]

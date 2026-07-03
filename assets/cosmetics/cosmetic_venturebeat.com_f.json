@@ -1,0 +1,1 @@
+["figure > div.flex:has(> div.text-ink-contrast > button[aria-label^=\"Share\"])"]

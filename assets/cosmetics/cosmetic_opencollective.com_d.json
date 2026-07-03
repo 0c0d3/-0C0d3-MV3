@@ -1,0 +1,1 @@
+["div:not([class]):has(> p ~ div > a[title=\"Twitter\"])"]

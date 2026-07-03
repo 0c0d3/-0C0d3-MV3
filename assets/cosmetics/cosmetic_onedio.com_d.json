@@ -1,0 +1,1 @@
+["div[class^=\"sm:\"] > div.bg-white:has(> div > div#mansetAlti-container)"]

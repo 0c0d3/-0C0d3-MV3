@@ -1,0 +1,1 @@
+["article > [class] > [class^=\"css\"]:has([data-ad=\"true\"])","article form[novalidate]","aside[class^=\"css-\"]:has(> div[class] > div[class] > div#mlb1__slot)"]

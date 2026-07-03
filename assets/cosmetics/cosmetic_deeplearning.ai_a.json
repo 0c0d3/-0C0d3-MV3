@@ -1,0 +1,1 @@
+["aside.flex-col > div.relative:has(> span + a[href^=\"https://www.deeplearning.ai/resources/\"])"]

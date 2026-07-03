@@ -1,0 +1,1 @@
+["div[class^=\"gpb_internet_bank\"] > div[role=\"alert\"]:has( > div > p > a[href=\"https://www.gazprombank.ru/security/#basic-2955731\"])"]

@@ -1,0 +1,1 @@
+["ion-app ~ div[class] > div[class] > div[class]:has(> h2:contains(Gestion des cookies))","ion-app ~ div"]

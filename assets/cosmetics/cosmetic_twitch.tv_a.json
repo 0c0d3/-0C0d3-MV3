@@ -1,0 +1,1 @@
+["a[href^=\"https://ya.cc/\"]","a[class^=\"ScCoreLink-\"][target=\"_blank\"]:has(> div > button[class^=\"ScInteractableBase\"])","a[href^=\"https://www.reddit.com/submit\"][target=\"_blank\"] + div[role=\"separator\"]"]

@@ -1,0 +1,1 @@
+["amp-list:has(> div.i-amphtml-replaced-content:empty:last-child)","amp-list:has(> div.i-amphtml-replaced-content:last-child > div[role=\"listitem\"]:only-child:empty)"]

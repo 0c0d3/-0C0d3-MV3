@@ -1,0 +1,1 @@
+["span > section:has(> div > h5:contains(/^Advertisement$/))"]

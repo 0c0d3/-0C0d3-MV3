@@ -1,0 +1,1 @@
+["style + div[data-mcpr][style^=\"margin-bottom:\"]:has(div[data-async-type=\"folsrch\"])","style + div[data-mcpr][style^=\"margin-bottom:\"] div[data-async-type=\"folsrch\"]"]

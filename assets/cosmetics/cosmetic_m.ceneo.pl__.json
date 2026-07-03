@@ -1,0 +1,1 @@
+[".page-content .js_product-list.promoted-items",".page-content .js_recommendations-container:has(> div > header > span > span:contains(/^Reklama$/))",".page-content .js_recommendations-container:has(> div > header > span > span:contains(/^Reklama$/)) + .js_analytics-promotedItems[data-event-category=\"adbox\"]"]

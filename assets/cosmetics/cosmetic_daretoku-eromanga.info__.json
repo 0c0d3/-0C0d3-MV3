@@ -1,0 +1,1 @@
+["#container > div.widget_text.side_col:not(:last-child)",".osusumeba","#header ~ div.side_col:has(> div.textwidget > div.center)"]

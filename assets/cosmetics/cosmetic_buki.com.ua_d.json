@@ -1,0 +1,1 @@
+["div[class^=\"styles_bannerWrapper__\"]:has(> div[class^=\"styles_bannerContent__\"] > div > button[class^=\"styles_declineButton__\"])"]

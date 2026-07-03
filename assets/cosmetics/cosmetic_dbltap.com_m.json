@@ -1,0 +1,1 @@
+["main > figure:has(> div > div#mm-player-placeholder-smallAndMedium-screens)","main > figure > div[class^=\"style_\"]:has(> div[id^=\"mm-player-placeholder-\"])"]

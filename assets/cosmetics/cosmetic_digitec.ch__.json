@@ -1,0 +1,1 @@
+["#blogPageContent > div[class^=\"sc-\"] > div[id=\"likes\"] ~ ul[class^=\"sc-\"]:has(> li > a[href^=\"https://web.whatsapp.com/send?\"])"]

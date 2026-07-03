@@ -1,0 +1,1 @@
+["button[data-testid=\"share-button\"]","button:has(> div > svg[data-icon=\"share\"])"]

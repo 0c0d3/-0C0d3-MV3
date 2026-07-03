@@ -1,0 +1,1 @@
+["div[style^=\"font-size:11px;\"]","div[style=\"text-align:left;padding:0px 10px 1px 10px\"] > div:empty + div[class=\"thead smallfont\"]"]

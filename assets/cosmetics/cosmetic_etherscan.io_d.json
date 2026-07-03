@@ -1,0 +1,1 @@
+["div[data-nosnippet]:has(> ins[id])","div.dropdown > div.dropdown-menu:contains(Sponsored)","div[id^=\"ContentPlaceHolder\"][id*=\"_divMultichainAddress\"] + .scrollbar-custom > .d-flex > .text-center > ins","div.row:has(> .mb-md-0.text-dt > [data-bs-content^=\"Sponsored\"])"]

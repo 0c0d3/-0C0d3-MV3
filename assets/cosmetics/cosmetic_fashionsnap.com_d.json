@@ -1,0 +1,1 @@
+["div[class] > section:has(> form > input[type=\"email\"])","div[class]:has(> div#mainArticleUnit)"]

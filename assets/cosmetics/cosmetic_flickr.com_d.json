@@ -1,0 +1,1 @@
+["div[class^=\"main view\"]:has(a[href$=\"&ref=sponsored\"])"]

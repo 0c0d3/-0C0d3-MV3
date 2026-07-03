@@ -1,0 +1,1 @@
+[".flex > div[class]:has(> a[class*=\"share\"])"]

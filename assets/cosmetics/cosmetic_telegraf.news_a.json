@@ -1,0 +1,1 @@
+["aside > div.left:has(> a[href^=\"https://news.google.com/publications/\"])"]

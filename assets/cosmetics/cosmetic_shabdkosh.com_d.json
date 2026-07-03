@@ -1,0 +1,1 @@
+["div:not([class], [id]) > .text-center:has(> a[href=\"/payments/\"]:only-child)"]

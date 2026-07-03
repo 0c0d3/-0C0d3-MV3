@@ -1,0 +1,1 @@
+["div[class^=\"PreFooterStyles__StyledEmailCaptureContainer\"]","div[class^=\"SocialSidebarStyles__StyledCTA-\"]","div[class^=\"TutorialTemplateStyles__StyledSidebarItem-\"]:has(> div[class^=\"CommunityCTAStyles-sc-\"])","div[class*=\"StyledSocialSidebarInner\"] > :not([class*=\"StyledCTA\"])"]

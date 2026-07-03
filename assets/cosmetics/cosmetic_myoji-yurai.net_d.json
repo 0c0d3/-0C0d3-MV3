@@ -1,0 +1,1 @@
+["div[style^=\"width:280px;margin:\"]","div[data-plugins-type=\"mixi-favorite\"]:has(> span > iframe[src^=\"https://plugins.mixi.jp/favorite.pl?\"])"]

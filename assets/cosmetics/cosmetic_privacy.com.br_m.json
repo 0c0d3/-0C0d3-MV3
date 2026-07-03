@@ -1,0 +1,1 @@
+["main > alert:has(> div > div.alert-panel > div > p > a[href=\"/corp/terms-and-conditions\"])"]

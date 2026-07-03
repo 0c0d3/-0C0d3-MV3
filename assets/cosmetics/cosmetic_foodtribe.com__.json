@@ -1,0 +1,1 @@
+["#root > div[class]:last-child:not(:only-child)"]

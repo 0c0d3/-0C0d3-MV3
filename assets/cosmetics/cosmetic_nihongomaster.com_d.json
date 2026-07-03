@@ -1,0 +1,1 @@
+["div[class]:has(> div[wire\\:snapshot*=\"newsletter-signup\"])"]

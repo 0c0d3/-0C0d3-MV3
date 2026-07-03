@@ -1,0 +1,1 @@
+["article .adWrapper","aside > div > div[class*=\" \"]:has(form > div > input[type=\"email\"])"]

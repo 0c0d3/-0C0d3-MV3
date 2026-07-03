@@ -1,0 +1,1 @@
+["article > div[class^=\"sc-\"]:has(> div[id^=\"div-gpt-ad\"])","article > div[class]:has(> div.lazyBanner)"]

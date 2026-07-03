@@ -1,0 +1,1 @@
+["div[aria-label=\"Products List\"]","div[class]:has(> div[id^=\"optidigital\"]:only-child)","div[class]:has(> div[class]:only-child > .ad-unit:only-child)","div[data-newsletter-key]","div[data-ga-module=\"social-share\"]"]

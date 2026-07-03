@@ -1,0 +1,1 @@
+["body > [class][style]:has(> a:is([href=\"https://MyBunny.TV\"], [href=\"https://torrenting.com\"], [href=\"https://scenetime.com\"]))"]

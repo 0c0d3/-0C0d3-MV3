@@ -1,0 +1,1 @@
+["span[class]:has(> button[data-chz-trigger=\"share-facebook\"])"]

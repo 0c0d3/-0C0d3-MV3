@@ -1,0 +1,1 @@
+["#root > div[role=\"dialog\"]:is([aria-label=\"Używamy plików cookie\"], [aria-label=\"We use cookies\"])"]

@@ -1,0 +1,1 @@
+["div[class][style*=\"display: block !important;\"] > iframe[src^=\"https://images.pushsquare.com/\"]","div[class][style*=\"margin-left: auto; margin-right: auto; text-align: center; display:\"]:has(> span:first-child + iframe[src^=\"https://images.pushsquare.com/\"]:last-child)"]

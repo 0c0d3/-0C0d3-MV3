@@ -1,0 +1,1 @@
+["#player-wrapper > div:not([class]):not([id]):has(> div[class] img[src^=\"assets/bn/\"])"]

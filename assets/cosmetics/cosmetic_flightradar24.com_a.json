@@ -1,0 +1,1 @@
+["aside > div:has(> div.flex > div > div#pb-slot-fr24-map)","aside > article:has(> section a[data-testid=\"sidebar__free-trial-button\"])"]

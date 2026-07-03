@@ -1,0 +1,1 @@
+["article[data-e2e=\"productTile\"]:has(a[rel*=\"sponsored\"])"]

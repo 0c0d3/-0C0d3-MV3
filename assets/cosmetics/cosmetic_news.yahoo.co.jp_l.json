@@ -1,0 +1,1 @@
+["li:has(> a[href*=\"/app.adjust.com\"]:only-child)"]

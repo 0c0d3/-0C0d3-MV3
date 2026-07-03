@@ -1,0 +1,1 @@
+["div[data-test-id=\"virtual-list\"] > ul[role=\"list\"][aria-label] > li[style]:has(a[href^=\"https://api.taboola.com/\"][href*=\"/yahoo-aol-mail/\"])","div[data-test-id=\"mail-app-main-content\"] ul[role=\"list\"] > li:has(a[data-test-id=\"pencil-ad-messageList\"])","div[data-test-id=\"pencil-ad\"]"]

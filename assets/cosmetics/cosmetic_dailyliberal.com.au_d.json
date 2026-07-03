@@ -1,0 +1,1 @@
+["div[id^=\"newswell-\"][id$=\"-container\"]","div.bg-gray-100[id^=\"story\"][id$=\"-container\"]","div.blocker,.story-generic__iframe,div.transition-all,div[id^=\"headlessui-dialog\"]"]

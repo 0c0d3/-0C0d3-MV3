@@ -1,0 +1,1 @@
+["ol > li:has(> div[data-testid=\"themed-ad-top-divider\"])"]

@@ -1,0 +1,1 @@
+["img[src^=\"https://www.hltv.org/img/\"][src*=\"&s=\"]"]

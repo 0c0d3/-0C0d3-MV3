@@ -1,0 +1,1 @@
+["header[class=\"md:hidden\"] > div[data-testid=\"wrapper\"]:has(> a[href=\"/s/service_dietplus\"])"]

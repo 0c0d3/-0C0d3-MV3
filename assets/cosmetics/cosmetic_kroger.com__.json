@@ -1,0 +1,1 @@
+[".AutoGrid-cell:has(.ProductCard-tags > div > span[data-qa=\"featured-product-tag\"])"]

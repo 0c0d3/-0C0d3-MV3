@@ -1,0 +1,1 @@
+["div[class*=\"review\"] > a[href*=\"?ref=\"]","div[class^=\"video-conten\"] div[class]:has(> div[class] > div[class] > div.direct-abnner)","div[class^=\"video-conten\"] > div:has(> div > a[href=\"/signin/\"])","div[class^=\"video-conten\"] > div[class] > div[class]:has(a[href=\"#\"])","div[class^=\"sugggest\"]","div[class^=\"links\"] > [href][target=\"_blank\"]"]

@@ -1,0 +1,1 @@
+["div.box > div[style]:not([class]):not([id]):has(> a[href] img)"]

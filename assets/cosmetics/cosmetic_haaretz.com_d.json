@@ -1,0 +1,1 @@
+["div + div:has(> div[data-adunit])","div[id^=\"newsletter\"]","div[data-test=\"shareBar\"]"]

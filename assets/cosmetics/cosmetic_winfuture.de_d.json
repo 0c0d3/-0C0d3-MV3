@@ -1,0 +1,1 @@
+["div[class^=\"hp_\"] div:has(> .topteaser:contains(/(Anzeige)|wieder lieferbar|Schnäppchen|sale|An(?<!-)Angebot(?!s)gebot|Rabatt|nur bis[\\s\\S]*Euro/))","div[class^=\"hp_\"] > div > div[style=\"display: none !important;\"] + .clearfix","div:has(> .adsbygoogle:only-child)","div:has(> .adsbygoogle:only-child) + br","div[id^=\"div-gpt-ad\"]"]

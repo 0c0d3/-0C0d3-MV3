@@ -1,0 +1,1 @@
+[".col-12 > div.list:has(> div.row > div[class] > a[href^=\"ilanlar/\"])"]

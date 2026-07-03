@@ -1,0 +1,1 @@
+["ul > li:has(> div > a[href^=\"https://f95zone.to/link-forums/\"])","ul > li:has(> div > a[href^=\"https://f95zone.to/link-forums/\"]) ~ li"]

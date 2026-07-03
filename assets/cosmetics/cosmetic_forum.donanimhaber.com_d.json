@@ -1,0 +1,1 @@
+["div[style]:has(> div[style] > .empower-ad)","div[style^=\"width: 100%; float: left;\"]:has(> div[style] > div.empower-ad)","div[style^=\"width: 100%;\"][style*=\"height: auto;\"]"]

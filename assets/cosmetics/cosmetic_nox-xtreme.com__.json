@@ -1,0 +1,1 @@
+["#root > div > div[class]:not([data-reactid])"]

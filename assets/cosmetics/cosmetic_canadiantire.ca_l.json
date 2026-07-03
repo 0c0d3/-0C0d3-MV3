@@ -1,0 +1,1 @@
+["li[data-testid=\"product-grids\"]:has(.nl-product-card__sponsored)"]

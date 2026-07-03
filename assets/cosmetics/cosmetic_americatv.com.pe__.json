@@ -1,0 +1,1 @@
+[".items-center > span:has(+ button[data-variant=\"shared\"])",".justify-center.items-center:has(> button[data-variant=\"shared\"]:only-child)"]

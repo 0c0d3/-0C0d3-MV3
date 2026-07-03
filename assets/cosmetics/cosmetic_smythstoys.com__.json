@@ -1,0 +1,1 @@
+["#app-content > .fixed:has(> .modal-backdrop:first-child + div:last-child > div:only-child > div[class*=\"cookie-footer\"])"]

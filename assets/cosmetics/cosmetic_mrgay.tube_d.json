@@ -1,0 +1,1 @@
+["div[class^=\"video\"][class*=\"info\"] > section","div[class^=\"links\"] > [href][target=\"_blank\"]"]

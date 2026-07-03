@@ -1,0 +1,1 @@
+["body > center:contains(/^Advertisement$/)","body > hr:has(+ .description + center:contains(/^Advertisement$/))"]

@@ -1,0 +1,1 @@
+["div[class^=\"CookieBanner_\"]","div[class^=\"Header_RightContainer\"] > button:not([data-testid=\"sign-in-button\"])","div[class^=\"FooterStoreSection\"]","div[class^=\"UserProfile_ShareButtonWrapper\"]","div[class^=\"BannerAd\"]"]

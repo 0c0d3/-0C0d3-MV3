@@ -1,0 +1,1 @@
+["div[data-selector=\"body-elements-container\"]:has(> div[class] > a[href^=\"https://google.com/preferences/source?q=\"])","div[data-fsw=\"newsletterpromote\"]","div.Artikel > div.js-o-ModuleWrapper:has([data-fsw=\"newsletterpromote\"])"]

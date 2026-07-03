@@ -1,0 +1,1 @@
+["div[data-tracking*=\"ANZEIGE\"][data-tracking*=\"adac\"]","div[medium]:has(> div[data-tracking*=\"ANZEIGE\"][data-tracking*=\"adac\"])"]

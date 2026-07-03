@@ -1,0 +1,1 @@
+[".main > div[class]:has(> svg + div[class] > a[title=\"\"][font-size=\"14\"]):matches-css(bottom: 30px)","#root > div[class^=\"sc-\"] > div[class^=\"sc-\"] > div[class^=\"sc-\"]:has( > div[class^=\"sc-\"] > img[alt=\"Yahoo!メールアプリをインストール\"])","#mhd_uhd_pc"]

@@ -1,0 +1,1 @@
+["header > div.flex > div[class]:has(> div.flex > button[name=\"share-button\"])"]

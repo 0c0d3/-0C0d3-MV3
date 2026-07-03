@@ -1,0 +1,1 @@
+["#App > div._0sJI","#App > div:has(> div:empty + div a[href^=\"https://idp.onelink.me/\"])"]

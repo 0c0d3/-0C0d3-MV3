@@ -1,0 +1,1 @@
+["nav[aria-label=\"Navigation\"] ~ div:has(> #top-leaderboard-ad)","nav[aria-label=\"Navigation\"] ~ div.min-h-\\[60px\\]"]

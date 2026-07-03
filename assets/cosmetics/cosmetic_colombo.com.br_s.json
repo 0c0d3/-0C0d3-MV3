@@ -1,0 +1,1 @@
+["section[class^=\"styles__ContentContainerStyled-\"] > section[class^=\"styles__ContainerStyled-sc-\"]:has(> .content > .button-box > button[data-cy=\"btn-accept-cookie-warning\"])"]

@@ -1,0 +1,1 @@
+[".topnav > a[href]:not([href*=\"strims.\"], [href^=\"/\"]) > img","#news > center > a[href]:not([href*=\"strims.\"], [href^=\"/\"]) > img"]

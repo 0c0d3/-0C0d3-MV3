@@ -1,0 +1,1 @@
+[".cookies:not(html, body)",".page_content > strong:has(> a[href=\"https://t.me/news_1kr\"])",".post_social",".telegram-chat",".share_social","[class^=\"share-fixed\"]",".news-social",".article-social"]

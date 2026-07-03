@@ -1,0 +1,1 @@
+["div[class^=\"premiumRecommend_articles__\"]","div[class^=\"displayhandler\"]:has(> div[class^=\"premiumRecommend\"])","div[class^=\"recommendArticlesList_recommend__\"]","div[class^=\"article_specialFeature_\"]","div[class^=\"articleShare_\"]"]

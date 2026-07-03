@@ -1,0 +1,1 @@
+["div[class^=\"ColListing\"]:has(div[data-testid^=\"Sponsored\"])"]

@@ -1,0 +1,1 @@
+["body ~ iframe[style*=\"width:\"][style*=\"z-index:\"][style*=\"position:\"]:not([src])"]

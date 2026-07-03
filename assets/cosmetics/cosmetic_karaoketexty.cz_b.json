@@ -1,0 +1,1 @@
+["body > div[id$=\"_wrapper\"]:has(span[class^=\"ad_notice\"])"]

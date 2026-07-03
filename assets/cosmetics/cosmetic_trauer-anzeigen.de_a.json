@@ -1,0 +1,1 @@
+["aside > div.container:has(> div.row a[href^=\"https://www.twitter.com/share?\"])"]

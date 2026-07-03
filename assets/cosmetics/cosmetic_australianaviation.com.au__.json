@@ -1,0 +1,1 @@
+["#main_sidebar > div.widget_text:has(> div.textwidget  > div[id^=\"mm-az\"])","#main_sidebar > div.widget_text:has(> div.textwidget > div.b-submod-side)"]

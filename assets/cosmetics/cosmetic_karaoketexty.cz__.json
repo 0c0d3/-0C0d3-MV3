@@ -1,0 +1,1 @@
+["#left_column > div[class]:has(> div[class] > span.ad_notice1)","#right_column > div[class]:has(> span.ad_notice1)","#sky_right_col",".ad_notice1",".shareicon_desc"]

@@ -1,0 +1,1 @@
+["div[class]:has(> div[id*=\"_slot_\"]:only-child)","div[style*=\"height:280px;text-align:center;margin-left:auto;margin-right:auto\"]"]

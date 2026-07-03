@@ -1,0 +1,1 @@
+[".home-widgets > ul > li > div[class*=\" \"]:has(> div > div > a[onclick])",".latestCmmtData > .mrtoday > div[class*=\" \"]:has(> div > div > a[onclick])",".topVideoSec > .social-icons.socialVideo",".videoshare"]

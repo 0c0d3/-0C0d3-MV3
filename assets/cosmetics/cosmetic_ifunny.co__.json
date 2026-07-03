@@ -1,0 +1,1 @@
+[".push-notification","#App > div[class*=\" \"]:has(> div[class] a[href^=\"https://ifunny.onelink.me/\"])","#App > div:has(> div[class] > div[class] > div[class] > section[class] > button[color=\"yellowBlack\"])","#App > div[class^=\"_\"] > div > h1:contains(see iFunny in...):upward(2)"]

@@ -1,0 +1,1 @@
+["#eachDownloadedModal .ac-btn[href^=\"https://premium.\"]:upward(#eachDownloadedModal)"]

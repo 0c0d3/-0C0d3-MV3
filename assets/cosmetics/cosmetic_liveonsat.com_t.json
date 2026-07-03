@@ -1,0 +1,1 @@
+["td[align=\"right\"] td[height=\"50\"]:has(> script:contains(google_ad_client))"]

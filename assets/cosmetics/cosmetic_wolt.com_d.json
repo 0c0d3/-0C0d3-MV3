@@ -1,0 +1,1 @@
+["div[data-test-id=\"MainDiscoveryContent\"] li > div.cb-elevated:has(button[data-test-id=\"AdvertisingLabel\"])","div[data-test-id=\"SearchResultVenueSection\"] li > div.cb-elevated:has(button[data-test-id=\"AdvertisingLabel\"])","div:has(> div > div > div > div > div > p:contains(Sponsored))"]

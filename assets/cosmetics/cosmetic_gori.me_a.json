@@ -1,0 +1,1 @@
+["article.single-normal > div[style]:not([class]):has(> a[href^=\"https://ad2.trafficgate.net/\"])"]

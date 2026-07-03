@@ -1,0 +1,1 @@
+["div[class^=\"Toast-module--wrapper-\"]","div[class^=\"Layout-module--\"] > div[class^=\"Toast-module--\"]:has(> a[href$=\"cookie-policy\"])"]

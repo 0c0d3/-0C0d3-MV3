@@ -1,0 +1,1 @@
+[".article > div.article__footer:has(> div.insert-ads-block)",".article > div.article__footer:has(> div[id^=\"unit_\"])",".article > div.article__footer:has(> div[id^=\"smi_teaser_\"])",".article > div.article__footer:has(> div[class^=\"smi24_\"])"]

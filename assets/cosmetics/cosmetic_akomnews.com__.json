@@ -1,0 +1,1 @@
+[".quick_menu > li:not(:has(> div > i.font_icon))"]

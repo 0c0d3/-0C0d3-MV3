@@ -1,0 +1,1 @@
+["div[data-result-type=\"featured\"]:contains(sponsored)","div[class]:has(> div[data-qa-target=\"leaderboard-ad\"])"]

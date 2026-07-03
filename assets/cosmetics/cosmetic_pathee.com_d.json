@@ -1,0 +1,1 @@
+["div[class]:has(> h3:first-child + ul:last-child > li > a[href*=\"share\"])"]

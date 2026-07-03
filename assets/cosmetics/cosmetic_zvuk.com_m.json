@@ -1,0 +1,1 @@
+["main > div > div[width]:has(> a[href] > img[data-banner-category])"]

@@ -1,0 +1,1 @@
+["#contents > h3:has(+ #bottom_rss)","#footerrss","#more_rss","#bottom_rss","#headline","#top","#socialbtns",".socialbtn","#ovrss",".entrytext > a[rel^=\"noopener\"][target=_blank]",".rankbox"]

@@ -1,0 +1,1 @@
+[".flex:has(> ul > li > a[title^=\"Facebook\"])"]

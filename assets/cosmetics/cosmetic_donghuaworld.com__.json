@@ -1,0 +1,1 @@
+["#footer + div[id][class*=\" \"]",".widget_text:has(> div.textwidget > div.telegram-wrap)"]

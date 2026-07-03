@@ -1,0 +1,1 @@
+["a[href^=\"https://polymarket.com/\"]:has(> img[alt=\"Polymarket\"])"]

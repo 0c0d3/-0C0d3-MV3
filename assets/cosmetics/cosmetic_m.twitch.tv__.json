@@ -1,0 +1,1 @@
+["#root > div[class] > div[class]:not(.consent-banner) > div[class]:has( div[class] > a[href*=\"app\"])"]

@@ -1,0 +1,1 @@
+["div[style] > a[target=\"_blank\"]:not([href*=\"bohe.cn\"],[href^=\"/\"]) > img"]

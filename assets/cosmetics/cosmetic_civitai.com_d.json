@@ -1,0 +1,1 @@
+["div[id][class*=\"box-content\"]:empty","div[class^=\"MasonryGrid_\"] > div[class^=\"CosmeticWrapper_\"] ~ div.relative:has(> div.flex > a[href=\"/pricing\"])"]

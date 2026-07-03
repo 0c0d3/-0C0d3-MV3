@@ -1,0 +1,1 @@
+["#__next > div[class]:has(> button[aria-label=\"Закрыть\"])","#__next ~ div[class][role=\"dialog\"]:has(> div[class] > button[type=\"button\"] > span)"]

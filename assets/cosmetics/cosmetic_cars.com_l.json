@@ -1,0 +1,1 @@
+["li:has(> fuse-card[data-listing-id] .spr)","li[data-phx-id]:has([phx-value-source=\"sponsored_trending_search_card\"])"]

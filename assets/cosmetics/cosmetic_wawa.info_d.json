@@ -1,0 +1,1 @@
+["div.grid__row > div.grid__col:has(> div#newsletterform)"]

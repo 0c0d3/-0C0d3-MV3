@@ -1,0 +1,1 @@
+["section.box:has(> ul > li > div[id^=\"div-gpt-\"])"]

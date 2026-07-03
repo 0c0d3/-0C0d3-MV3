@@ -1,0 +1,1 @@
+["main > div[class^=\"sc-\"] > div[class^=\"sc-\"]:only-child:has(> button + a[data-ga-on][data-ga-event-category=\"Bottom Drawer\"][data-ga-event-action=\"Click News\"])"]

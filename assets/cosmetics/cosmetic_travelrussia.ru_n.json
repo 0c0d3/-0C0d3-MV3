@@ -1,0 +1,1 @@
+["noindex > div[class^=\"widget-\"]:not(#widget-topBar)"]

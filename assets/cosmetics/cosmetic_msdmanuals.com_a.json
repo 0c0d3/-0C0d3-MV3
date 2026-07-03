@@ -1,0 +1,1 @@
+["aside[class^=\"StickyRightToolbar_\"] > ul > li[class^=\"StickyRightToolbar_\"]:has(> div > button[class*=\"_shareIcon_\"])"]

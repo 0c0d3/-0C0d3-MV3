@@ -1,0 +1,1 @@
+["div:has(> div > div[style] > div[data-poki-ad-id])","div[class*=\" \"] > div[class] > div[style^=\"height:\"] + div[class]:contains(/^(Advertisement|Реклама|Re(c|k)lam(a|e)|Iklan|Werbung|An(u|ú)ncios?|Pubb?licit(é|à)|Hirdetés|Advertentie|Mainos|Annons|Διαφήμιση|广告|広告|광고|โฆษณา|إعلان|פרסומת)$/):upward(2)"]

@@ -1,0 +1,1 @@
+["a[rel$=\"sponsored\"]","article > .widget:has(> center > strong > a[rel*=\"sponsored\"])"]

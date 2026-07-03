@@ -1,0 +1,1 @@
+["main > div[class^=\"css-\"]:has(> div > div > svg[color=\"var(--surface-color-base-tertiary)\"])"]

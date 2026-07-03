@@ -1,0 +1,1 @@
+[".active:has(> .collapsible-header + .collapsible-body > .collection > a[data-sharer])"]

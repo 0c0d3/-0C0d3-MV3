@@ -1,0 +1,1 @@
+["div[data-testid=\"serp-core-scrollablelistview-testid\"] > div[class^=\"css-\"]:has(> div[class] > div[class] > div[id^=\"div-gam-ad-\"])"]

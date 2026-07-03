@@ -1,0 +1,1 @@
+[".listing-item.item-video:has(> .listing-item__top)",".header__nav > * > a[href][target=\"_blank\"]",".header__cookie",".video-page > div[class]:not([class*=\"video\"])",".underplayer__info > div[class]:not([class*=\"underplayer\"])",".content > div > div.wrapper > div.video-page > div[class]:first-child:has(> div[class] > div[id][class]:empty)"]

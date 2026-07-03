@@ -1,0 +1,1 @@
+["h2 ~ div[class^=\"x-\"]:has(> aside[class^=\"x-\"] > div[class^=\"x-\"] > a[href^=\"https://apps.apple.com/ua/app/\"])"]

@@ -1,0 +1,1 @@
+["div[style^=\"color:\"]:has(> a[href=\"https://trafficox.com\"])"]

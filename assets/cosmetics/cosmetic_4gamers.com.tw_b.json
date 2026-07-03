@@ -1,0 +1,1 @@
+["button[aria-label=\"like button\"] ~ div.inline-block > button","button[aria-label=\"分享\"]"]

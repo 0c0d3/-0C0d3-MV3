@@ -1,0 +1,1 @@
+["div.button-bar:has(> a[href^=\"https://twitter.com/intent/\"])"]

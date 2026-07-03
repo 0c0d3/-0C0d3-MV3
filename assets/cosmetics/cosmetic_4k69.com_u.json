@@ -1,0 +1,1 @@
+["ul.right-part > li:has(> a[target=\"_blank\"])"]

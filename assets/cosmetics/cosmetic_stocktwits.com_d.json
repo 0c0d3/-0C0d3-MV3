@@ -1,0 +1,1 @@
+["div[class^=\"Primis_container_\"]","div[class*=\"_adClass_\"]","div[class*=\"_adClass_\"] + p[class*=\"Disclosure_disclosure\"]:has(> span > a[class*=\"_removeAdsLink_\"])","div[class^=\"LoginSignupBanner\"]","div[class^=\"UserPage_combinedrail\"]"]

@@ -1,0 +1,1 @@
+["body > div:not([class]):not([id]) > div[class*=\" \"]:has(> div > div > div[class] > a[href^=\"https://policy.medium.com/medium-privacy-policy-\"])","button[aria-label^=\"Share\"]"]

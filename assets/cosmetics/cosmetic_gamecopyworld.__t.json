@@ -1,0 +1,1 @@
+["tr > td[align=\"center\"]:has(> *:is(#lb, iframe[src*=\"consoletarget.com/\"]))"]

@@ -1,0 +1,1 @@
+["main div.relative[itemtype=\"http://schema.org/Product\"] > div[class]:not(.grid):not([id]):has(a[href^=\"/goto.php?\"])"]

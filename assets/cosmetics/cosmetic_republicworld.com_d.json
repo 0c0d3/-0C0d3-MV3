@@ -1,0 +1,1 @@
+["div.items-center:has(> .adWidget)","div[onclick^=\"shareStory\"]","div.py-6:has(> .adWidget)","div[class^=\"ads_\"]","div[style] > div[style*=\"min-height\"]:has(> amp-ad)"]

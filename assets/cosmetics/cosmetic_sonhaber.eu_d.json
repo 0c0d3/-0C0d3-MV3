@@ -1,0 +1,1 @@
+["div > p:has(> em > strong a[href^=\"https://whatsapp.com/\"])","div > p:has(> em > strong > a[href*=\"www.instagram.com/\"])"]

@@ -1,0 +1,1 @@
+["div[style] > div.avatar-container:has(> div.row > div.avatar > a#facebookshare)"]

@@ -1,0 +1,1 @@
+[".page__wrap ~ div[class]:not([id])"]

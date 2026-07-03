@@ -1,0 +1,1 @@
+["main[aria-hidden] > div[class] > div[style] > div[class][style=\"position: absolute; left: 0px; top: 0px; height: 80px; width: 100%;\"]:has(> div[class] > div[role=\"group\"] > #OwaContainer)"]

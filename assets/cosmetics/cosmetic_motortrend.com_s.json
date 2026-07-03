@@ -1,0 +1,1 @@
+["section[data-testid=\"chapter\"] > div[class*=\"TextElement\"] > div:has(> div.items-center > div[data-ad])","section[data-c=\"body\"] > div[class]:has(div[data-freestar-placement-name])","section[data-c=\"body\"] > div[class]:has(.lazyload-placeholder)"]

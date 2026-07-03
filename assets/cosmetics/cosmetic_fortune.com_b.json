@@ -1,0 +1,1 @@
+["button[type=\"button\"]:has(> div.button-tertiary-accent)","button:has(> svg.lucide-share2)","button[data-cy=\"share-icon\"]"]

@@ -1,0 +1,1 @@
+["footer + div[class^=\"_Container\"]:has(a[data-qa=\"cookie-notice-institutional_privacy\"])"]

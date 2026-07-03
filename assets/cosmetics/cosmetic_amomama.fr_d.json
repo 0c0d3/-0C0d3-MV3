@@ -1,0 +1,1 @@
+["div[data-io-article-url] > p:has(> i > strong > a[href^=\"https://news.google.com/publications/\"])","div[data-testid^=\"share-button-on-post-\"]"]

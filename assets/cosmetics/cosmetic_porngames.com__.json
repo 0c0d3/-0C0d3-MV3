@@ -1,0 +1,1 @@
+[".banner",".contentbox:has(a[href=\"javascript:void(0);\"])",".contentbox:has(iframe[src^=\"//\"])",".maincontent div.contentbox:has(> div[style] > center > iframe[src^=\"https://a.adtng.com/\"])"]

@@ -1,0 +1,1 @@
+[".t4-row > div.t4-col > div[id^=\"Mod\"]:has(> .module-inner > .module-ct > .custom > p > iframe[src^=\"https://donorbox.org/embed/news-content\"])"]

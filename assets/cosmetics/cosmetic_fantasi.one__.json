@@ -1,0 +1,1 @@
+["#app > div.background:has(> div:only-child > .close + .content > p:contains(App))"]

@@ -1,0 +1,1 @@
+["ul[data-testid=\"socialIconslist\"] > li:not([class*=\"social-icons__list-item--bookmark\"])"]

@@ -1,0 +1,1 @@
+["div[class^=\"css-\"]:has(> div[data-type] > div.ad-container)"]

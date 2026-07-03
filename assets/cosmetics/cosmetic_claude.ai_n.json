@@ -1,0 +1,1 @@
+["nav[aria-label=\"Sidebar\"] div.relative:has(> div.relative.group > a[aria-label=\"Get apps and extensions\"])"]

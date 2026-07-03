@@ -1,0 +1,1 @@
+[".list-group ~ p:has(> a.btn-info[href^=\"https://twitter.com/\"])"]

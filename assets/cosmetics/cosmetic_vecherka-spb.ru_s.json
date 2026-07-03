@@ -1,0 +1,1 @@
+["section > div[class^=\"_container_\"]:has(> div[class^=\"_blockIcons_\"])"]

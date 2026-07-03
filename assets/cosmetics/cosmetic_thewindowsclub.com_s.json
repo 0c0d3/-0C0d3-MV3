@@ -1,0 +1,1 @@
+["section.widget:has(> .widget-wrap > .textwidget > span[id^=\"ezoic-pub-ad\"])"]

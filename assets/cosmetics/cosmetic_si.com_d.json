@@ -1,0 +1,1 @@
+["div[id^=\"inarticle_\"]","div[class^=\"wrapper_\"] > div[class^=\"style_\"]:has(> div.OB-REACT-WRAPPER)","div[style^=\"margin-top:\"] > figure:has(> div#mm-player-placeholder-smallAndMedium-screens)","div[class^=\"sticky_\"]"]

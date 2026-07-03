@@ -1,0 +1,1 @@
+["ul > li:has(> div.viewableWrapper > div#viewable_comment_promotion)"]

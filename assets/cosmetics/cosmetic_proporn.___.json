@@ -1,0 +1,1 @@
+[".player-col:has(> iframe[src^=\"/proporn_right_ads.php\"])",".headline-secondary:has(> a[href*=\"/linkout/\"])",".player-live-title:contains(Advertising)",".action_share"]

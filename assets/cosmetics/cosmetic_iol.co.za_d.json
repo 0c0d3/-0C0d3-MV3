@@ -1,0 +1,1 @@
+["div:has(> div[class^=\"Outbrain\"])","div[role=\"dialog\"]:has(> div > p > a[href^=\"/privacy-policy\"])","div:has(> a[href^=\"https://iolproperty.co.za\"]:only-child)"]

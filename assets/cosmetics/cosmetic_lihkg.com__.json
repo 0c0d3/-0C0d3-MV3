@@ -1,0 +1,1 @@
+["#app > div#splitView ~ div[class]:has(> div[class] div[class]:contains(APP))",".i-share-variant"]

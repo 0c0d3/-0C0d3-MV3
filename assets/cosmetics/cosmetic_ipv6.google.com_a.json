@@ -1,0 +1,1 @@
+["a[oncontextmenu][href*=\".php?xxx=\"]:upward(2)","a[oncontextmenu][href^=\"https://books.google.\"]:upward(2)"]

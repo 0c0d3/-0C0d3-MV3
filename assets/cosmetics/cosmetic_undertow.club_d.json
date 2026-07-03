@@ -1,0 +1,1 @@
+["div[class*=\"Content\"]:has(> center > ins[id])"]

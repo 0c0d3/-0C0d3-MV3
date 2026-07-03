@@ -1,0 +1,1 @@
+["article div:has(> div[id^=\"adsdk-\"])"]

@@ -1,0 +1,1 @@
+["body > div[id^=\"text-\"] > div.textwidget:has(> div[class^=\"ad300\"])"]

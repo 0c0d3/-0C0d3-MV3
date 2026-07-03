@@ -1,0 +1,1 @@
+["div[style=\"width:900px;height:250px;margin:20px auto 0\"]","div[style^=\"height:110px;max-width:450px;\"]","div[style^=\"background-color:\"]:has(> iframe[data-src^=\"//go.\"])"]

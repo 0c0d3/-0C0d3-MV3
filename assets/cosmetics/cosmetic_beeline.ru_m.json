@@ -1,0 +1,1 @@
+["main + div:has(> div > div > button > span:contains(Быстро подключить))"]

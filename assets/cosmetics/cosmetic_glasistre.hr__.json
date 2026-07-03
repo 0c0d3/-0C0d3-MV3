@@ -1,0 +1,1 @@
+[".row:has(> div[class^=\"col-\"] > style + div > div > div.ponuda)",".btn-social"]

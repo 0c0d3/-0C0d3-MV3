@@ -1,0 +1,1 @@
+["a:has(svg[class*=\"lucide-chevron-right\"]):not([href^=\"/\"])"]

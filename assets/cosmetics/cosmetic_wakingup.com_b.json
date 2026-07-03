@@ -1,0 +1,1 @@
+["body > div:not([class]):not([id]) > div[class^=\"styles__Container-sc-\"][style^=\"opacity:\"][style*=\"transform:\"]"]

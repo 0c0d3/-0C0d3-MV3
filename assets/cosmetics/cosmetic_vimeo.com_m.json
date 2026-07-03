@@ -1,0 +1,1 @@
+["main ~ div[class]:has(> button + p:contains(/^Upload.*all\\sin\\sHD/))"]

@@ -1,0 +1,1 @@
+[".banner-cta-wrap:has([src=\"//retailmedia-static.criteo.com/\"])",".banner-cta-wrap:has(img[src*=\"criteo.com\"])",".lazyload-wrapper:has(> #promoteIqContent)","[data-cnstrc-recommendations=\"true\"]:has(.sponsored-products)"]

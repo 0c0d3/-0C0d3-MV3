@@ -1,0 +1,1 @@
+["header > div[class] > h1 + .flex > .flex:has(> a[href^=\"https://www.google.com/preferences/source?q=\"])"]

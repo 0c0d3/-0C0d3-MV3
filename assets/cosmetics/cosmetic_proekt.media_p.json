@@ -1,0 +1,1 @@
+["proekt-block > proekt-columns:has(> proekt-column.subscribe-bg .subscribe-form)","proekt-group > proekt-block:has(> proekt-columns span#donateButton)","proekt-blocks > proekt-block:has(span#donateButton)"]

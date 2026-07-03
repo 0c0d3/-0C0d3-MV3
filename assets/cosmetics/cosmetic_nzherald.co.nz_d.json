@@ -1,0 +1,1 @@
+["div[data-test-ui=\"viva-article__share-bar\"] > a[data-test-ui^=\"social-link--viva-\"]","div[data-test-ui=\"viva-article__share-bar\"] > a[class=\"tw-flex tw-items-center laptop:tw-hidden\"]"]

@@ -1,0 +1,1 @@
+["body > div[id^=\"ab\"]","body > div[id^=\"ab\"] + div[style*=\"cursor\"]"]

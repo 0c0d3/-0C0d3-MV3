@@ -1,0 +1,1 @@
+["#sidebar > .widget_text > .textwidget:has(> div[class^=\"myBanner\"])"]

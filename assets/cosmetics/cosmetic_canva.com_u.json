@@ -1,0 +1,1 @@
+["ul:has(> li > a[aria-label^=\"Share on \"])","ul:has(> li > a[href^=\"https://www.facebook.com/share\"])"]

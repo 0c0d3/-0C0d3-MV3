@@ -1,0 +1,1 @@
+["main > section.box:has(> ul.box__items--column > li > div[id^=\"div-gpt-sp\"])","main > div.box:has(> div[id^=\"div-gpt-sp\"])","main > section.box:has(> div#taboola-below-article-thumbnails)"]

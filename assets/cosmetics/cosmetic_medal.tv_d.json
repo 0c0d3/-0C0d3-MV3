@@ -1,0 +1,1 @@
+["div[class^=\"StyledGrommet-sc-\"]  div[style^=\"max-width:\"] div[class^=\"sc-\"]:has(> div[class^=\"sc-\"] > div[class^=\"sc-\"] > [class^=\"sc-\"] > button:not([style=\"border: none;\"]) > div[class^=\"StyledBox-sc-\"][style=\"margin-inline-end: 10px;\"])"]

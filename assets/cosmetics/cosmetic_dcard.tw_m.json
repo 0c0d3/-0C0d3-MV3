@@ -1,0 +1,1 @@
+["main > div > div[class] > div[class]:has(> div[style] > div[id^=\"div-gpt-ad-\"])","main > div[role=\"main\"] > div[class*=\"-\"] > div[class]:has(> div[class][style] a[target=\"_blank\"] img)","main > div[role=\"main\"] > div > div[class^=\"sc-\"]:has(> div[style=\"height:250px;width:300px\"])"]

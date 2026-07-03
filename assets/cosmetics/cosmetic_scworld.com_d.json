@@ -1,0 +1,1 @@
+["div[class*=\"CookieConsent\"]","div[class^=\"CookieConsent_\"]","div[class^=\"Content_col\"] > h1 + .justify-content-between > .dropdown:has(> button > .share)"]

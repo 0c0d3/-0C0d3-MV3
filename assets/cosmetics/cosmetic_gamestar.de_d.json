@@ -1,0 +1,1 @@
+["div:has(> .content-item-medium:only-child > a[href*=\"campaign\"]:only-child)"]

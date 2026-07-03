@@ -1,0 +1,1 @@
+["div[class*=\"safe-area-inset-bottom\"] div.fixed:has(a[target=\"_blank\"] source[srcset*=\"ads-media\"])","div[class*=\"interstitial-width\"] div.relative:has(a[target=\"_blank\"] source[srcset*=\"ads-media\"])"]

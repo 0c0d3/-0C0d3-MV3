@@ -1,0 +1,1 @@
+["div[class^=\"styles_adSlot\"]","div[id^=\"ad-mbanner\"]","div[id^=\"somtag-container\"]","div[class*=\"performanceRectangle\"]","div[id^=\"ad-fullbanner\"]","div[class^=\"sc-\"]:has(> div.ad-container)","div:has(> div#div-gpt-ad-wetter_direct_toolbar)","div[class*=\"app-layout\"]:has(> div.ad-label)"]

@@ -1,0 +1,1 @@
+["main > div[class] >div[class]:has(> div[id^=\"rg_promoted_\"])"]

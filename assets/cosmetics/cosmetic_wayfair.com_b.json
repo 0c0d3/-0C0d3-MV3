@@ -1,0 +1,1 @@
+["body > div[data-hb-id=\"Portal\"]:has(> div > div[data-cypress-id=\"CoreGatewayModal\"])"]

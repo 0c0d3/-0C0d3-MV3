@@ -1,0 +1,1 @@
+["main.content > div[x-show=\"isVisible\"]:has(> ul > li > .join-whatsapp-link)","main > div.fixed:has(> ul > li > a.native-share)"]

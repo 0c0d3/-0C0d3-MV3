@@ -1,0 +1,1 @@
+["snr-island.show > ul > li:has(> a[data-action=\"share:btn\"])"]

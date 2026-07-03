@@ -1,0 +1,1 @@
+["article > div.not-prose:has(> div[id^=\"ad-\"])"]

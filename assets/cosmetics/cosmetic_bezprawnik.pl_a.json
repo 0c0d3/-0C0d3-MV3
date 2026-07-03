@@ -1,0 +1,1 @@
+["article .pointer-events-none + .container > .relative:empty","article div[class*=\"relative mx-auto flex items-center\"]:has(> .relative:only-child:empty)","article div[class*=\"relative mx-auto flex items-center\"]:has(> .relative > div[id^=\"Bepzrawnik_\"])"]

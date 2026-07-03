@@ -1,0 +1,1 @@
+["div[id*=\"_bill_\"]","div[id*=\"_bill_\"] + a[href=\"/premium\"]","div[id*=\"_half_\"]:empty","div[id*=\"_half_\"]:empty + a[href=\"/premium\"]"]

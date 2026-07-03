@@ -1,0 +1,1 @@
+["div[class] > div.flex:has(> a[href*=\"sharer.php?\"])"]

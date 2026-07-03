@@ -1,0 +1,1 @@
+[".cookie-banner",".page-main ~ div[data-theme]:has(> div > h2 + p)",".alert-wrapper > div > div > div > a[href$=\"/offers\"]:upward(4)"]

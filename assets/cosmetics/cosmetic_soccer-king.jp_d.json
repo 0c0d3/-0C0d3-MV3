@@ -1,0 +1,1 @@
+["div[style]:has(> div > div[id^=\"div-gpt-ad\"]):not(.left_clm)"]

@@ -1,0 +1,1 @@
+["div[class^=\"styled__Cell-sc-\"] > div[class^=\"sc-\"]:has(> div[class^=\"sc-\"] > a[aria-label=\"share-button-vk\"])"]

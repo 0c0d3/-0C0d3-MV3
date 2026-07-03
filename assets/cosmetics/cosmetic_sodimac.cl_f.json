@@ -1,0 +1,1 @@
+["footer > section:has(> button#testId-accept-cookies-btn)"]

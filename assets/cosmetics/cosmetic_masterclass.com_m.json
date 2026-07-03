@@ -1,0 +1,1 @@
+["main > div[class*=\"Sticky_top\"]","main > div > section:has(> div > h2:contains(Learn From the Best))"]

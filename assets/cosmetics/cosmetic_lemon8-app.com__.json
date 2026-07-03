@@ -1,0 +1,1 @@
+[".pc-reflow",":is(aside, footer) > div[class$=\"-reflow\"]:is(:has(> p:contains(Open)), :has(> .qrcode > img[alt=\"Scan to get the app\"]))",".share",".article-info > div:has(> svg > path[d*=\"172A12\"])",".share-container"]

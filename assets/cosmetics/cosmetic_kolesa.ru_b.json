@@ -1,0 +1,1 @@
+["body > div[style*=\"z-index\"]:has(> div[style] > a[href=\"https://www.kolesa.ru/policy\"])"]

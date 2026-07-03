@@ -1,0 +1,1 @@
+["ol.feed-container > li.feed-item:has(> article[data-is-sponsored])"]

@@ -1,0 +1,1 @@
+["style + div[class]:has(> script:first-child + img[src^=\"https://v.wpimg.pl/\"][alt] + div[class]:last-child)"]

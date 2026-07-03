@@ -1,0 +1,1 @@
+["div[class^=\"container-\"]:has(> div[class^=\"ad-\"])","div[data-role=\"toast-container\"]","div[class^=\"js-container-\"][class$=\"-notification\"]","div[class^=\"toast-positioning-wrapper\"]","div[class^=\"shareButton\"]"]

@@ -1,0 +1,1 @@
+["aside .text-muted[style*=\"min-height:\"]:has(> .sticky-wrapper > #sticker > #adsSmall)"]

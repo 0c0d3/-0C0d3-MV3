@@ -1,0 +1,1 @@
+["div:has(div[role='alert'] > a[href^=\"https://policy.medium.com/medium-privacy-policy-\"])"]

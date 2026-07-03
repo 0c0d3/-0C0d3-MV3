@@ -1,0 +1,1 @@
+["div[data-testid=\"cookieAcceptPopup\"]","div[aria-modal][aria-label=\"Поделиться\"] > div[class^=\"Modal_content__header\"] > h3","div[aria-modal][aria-label=\"Поделиться\"] div[class^=\"Sharing_social-title_\"]","div[aria-modal][aria-label=\"Поделиться\"] div[data-testid=\"referral__socnet--links\"]","div[class^=\"BookActionButtons_\"] > button[aria-label=\"Поделиться\"]"]

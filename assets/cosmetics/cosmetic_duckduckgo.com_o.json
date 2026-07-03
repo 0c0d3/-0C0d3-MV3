@@ -1,0 +1,1 @@
+["ol.react-results--main > div[class*=\" \"]:has(img[src^=\"https://metrics-content.duckduckgo.com/assets/adblock-notice/\"])"]

@@ -1,0 +1,1 @@
+[".primary > li:not([class]):has(> a[href][target=\"_blank\"]:not(.nav-cams))",".fp-logo",".block-video + div[align=\"center\"]",".mobile-menu"]

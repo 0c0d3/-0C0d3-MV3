@@ -1,0 +1,1 @@
+["div[data-testid=\"tabbed-article-section\"] > div[class]:has(> aside[data-testid=\"sticky-inline-ad\"])","div[data-testid=\"locking-share-bar\"]","div[data-testid=\"share-tools\"]","div.mlb","div.mmr.row","div > div[class^=\"css-\"]:has(> div[id^=\"ym_\"])"]

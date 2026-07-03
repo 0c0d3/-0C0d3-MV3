@@ -1,0 +1,1 @@
+[".cookies:not(html, body)",".subscribe",".newsfeed > .newsfeed__item:has(> .newsfeed__tg)",".article__subscribe"]

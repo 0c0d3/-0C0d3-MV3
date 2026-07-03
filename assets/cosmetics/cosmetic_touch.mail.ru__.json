@@ -1,0 +1,1 @@
+[".tp-1-overlay",".bnrCloudResize",".messagelist > div:not([cid]):has(span.js-href + div:contains(Реклама))",".messagelist > div[style^=\"width:100%; height:\"] + div:has(span.js-href + div:contains(Реклама))",".messagelist > div[style^=\"width: 100%; height:\"] + div:has(span.js-href + div:contains(Реклама))"]

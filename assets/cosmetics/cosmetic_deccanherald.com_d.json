@@ -1,0 +1,1 @@
+["div:has(> div > .ad-background)","div[style^=\"min-height\"]:has(> div > div[id*=\"-ad-separator\"])","div[class]:has(> div > div.ad-background)"]

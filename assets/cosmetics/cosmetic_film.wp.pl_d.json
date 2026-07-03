@@ -1,0 +1,1 @@
+["div[class*=\" \"]:has(> div[class]:first-child:empty + img[src*=\"://v.wpimg.pl/\"][alt]:empty)","div[class*=\" \"]:has(> img[src*=\"://v.wpimg.pl/\"] + div[class] > style:first-child + div:last-child)"]

@@ -1,0 +1,1 @@
+["main[data-testid=\"PageMain\"] > div[class]:has(> div[class] > div[data-commercial-breakpoint])","main > article[class] > div[class]:has(> div[data-testid^=\"Nativendo\"])","main > article[class] > div[class]:has(> div[data-testid^=\"TaboolaFeed\"])"]

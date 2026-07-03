@@ -1,0 +1,1 @@
+["li[class*=\"_sharelist_\"]:not(.last)"]

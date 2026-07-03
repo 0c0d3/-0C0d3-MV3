@@ -1,0 +1,1 @@
+[".content-body > .bg-info:has(> a[target=\"_blank\"])",".panel-body > .row > .col-md-4:has(> .panel > .panel-footer > a[href^=\"/download-fast/\"]:is([namehost^=\"UseNe\"], [namehost^=\"UseeNe\"]))",".row > div.col-sm-4:has(> section strong > a[href^=\"https://www.facebook.com/sharer\"])",".mfp-bg, .mfp-wrap"]

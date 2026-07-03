@@ -1,0 +1,1 @@
+["main + div div[class^=\"_\"]:has(> div > div > div > div > a[href^=\"https://apps.apple.com/in/app/olx-buy-sell-near-you/id913492792?\"])"]

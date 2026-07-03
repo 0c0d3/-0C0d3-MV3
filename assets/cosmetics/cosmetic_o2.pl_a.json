@@ -1,0 +1,1 @@
+["article aside > .flex-none > div[class*=\" \"]:has(> div[class*=\" \"]:first-child + script:last-child)","a[data-st-area^=\"ST-goToO2\"][href=\"/\"]","amp-ad"]

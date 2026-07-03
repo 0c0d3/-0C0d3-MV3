@@ -1,0 +1,1 @@
+["div[id^=\"list_videos\"] > div.item:has(> a:not([href*=\"porntn.com\"]) > div > iframe)"]

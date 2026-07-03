@@ -1,0 +1,1 @@
+["footer > div.container > div.footer__keywords a[href][target=\"_blank\"]","footer > div.container > div.footer__keywords > h2.footer__keyword:not(:has(> a[href][target=\"_blank\"] + a[href]))"]

@@ -1,0 +1,1 @@
+[".content > div[class]:has(> span.da-title)","[class^=\"nav\"] > a[href][target=\"_blank\"]",".video-videos-slider",".nopop"]

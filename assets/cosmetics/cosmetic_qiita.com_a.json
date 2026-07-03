@@ -1,0 +1,1 @@
+["article > div[class^=\"style-\"]:has(> a[href^=\"https://help.qiita.com/\"])"]

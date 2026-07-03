@@ -1,0 +1,1 @@
+["body > div[style^=\"pointer-events: none\"]:has(> div[style] > a[href=\"/legal\"])"]

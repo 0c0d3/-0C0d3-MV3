@@ -1,0 +1,1 @@
+["article div:not([class]) > div[class] > section[class]:has(> div[class] form > input + button:contains(подписаться))"]

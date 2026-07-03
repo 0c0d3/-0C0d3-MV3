@@ -1,0 +1,1 @@
+["div[class^=\"underplayer\"] > section","div[class*=\"review\"] > a[href*=\"?ref=\"]","div[class^=\"tag\"] > a[href][target=\"_blank\"]"]

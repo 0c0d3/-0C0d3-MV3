@@ -1,0 +1,1 @@
+["aside > div[class*=\"wrapper\"]:has(> div[class*=\"root\"] > div > div[class*=\"form\"] > label[placeholder=\"Ваш e-mail\"])"]

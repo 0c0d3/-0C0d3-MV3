@@ -1,0 +1,1 @@
+["div[data-qa=\"Card\"]:has(> div > a[href*=\"cookie_file_policy\"])","div[class^=\"special-offers-\"]","div[class^=\"page_mainColumn\"] > div[class]:has(> div[class^=\"special-offers_wrapper\"])","div[class^=\"article-footer_wrapper\"] button[name=\"Поделиться\"]","div[class^=\"share_shareLink__\"]"]

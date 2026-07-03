@@ -1,0 +1,1 @@
+["main > div[style^=\"min-height:\"]:has(> div.gliaplayer-container)"]

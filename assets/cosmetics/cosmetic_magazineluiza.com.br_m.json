@@ -1,0 +1,1 @@
+["main > section[style^=\"grid-area:\"][style*=\"footer\"] + div[width=\"100%\"]","main > section ~ div[width=\"100%\"]"]

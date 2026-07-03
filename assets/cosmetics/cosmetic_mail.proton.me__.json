@@ -1,0 +1,1 @@
+[".content-container > div[role=\"alert\"]:has(> div > button:contains(enable desktop notifications))",".content-container > div[aria-label=\"Notification\"]:has(> a[href*=\"webapp-mail-topbanner\"])",".tip-box",".bg-promotion",".topnav-listItem > button.button-promotion"]

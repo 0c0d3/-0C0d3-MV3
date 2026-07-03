@@ -1,0 +1,1 @@
+["div:has(> div[data-ad])","div[style^=\"display:\"]:has(> div[data-id=\"mobile_banner\"])","div[style^=\"display:\"]:has(> div[data-id=\"mpu\"])","div[class^=\"css-\"] > div[class^=\"css-\"]:has(> div > div.vm-placement)","div:not([class]) > div[class^=\"css-\"]:has(> div > div.vm-placement)"]

@@ -1,0 +1,1 @@
+["div[data-qa=\"right-rail-item\"]:has(> div[data-qa=\"right-rail-ad\"])","div:has(> div[data-qa=\"newsletter\"])","div[data-qa=\"subscribe-promo\"]","div[data-qa=\"wpds-tooltip-control\"]","div[data-qa=\"utility-bar-item-share\"]","div[data-qa=\"utility-bar\"] > div[data-sc-c=\"tooltip\"]"]

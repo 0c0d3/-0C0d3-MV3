@@ -1,0 +1,1 @@
+["main > div.content-block:has(> div > a[href^=\"https://news.google.com/publications/\"])"]

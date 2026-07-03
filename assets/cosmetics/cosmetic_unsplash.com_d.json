@@ -1,0 +1,1 @@
+["div[data-ad=\"true\"]","div[style^=\"--column-gutter:\"] > div[style^=\"--row-gutter:\"] > div:first-child:has(> figure a + div > span)","div[data-test=\"search-photos-route\"] div[style^=\"--column-gutter:\"] > div[class] > figure + div:has(> div + footer)"]

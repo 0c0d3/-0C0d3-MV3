@@ -1,0 +1,1 @@
+["section#alternative-list > ol > li:has(a.no-link-color[rel=\"sponsored nofollow noopener\"])","section#alternative-list > ol > li:has(div[data-testid=\"adsense-wrapper\"])"]

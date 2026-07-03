@@ -1,0 +1,1 @@
+["div[class^=\"css-\"] > div[class^=\"css-\"]:has(> div > p > button.react-share__ShareButton)"]

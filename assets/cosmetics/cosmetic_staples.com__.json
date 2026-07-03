@@ -1,0 +1,1 @@
+[".SearchRootUX2__bannerAndSkuContainer","#searchResultsContainer [data-id^=\"tile\"]:has(.standard-tile__sponsored_badge_holder)",".flexible-banner-configurator__flexibleBannerWrapper:has(a[aria-label*=\"Sponsored by\"])","[role=\"complementary\"] #observer-id-temp:has(> #SKU_FeaturedProductCarousel)",".footer-subscribe-form__formWrapper"]

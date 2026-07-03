@@ -1,0 +1,1 @@
+["astro-island[component-export=\"Mindbox\"] + div:has( > div > div > a[href=\"https://t.me/sovcomblog\"])","astro-island[component-export=\"Mindbox\"]","astro-island:has( > div > div > div > span.bg-red + div > div.wysiwyg-markup > p > a[href*=\"utm_medium=referral\"][target=\"_blank\"])","a[data-event^=\"bannerClick_\"]","astro-island[component-export=\"ShareButton\"]"]

@@ -1,0 +1,1 @@
+["div[class^=\"fbs-ad\"]","div[data-testid^=\"fbs-ad\"]","div[class]:has(> script[id^=\"article-\"][id*=\"connatix-\"])","div[class]:has(> fbs-ad)","div[class^=\"fbs-ad--\"]","div[class][style^=\"top:\"]:has(+ div[data-testid=\"fbs-ad - rightRail\"])","div[class^=\"zephr-event-promotional\"]","div[article-sharing]","div[data-testid=\"ad-container\"]"]

@@ -1,0 +1,1 @@
+[".container > div.text-xs:contains(/^Reklama/)",".container > div.container:has(> div.text-newsletter)",".facebook",".twitter",".bg-fb",".bg-twitter",".bg-linkedin",".linkedin"]

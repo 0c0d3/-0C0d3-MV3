@@ -1,0 +1,1 @@
+["body > aside:has(> h2 > div > button[aria-label=\"Close\"])"]

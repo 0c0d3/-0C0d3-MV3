@@ -1,0 +1,1 @@
+[".post ~ li:not(.post):has(div[id^=\"div-gpt-\"])"]

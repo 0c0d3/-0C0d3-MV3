@@ -1,0 +1,1 @@
+["main > article.wp-embed-responsive ~ div[class^=\"sc-\"]:has(> div[style=\"visibility: visible;\"] > div[class] > div[class] > label > input[name=\"paymentMethod\"])"]

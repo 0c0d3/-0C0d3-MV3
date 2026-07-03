@@ -1,0 +1,1 @@
+["header.contents > .sticky:has(button[aria-label=\"Close Banner\"])"]

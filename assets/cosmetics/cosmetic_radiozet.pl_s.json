@@ -1,0 +1,1 @@
+["section[class^=\"padding--\"]:has(> .advert-container:only-child)"]

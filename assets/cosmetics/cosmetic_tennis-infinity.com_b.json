@@ -1,0 +1,1 @@
+["button[onclick^=\"window.open(\"][onclick*=\"Share\"]","button[onclick^=\"window.open(\"][onclick*=\"whatsapp://send\"]"]

@@ -1,0 +1,1 @@
+["hr + div[style]:has(> a[rel=\"sponsored noopener\"])","hr + div[style]:has(> a[rel=\"sponsored noopener\"]) + div[style]"]

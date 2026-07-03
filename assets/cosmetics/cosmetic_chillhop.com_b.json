@@ -1,0 +1,1 @@
+["body > .toast:has(> .message > div > a.btn-sm)"]

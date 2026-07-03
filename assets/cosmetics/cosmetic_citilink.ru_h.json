@@ -1,0 +1,1 @@
+["header > div[class^=\"app-catalog\"]:has(> a[href^=\"https://www.citilink.ru/promo/\"])"]

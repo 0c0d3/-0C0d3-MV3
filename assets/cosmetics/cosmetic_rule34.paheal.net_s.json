@@ -1,0 +1,1 @@
+["section[id$=\"main\"] > .blockbody:has(> div[align=\"center\"] > ins)","script[src$=\"ads.js\"]:upward(section[id])"]

@@ -1,0 +1,1 @@
+["div[class^=\"sc-\"] > div[class^=\"sc-\"]:has(> div[class^=\"sc\"] > form > #email-container)","div[class^=\"Share__ShareContainer-\"]"]

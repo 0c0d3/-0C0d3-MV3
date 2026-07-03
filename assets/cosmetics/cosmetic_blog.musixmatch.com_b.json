@@ -1,0 +1,1 @@
+["body > div#root ~ div:not([class]):not([id]) > div[class*=\" \"]","button[aria-label=\"Share Post\"]","button[aria-label^=\"Share on \"]"]

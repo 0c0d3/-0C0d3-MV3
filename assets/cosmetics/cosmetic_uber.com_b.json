@@ -1,0 +1,1 @@
+["body > div[role=\"dialog\"]:has(> div[class^=\"css-\"] > div[class^=\"css-\"] > p[class^=\"css-\"] > a[href*=\"cookie-notice\"])","body > [data-baseweb=\"toaster\"]"]

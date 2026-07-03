@@ -1,0 +1,1 @@
+["#nhk-one-header-top-bar + div[class]:has(> a[href=\"https://www.nhk.or.jp/nhkone/signup-flow/?refm=guide-info\"])"]

@@ -1,0 +1,1 @@
+["section[class^=\"home_spacingBlock\"] aside[class^=\"region-section-aside_\"]:has(> div[class^=\"region-section-aside\"] > div[class^=\"ad-slot_container__\"])"]

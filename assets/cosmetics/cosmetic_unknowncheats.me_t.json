@@ -1,0 +1,1 @@
+["tbody[id^=\"threadbits_forum_\"] > tr:has(> td.alt2 > span[style=\"float:right\"] > img[alt^=\"advert\"])"]

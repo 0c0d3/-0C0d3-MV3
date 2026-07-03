@@ -1,0 +1,1 @@
+["div[class^=\"mocked-styled\"] + div[class^=\"index_css_content_\"]:has(div[data-description=\"stack-wrapper\"] p[class^=\"text_css_root_\"] a[class^=\"index_css_link_\"]:contains(куки))","div[data-description=\"stack-wrapper\"] ~ button:has(svg.platfrom-icon-ic_m_upload)"]

@@ -1,0 +1,1 @@
+["div[data-testid=\"playwright-gam-carousel-banner\"]","div[data-testid=\"product-carousel\"]:has(.sponsored-tag)"]
