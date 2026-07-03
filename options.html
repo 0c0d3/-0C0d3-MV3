@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>0c0d3 - Configuración</title>
+  <link rel="stylesheet" href="options.css">
+</head>
+<body>
+  <div id="container">
+    <div id="header">
+      <div id="brand"><span id="logo">0c0d3</span><span id="version">v3.0</span></div>
+      <div id="stats"><span id="rules-count">4993</span><span id="rules-label">reglas activas</span></div>
+    </div>
+    <div id="content">
+      <div id="info-bar">
+        <span>Última actualización: <span id="last-updated">3/7/2026, 05:41:33</span></span>
+        <button id="btn-save" class="btn-primary">Guardar cambios</button>
+        <button id="btn-refresh" class="btn-secondary">Recargar reglas</button>
+      </div>
+      <h2>Listas de filtros</h2>
+      <p class="subtitle">Selecciona las listas que deseas utilizar. Las reglas se actualizarán al guardar.</p>
+      <div id="lists-container">
+      <div class="category">
+        <div class="category-header">
+          <span class="category-name">Anuncios</span>
+          <span class="category-count">3</span>
+        </div>
+        <div class="category-items">
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9lYXN5bGlzdC50by9lYXN5bGlzdC9lYXN5bGlzdC50eHQ" data-url="https://easylist.to/easylist/easylist.txt" checked>
+          <label for="list-aHR0cHM6Ly9lYXN5bGlzdC50by9lYXN5bGlzdC9lYXN5bGlzdC50eHQ">easylist.txt</label>
+          <a href="https://easylist.to/easylist/easylist.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9wZ2wueW95by5vcmcvYWRzZXJ2ZXJzL3NlcnZlcmxpc3QucGhwP2hvc3Rmb3JtYXQ9bm9odG1s" data-url="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml" checked>
+          <label for="list-aHR0cHM6Ly9wZ2wueW95by5vcmcvYWRzZXJ2ZXJzL3NlcnZlcmxpc3QucGhwP2hvc3Rmb3JtYXQ9bm9odG1s">serverlist.php?hostformat=nohtml</label>
+          <a href="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9maWx0ZXJzLmFkdGlkeS5vcmcvZXh0ZW5zaW9uL3VibG9jay9maWx0ZXJzLzJfb3B0aW1pemVkLnR4dA" data-url="https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt" checked>
+          <label for="list-aHR0cHM6Ly9maWx0ZXJzLmFkdGlkeS5vcmcvZXh0ZW5zaW9uL3VibG9jay9maWx0ZXJzLzJfb3B0aW1pemVkLnR4dA">2_optimized.txt</label>
+          <a href="https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div></div>
+      </div>
+      <div class="category">
+        <div class="category-header">
+          <span class="category-name">Privacidad</span>
+          <span class="category-count">5</span>
+        </div>
+        <div class="category-items">
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9lYXN5bGlzdC50by9lYXN5bGlzdC9lYXN5cHJpdmFjeS50eHQ" data-url="https://easylist.to/easylist/easyprivacy.txt" checked>
+          <label for="list-aHR0cHM6Ly9lYXN5bGlzdC50by9lYXN5bGlzdC9lYXN5cHJpdmFjeS50eHQ">easyprivacy.txt</label>
+          <a href="https://easylist.to/easylist/easyprivacy.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FkZ3VhcmRUZWFtL0ZpbHRlcnNSZWdpc3RyeS9tYXN0ZXIvZmlsdGVycy9maWx0ZXJfM19TcHl3YXJlL2ZpbHRlci50eHQ" data-url="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt" checked>
+          <label for="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FkZ3VhcmRUZWFtL0ZpbHRlcnNSZWdpc3RyeS9tYXN0ZXIvZmlsdGVycy9maWx0ZXJfM19TcHl3YXJlL2ZpbHRlci50eHQ">filter.txt</label>
+          <a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FkZ3VhcmRUZWFtL0ZpbHRlcnNSZWdpc3RyeS9tYXN0ZXIvZmlsdGVycy9maWx0ZXJfMTdfVHJhY2tQYXJhbS9maWx0ZXIudHh0" data-url="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt" checked>
+          <label for="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FkZ3VhcmRUZWFtL0ZpbHRlcnNSZWdpc3RyeS9tYXN0ZXIvZmlsdGVycy9maWx0ZXJfMTdfVHJhY2tQYXJhbS9maWx0ZXIudHh0">filter.txt</label>
+          <a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lva29mZmluZy9maWx0ZXJsaXN0cy9yZWZzL2hlYWRzL21haW4vcHJpdmFjeV9lc3NlbnRpYWxzLnR4dA" data-url="https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/privacy_essentials.txt" checked>
+          <label for="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lva29mZmluZy9maWx0ZXJsaXN0cy9yZWZzL2hlYWRzL21haW4vcHJpdmFjeV9lc3NlbnRpYWxzLnR4dA">privacy_essentials.txt</label>
+          <a href="https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/privacy_essentials.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lva29mZmluZy9maWx0ZXJsaXN0cy9yZWZzL2hlYWRzL21haW4vY2xpY2sybG9hZC50eHQ" data-url="https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/click2load.txt" checked>
+          <label for="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lva29mZmluZy9maWx0ZXJsaXN0cy9yZWZzL2hlYWRzL21haW4vY2xpY2sybG9hZC50eHQ">click2load.txt</label>
+          <a href="https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/click2load.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div></div>
+      </div>
+      <div class="category">
+        <div class="category-header">
+          <span class="category-name">Molestias</span>
+          <span class="category-count">6</span>
+        </div>
+        <div class="category-items">
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9lYXN5bGlzdC50by9lYXN5bGlzdC9mYW5ib3ktYW5ub3lhbmNlLnR4dA" data-url="https://easylist.to/easylist/fanboy-annoyance.txt" checked>
+          <label for="list-aHR0cHM6Ly9lYXN5bGlzdC50by9lYXN5bGlzdC9mYW5ib3ktYW5ub3lhbmNlLnR4dA">fanboy-annoyance.txt</label>
+          <a href="https://easylist.to/easylist/fanboy-annoyance.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9lYXN5bGlzdC50by9lYXN5bGlzdC9mYW5ib3ktc29jaWFsLnR4dA" data-url="https://easylist.to/easylist/fanboy-social.txt" checked>
+          <label for="list-aHR0cHM6Ly9lYXN5bGlzdC50by9lYXN5bGlzdC9mYW5ib3ktc29jaWFsLnR4dA">fanboy-social.txt</label>
+          <a href="https://easylist.to/easylist/fanboy-social.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9maWx0ZXJzLmFkdGlkeS5vcmcvZXh0ZW5zaW9uL3VibG9jay9maWx0ZXJzLzE0X29wdGltaXplZC50eHQ" data-url="https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt" checked>
+          <label for="list-aHR0cHM6Ly9maWx0ZXJzLmFkdGlkeS5vcmcvZXh0ZW5zaW9uL3VibG9jay9maWx0ZXJzLzE0X29wdGltaXplZC50eHQ">14_optimized.txt</label>
+          <a href="https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3VCbG9ja09yaWdpbi91QXNzZXRzL21hc3Rlci9maWx0ZXJzL2Fubm95YW5jZXMudHh0" data-url="https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt" checked>
+          <label for="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3VCbG9ja09yaWdpbi91QXNzZXRzL21hc3Rlci9maWx0ZXJzL2Fubm95YW5jZXMudHh0">annoyances.txt</label>
+          <a href="https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly93d3cuaS1kb250LWNhcmUtYWJvdXQtY29va2llcy5ldS9hYnAv" data-url="https://www.i-dont-care-about-cookies.eu/abp/" checked>
+          <label for="list-aHR0cHM6Ly93d3cuaS1kb250LWNhcmUtYWJvdXQtY29va2llcy5ldS9hYnAv">https://www.i-dont-care-about-cookies.eu/abp/</label>
+          <a href="https://www.i-dont-care-about-cookies.eu/abp/" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9zZWN1cmUuZmFuYm95LmNvLm56L2ZhbmJveS1jb29raWUudHh0" data-url="https://secure.fanboy.co.nz/fanboy-cookie.txt" checked>
+          <label for="list-aHR0cHM6Ly9zZWN1cmUuZmFuYm95LmNvLm56L2ZhbmJveS1jb29raWUudHh0">fanboy-cookie.txt</label>
+          <a href="https://secure.fanboy.co.nz/fanboy-cookie.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div></div>
+      </div>
+      <div class="category">
+        <div class="category-header">
+          <span class="category-name">Redes Sociales</span>
+          <span class="category-count">3</span>
+        </div>
+        <div class="category-items">
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FkZ3VhcmRUZWFtL0ZpbHRlcnNSZWdpc3RyeS9tYXN0ZXIvZmlsdGVycy9maWx0ZXJfNF9Tb2NpYWwvZmlsdGVyLnR4dA" data-url="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt" checked>
+          <label for="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FkZ3VhcmRUZWFtL0ZpbHRlcnNSZWdpc3RyeS9tYXN0ZXIvZmlsdGVycy9maWx0ZXJfNF9Tb2NpYWwvZmlsdGVyLnR4dA">filter.txt</label>
+          <a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9lYXN5bGlzdC1kb3dubG9hZHMuYWRibG9ja3BsdXMub3JnL2ZhbmJveS1zb2NpYWwudHh0" data-url="https://easylist-downloads.adblockplus.org/fanboy-social.txt" checked>
+          <label for="list-aHR0cHM6Ly9lYXN5bGlzdC1kb3dubG9hZHMuYWRibG9ja3BsdXMub3JnL2ZhbmJveS1zb2NpYWwudHh0">fanboy-social.txt</label>
+          <a href="https://easylist-downloads.adblockplus.org/fanboy-social.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL0Jldml6TGFzemxvL1VCbG9jay1GaWx0ZXJzLWZvci1Tb2NpYWwtTWVkaWFAbGF0ZXN0L2ZpbHRlcmxpc3QudHh0" data-url="https://cdn.jsdelivr.net/gh/BevizLaszlo/UBlock-Filters-for-Social-Media@latest/filterlist.txt" checked>
+          <label for="list-aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL0Jldml6TGFzemxvL1VCbG9jay1GaWx0ZXJzLWZvci1Tb2NpYWwtTWVkaWFAbGF0ZXN0L2ZpbHRlcmxpc3QudHh0">filterlist.txt</label>
+          <a href="https://cdn.jsdelivr.net/gh/BevizLaszlo/UBlock-Filters-for-Social-Media@latest/filterlist.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div></div>
+      </div>
+      <div class="category">
+        <div class="category-header">
+          <span class="category-name">Limpieza de URLs</span>
+          <span class="category-count">2</span>
+        </div>
+        <div class="category-items">
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhbmRlbGlvblNwcm91dC9hZGZpbHQvcmVmcy9oZWFkcy9tYXN0ZXIvTGVnaXRpbWF0ZVVSTFNob3J0ZW5lci50eHQ" data-url="https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt" checked>
+          <label for="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhbmRlbGlvblNwcm91dC9hZGZpbHQvcmVmcy9oZWFkcy9tYXN0ZXIvTGVnaXRpbWF0ZVVSTFNob3J0ZW5lci50eHQ">LegitimateURLShortener.txt</label>
+          <a href="https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhbmRlbGlvblNwcm91dC9hZGZpbHQvcmVmcy9oZWFkcy9tYXN0ZXIvQ2xlYXJVUkxzJTIwZm9yJTIwdUJvL2NsZWFyX3VybHNfdWJvaWZpZWQudHh0" data-url="https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt" checked>
+          <label for="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0RhbmRlbGlvblNwcm91dC9hZGZpbHQvcmVmcy9oZWFkcy9tYXN0ZXIvQ2xlYXJVUkxzJTIwZm9yJTIwdUJvL2NsZWFyX3VybHNfdWJvaWZpZWQudHh0">clear_urls_uboified.txt</label>
+          <a href="https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div></div>
+      </div>
+      <div class="category">
+        <div class="category-header">
+          <span class="category-name">Móviles</span>
+          <span class="category-count">1</span>
+        </div>
+        <div class="category-items">
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9maWx0ZXJzLmFkdGlkeS5vcmcvZXh0ZW5zaW9uL3VibG9jay9maWx0ZXJzLzExX29wdGltaXplZC50eHQ" data-url="https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt" checked>
+          <label for="list-aHR0cHM6Ly9maWx0ZXJzLmFkdGlkeS5vcmcvZXh0ZW5zaW9uL3VibG9jay9maWx0ZXJzLzExX29wdGltaXplZC50eHQ">11_optimized.txt</label>
+          <a href="https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div></div>
+      </div>
+      <div class="category">
+        <div class="category-header">
+          <span class="category-name">Anti-adblock</span>
+          <span class="category-count">2</span>
+        </div>
+        <div class="category-items">
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9lYXN5bGlzdC1kb3dubG9hZHMuYWRibG9ja3BsdXMub3JnL2FudGlhZGJsb2NrZmlsdGVycy50eHQ" data-url="https://easylist-downloads.adblockplus.org/antiadblockfilters.txt" checked>
+          <label for="list-aHR0cHM6Ly9lYXN5bGlzdC1kb3dubG9hZHMuYWRibG9ja3BsdXMub3JnL2FudGlhZGJsb2NrZmlsdGVycy50eHQ">antiadblockfilters.txt</label>
+          <a href="https://easylist-downloads.adblockplus.org/antiadblockfilters.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3JlZWsvYW50aS1hZGJsb2NrLWtpbGxlci9tYXN0ZXIvYW50aS1hZGJsb2NrLWtpbGxlci1maWx0ZXJzLnR4dA" data-url="https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt" checked>
+          <label for="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3JlZWsvYW50aS1hZGJsb2NrLWtpbGxlci9tYXN0ZXIvYW50aS1hZGJsb2NrLWtpbGxlci1maWx0ZXJzLnR4dA">anti-adblock-killer-filters.txt</label>
+          <a href="https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div></div>
+      </div>
+      <div class="category">
+        <div class="category-header">
+          <span class="category-name">Paywalls</span>
+          <span class="category-count">2</span>
+        </div>
+        <div class="category-items">
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2xpYW1lbmdsYW5kMS9taXNjZmlsdGVycy9yZWZzL2hlYWRzL21hc3Rlci9hbnRpcGF5d2FsbC50eHQ" data-url="https://raw.githubusercontent.com/liamengland1/miscfilters/refs/heads/master/antipaywall.txt" checked>
+          <label for="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2xpYW1lbmdsYW5kMS9taXNjZmlsdGVycy9yZWZzL2hlYWRzL21hc3Rlci9hbnRpcGF5d2FsbC50eHQ">antipaywall.txt</label>
+          <a href="https://raw.githubusercontent.com/liamengland1/miscfilters/refs/heads/master/antipaywall.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9naXRmbGljLnJ1L3Byb2plY3QvbWFnbm9saWExMjM0L2J5cGFzcy1wYXl3YWxscy1jbGVhbi1maWx0ZXJzL2Jsb2IvcmF3P2ZpbGU9YnBjLXBheXdhbGwtZmlsdGVyLnR4dA" data-url="https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=bpc-paywall-filter.txt" checked>
+          <label for="list-aHR0cHM6Ly9naXRmbGljLnJ1L3Byb2plY3QvbWFnbm9saWExMjM0L2J5cGFzcy1wYXl3YWxscy1jbGVhbi1maWx0ZXJzL2Jsb2IvcmF3P2ZpbGU9YnBjLXBheXdhbGwtZmlsdGVyLnR4dA">raw?file=bpc-paywall-filter.txt</label>
+          <a href="https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=bpc-paywall-filter.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div></div>
+      </div>
+      <div class="category">
+        <div class="category-header">
+          <span class="category-name">YouTube</span>
+          <span class="category-count">2</span>
+        </div>
+        <div class="category-items">
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3VCbG9ja09yaWdpbi91QXNzZXRzL21hc3Rlci9maWx0ZXJzL3F1aWNrLWZpeGVzLnR4dA" data-url="https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt" checked>
+          <label for="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3VCbG9ja09yaWdpbi91QXNzZXRzL21hc3Rlci9maWx0ZXJzL3F1aWNrLWZpeGVzLnR4dA">quick-fixes.txt</label>
+          <a href="https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2phcnRmL3VibG9jay1saXN0cy9tYWluL1lvdVR1YmUvYW50aS1hZGJsb2NrLWJ5cGFzcy50eHQ" data-url="https://raw.githubusercontent.com/jartf/ublock-lists/main/YouTube/anti-adblock-bypass.txt" checked>
+          <label for="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2phcnRmL3VibG9jay1saXN0cy9tYWluL1lvdVR1YmUvYW50aS1hZGJsb2NrLWJ5cGFzcy50eHQ">anti-adblock-bypass.txt</label>
+          <a href="https://raw.githubusercontent.com/jartf/ublock-lists/main/YouTube/anti-adblock-bypass.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div></div>
+      </div>
+      <div class="category">
+        <div class="category-header">
+          <span class="category-name">Seguridad</span>
+          <span class="category-count">2</span>
+        </div>
+        <div class="category-items">
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2hhZ2V6aS9kbnMtYmxvY2tsaXN0cy9yZWZzL2hlYWRzL21haW4vYWRibG9jay9wcm8ubWluaS50eHQ" data-url="https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/pro.mini.txt" checked>
+          <label for="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2hhZ2V6aS9kbnMtYmxvY2tsaXN0cy9yZWZzL2hlYWRzL21haW4vYWRibG9jay9wcm8ubWluaS50eHQ">pro.mini.txt</label>
+          <a href="https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/pro.mini.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div>
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NidWlqcy9oYWdlemkvcmVmcy9oZWFkcy9tYWluL2NvbWJvL2FsdC1zdWdnZXN0ZWQvZG9tYWlucy50b3Atbg" data-url="https://raw.githubusercontent.com/cbuijs/hagezi/refs/heads/main/combo/alt-suggested/domains.top-n" checked>
+          <label for="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NidWlqcy9oYWdlemkvcmVmcy9oZWFkcy9tYWluL2NvbWJvL2FsdC1zdWdnZXN0ZWQvZG9tYWlucy50b3Atbg">domains.top-n</label>
+          <a href="https://raw.githubusercontent.com/cbuijs/hagezi/refs/heads/main/combo/alt-suggested/domains.top-n" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div></div>
+      </div>
+      <div class="category">
+        <div class="category-header">
+          <span class="category-name">Otros</span>
+          <span class="category-count">1</span>
+        </div>
+        <div class="category-items">
+        <div class="list-item">
+          <input type="checkbox" id="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lhbS1weS10ZXN0L3VCbG9jay1jb21iby9tYWluL2xpc3QudHh0" data-url="https://raw.githubusercontent.com/iam-py-test/uBlock-combo/main/list.txt" checked>
+          <label for="list-aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lhbS1weS10ZXN0L3VCbG9jay1jb21iby9tYWluL2xpc3QudHh0">list.txt</label>
+          <a href="https://raw.githubusercontent.com/iam-py-test/uBlock-combo/main/list.txt" target="_blank" class="list-link" title="Abrir lista">↗</a>
+        </div></div>
+      </div></div>
+    </div>
+    <div id="footer"><span>Hecho con ❤️ para Firefox</span></div>
+  </div>
+  <script src="options.js"></script>
+</body>
+</html>
