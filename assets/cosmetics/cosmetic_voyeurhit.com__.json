@@ -1,1 +1,0 @@
-[".video-page > div[class] > div[class]:only-child:has(> div[class] > span:matches-css(before, content: /^Advertisement$/))",".video-page__underplayer > div:not([class^=\"underplayer\"])",".video-page > div.video-related + div[class]",".footer-banners",".header__list > li > a[href][target=\"_blank\"]",".nopop"]

@@ -1,1 +1,0 @@
-["body > div:has(> div.unf-sheet__wrapper div > button[data-testid=\"btn_buka_di_aplikasi\"])"]

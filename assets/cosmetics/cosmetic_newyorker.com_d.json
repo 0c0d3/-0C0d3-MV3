@@ -1,1 +1,0 @@
-["div[class^=\"StickyHeroAdWrapper-\"]","div[class^=\"MessageBannerWrapper-\"]","div[data-testid=\"message-banner\"]","div[class^=\"LinkStackContent-\"] > div[class^=\"LinkStackFooter-\"]:has(> div a[href=\"https://www.newyorker.com/newsletter/daily\"])","div[class^=\"paywall\"]"]

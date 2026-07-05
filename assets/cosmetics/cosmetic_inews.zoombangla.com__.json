@@ -1,1 +1,0 @@
-[".code-block + div[class]:has(> blockquote > strong > a[href^=\"https://news.google.com/publications/\"])"]

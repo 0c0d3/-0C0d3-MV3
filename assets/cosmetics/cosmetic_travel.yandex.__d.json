@@ -1,1 +1,0 @@
-["div[data-seo=\"transport_snippet\"] ~ div:not([data-seo=\"transport_snippet\"]):has(form[name=\"MODAL_SUBSCRIPTION\"])"]

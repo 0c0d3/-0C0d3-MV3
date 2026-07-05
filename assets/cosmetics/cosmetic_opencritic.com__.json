@@ -1,1 +1,0 @@
-[".flex-grow-1 > app-advertisement ~ .mx-4:has(> div > .affiliate-button-container)",".flex-grow-1 > app-advertisement ~ .mx-4:has(> div > .affiliate-button-container) + hr",".flex-grow-1 > app-advertisement ~ .mx-4:has(> div > .affiliate-button-container) + hr + div + hr",".social-buttons",".oc-calendar__header + div[class=\"text-center mt-4\"]",".ad-container"]

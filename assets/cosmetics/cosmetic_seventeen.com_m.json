@@ -1,1 +1,0 @@
-["main .text-under-lede ~ div[class*=\" \"] > div:has(div[aria-label=\"Share article\"])"]

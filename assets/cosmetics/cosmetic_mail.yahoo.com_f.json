@@ -1,1 +1,0 @@
-["form[method=\"get\"][action^=\"/mb/\"] ~ div[class*=\" \"] > img[src*=\"beap.gemini.yahoo.com/\"] + div","form[name=\"showFolderForm\"] > div.mb"]

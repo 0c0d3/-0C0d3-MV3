@@ -1,1 +1,0 @@
-["ul[class^=\"PageUtils_container\"] > li:not([class*=\"PageUtils_standard\"]):has(> [data-analytics^=\"share\"])"]

@@ -1,1 +1,0 @@
-[".col-sidebar > div.card:has(> div.card-body > div.menu > a[href^=\"https://facebook.com/sharer/sharer.php?\"])"]

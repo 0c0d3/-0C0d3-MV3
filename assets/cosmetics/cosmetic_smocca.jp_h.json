@@ -1,1 +1,0 @@
-["header ~ div[class] > div[class]:has(> .container > .t_center > a[href][class] > img.v_top)"]

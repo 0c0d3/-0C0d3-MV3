@@ -1,1 +1,0 @@
-["body > #right-space","body > div[id^=\"modal-\"]:has(> div.announce > div.content > div#after-content)"]

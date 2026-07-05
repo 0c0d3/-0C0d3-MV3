@@ -1,1 +1,0 @@
-["div[class]:has(> div.text-\\[\\#323232\\] + div[data-type=ad])"]

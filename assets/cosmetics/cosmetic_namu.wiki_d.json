@@ -1,1 +1,0 @@
-["div[class*=\" \"] > div[class*=\" \"]:has(> a[target=\"_blank\"][rel=\"noopener\"]):contains(더 보기)"]

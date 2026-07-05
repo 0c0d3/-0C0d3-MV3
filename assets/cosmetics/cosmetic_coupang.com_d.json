@@ -1,1 +1,0 @@
-["div[class$=\"-share\"] > button:has(> svg[data-sentry-component=\"ShareIcon\"])"]

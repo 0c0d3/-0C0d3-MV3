@@ -1,1 +1,0 @@
-["button[data-test-selector=\"modal-test-selector-close-button\"] ~ div[class] > div > span + div:has(> button[data-test-selector=\"facebook-share-cta\"])","button[data-test-selector^=\"preview-banner-\"]:upward(#document-wrapper>div)"]

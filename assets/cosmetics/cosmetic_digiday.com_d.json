@@ -1,1 +1,0 @@
-["div[aria-label=\"Inline Form\"][id^=\"lightbox-\"]:has(> [aria-label^=\"Modal Overlay\"])"]

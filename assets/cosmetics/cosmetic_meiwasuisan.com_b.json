@@ -1,1 +1,0 @@
-["body > div.toTheEdge:has(> ul.sns-buttons)","body > .toTheEdge:has(> div[id^=\"im-\"]:only-child)","body > .toTheEdge:has(> script[src^=\"//\"]:only-child)","body > .toTheEdge[style]:has(> a[target=\"_blank\"]:only-child)"]

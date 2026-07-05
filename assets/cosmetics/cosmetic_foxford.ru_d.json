@@ -1,1 +1,0 @@
-["div[class*=\"ContentContainer\"] > div > div:has( > div > div > .slick-slider > .slick-list > .slick-track > .slick-slide > div > div > div[class*=\"QrWrapper\"])","div[class^=\"styled__Share-\"]"]

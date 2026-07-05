@@ -1,1 +1,0 @@
-["div[itemprop=\"articleBody\"] > div[class^=\"_\"] > div[class] >  p","div[itemprop=\"articleBody\"] ~ div[class] > div[class^=\"_\"]:has(> a[href^=\"//telegram.me/share/url\"])"]

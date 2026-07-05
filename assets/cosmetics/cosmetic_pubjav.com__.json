@@ -1,1 +1,0 @@
-[".mvic-ads","#main + div.container > div.row:has(> div[class^=\"ads-player\"])"]

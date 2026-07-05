@@ -1,1 +1,0 @@
-[".main-body > div.box:has(> h3 ~ a[href^=\"//2ch-c.net/\"][target=\"_blank\"])",".main-body > div#inner-contents ~ a[href=\"https://2ch.sc/\"]",".main-body > div#inner-contents ~ a[href=\"https://open2ch.net/\"]"]

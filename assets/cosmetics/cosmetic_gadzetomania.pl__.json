@@ -1,1 +1,0 @@
-["#cop","#main-content > div > div > div[style] ~ div:has(> span + a)"]

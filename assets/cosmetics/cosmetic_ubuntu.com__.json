@@ -1,1 +1,0 @@
-["#main-content div[class^=\"row-\"] > .col:has(>  form[onsubmit*=\"newsletter signup\"])",".blog-p-card--muted:has(> .blog-p-card__content > form[onsubmit*=\"newsletter signup\"])"]

@@ -1,1 +1,0 @@
-["article > section[class^=\"sc-\"] > div[class^=\"sc-\"]:has(> ul > li > a[href^=\"https://social-plugins.line.me/lineit/share?\"])"]

@@ -1,1 +1,0 @@
-["div[data-search-results-region] li:has( div[class*=\"merch-stash\"]:only-child > a > div[class*=\"listing-card__info\"] p > span:not([aria-hidden=\"true\"]):contains(Etsy))","div[data-selector=\"privacy-cookie-banner-container\"]","div[data-etsy-promo-cookie-expires]","div[data-gdpr-consent-prompt]","div[data-appears-component-name=\"app_download\"]"]

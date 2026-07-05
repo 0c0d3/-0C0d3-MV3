@@ -1,1 +1,0 @@
-["ul[class^=\"uni-box-slider__chunk\"] > .col-span-1:has(> div.contents > div > div.flex-col > div > div.inline-grid:contains(SPONSORED))"]

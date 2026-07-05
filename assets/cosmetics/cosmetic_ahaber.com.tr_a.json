@@ -1,1 +1,0 @@
-["a[title=\"Google Keşfet\"]","article.article-detail-content + div:has(> a[title=\"Google Keşfet\"])","a[onclick=\"SocialMediaShare(this)\"]"]

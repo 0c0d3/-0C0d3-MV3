@@ -1,1 +1,0 @@
-["div[data-e2e=\"ogm-branding\"] > div[class]:has(> div:only-child > div:only-child > div[data-e2e=\"mol-advert\"])","div[data-e2e=\"mol-advert\"]","div[data-advert=\"sticky-container\"]"]

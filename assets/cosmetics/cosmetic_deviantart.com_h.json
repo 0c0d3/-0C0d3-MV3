@@ -1,1 +1,0 @@
-["header[role=\"banner\"] ~ div[class*=\" \"]:has(> span.surface > a[href=\"https://www.deviantart.com/users/login\"])"]

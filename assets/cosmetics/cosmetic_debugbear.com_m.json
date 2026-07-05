@@ -1,1 +1,0 @@
-["main > div[class^=\"container_\"]:has(> form#mc-embedded-subscribe-form)"]

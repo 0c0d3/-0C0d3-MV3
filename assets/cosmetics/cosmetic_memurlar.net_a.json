@@ -1,1 +1,0 @@
-["a[href^=\"https://news.google.com/publications/\"]","article > div[class]:has(> a[target=\"_app\"])"]

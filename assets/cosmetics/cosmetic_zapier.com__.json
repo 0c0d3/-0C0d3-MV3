@@ -1,1 +1,0 @@
-["#mainContent div[class^=\"css-\"] > div[class^=\"css-\"]:has(> div[data-testid=\"signup-popup\"])","#at-share-dock"]

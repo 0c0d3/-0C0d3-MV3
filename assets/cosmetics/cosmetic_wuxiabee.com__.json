@@ -1,1 +1,0 @@
-[".chapter-content > p + div[class]:has(> div[id] > script)"]

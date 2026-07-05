@@ -1,1 +1,0 @@
-["div[style=\"height: 0.66rem;\"]","div[style=\"height:0.66rem\"]","div[role=\"main\"] > div[class^=\"container-\"]:has(> div[class^=\"wrap-\"] > div[class^=\"guideText-\"] + div[class^=\"guideButton-\"])"]

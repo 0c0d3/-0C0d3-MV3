@@ -1,1 +1,0 @@
-["article > .embed-action-bar:has(> div[class^=\"action-bar_commentsCtaWrapper_\"]:empty + div[class^=\"post_shareTop__\"])"]

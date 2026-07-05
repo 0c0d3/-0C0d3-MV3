@@ -1,1 +1,0 @@
-["[class*=\"ProductsGrid_grid_item\"]:has([data-testid=\"marketing tag\"])"]

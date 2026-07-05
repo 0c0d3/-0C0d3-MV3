@@ -1,1 +1,0 @@
-["#app-content > div[class]:has(> div > div[class][style*=\"//news.pn/\"])"]

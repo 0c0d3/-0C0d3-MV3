@@ -1,1 +1,0 @@
-[".items > div:has(> iframe[src*=\".php?iframe_id=_\"])"]

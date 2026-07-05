@@ -1,1 +1,0 @@
-["div[data-testid^=\"commercial-\"]","div[class^=\"sc-\"]:has(> span[aria-live=\"polite\"] > .react-loading-skeleton)","div[data-testid^=\"non-commercial-\"]","div[data-testid^=\"recommended-\"]","div[class^=\"ShareBar_sharebar-wrapper_\"] > div[class^=\"ShareBar_\"]"]

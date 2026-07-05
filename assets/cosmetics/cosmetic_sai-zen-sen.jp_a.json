@@ -1,1 +1,0 @@
-["article[id^=\"comic-\"] > footer:has(a[href=\"https://twitter.com/twi_yon\"])","article[id^=\"comic-\"] > aside:has(> div.misc > p > a[href^=\"https://www.amazon.co.jp/\"])"]

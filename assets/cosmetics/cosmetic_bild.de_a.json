@@ -1,1 +1,0 @@
-["article:has(> a:only-child > figure > img[alt*=\"Newsletter\"])"]

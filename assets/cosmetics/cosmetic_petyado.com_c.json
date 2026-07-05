@@ -1,1 +1,0 @@
-["center > div > table.font12 + table[width=\"1200\"]:not([class])","center > div > table[width=\"1200\"]:has(> tbody > tr > td[height=\"310\"] > script)"]

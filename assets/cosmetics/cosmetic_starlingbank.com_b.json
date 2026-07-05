@@ -1,1 +1,0 @@
-["body > div[data-focus-lock-disabled]:has(> div[role=\"dialog\"] > div[class] > h3)"]

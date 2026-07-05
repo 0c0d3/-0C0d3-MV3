@@ -1,1 +1,0 @@
-["div[data-v3-view-type=\"V3Wrapper\"]:has(> span[data-testid=\"feed-item-visibility-tracker\"] > div[id^=\"feedItem_\"] span[class*=\"Item\"]:contains(Sponsored))","div[data-testid=\"feed-item-card\"]:has(span[class^=\"reset_\"]:contains(А⁠d))"]

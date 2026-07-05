@@ -1,1 +1,0 @@
-["section > div.tip-box:has(> div.tip-box-content > p > span > button:contains(@pm.me))"]

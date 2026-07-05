@@ -1,1 +1,0 @@
-["div[class^=\"subscribeWidget\"]","div[class^=\"_\"]:has(> h4:contains(/^Подпишитесь на нашу рассылку$/))","div[class^=\"sideSocials_socialWrapper__\"]"]

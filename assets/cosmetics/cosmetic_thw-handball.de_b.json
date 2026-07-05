@@ -1,1 +1,0 @@
-["body > footer ~ div:not([class]) > div[style*=\"fixed\"], body > .js-slide-in.is-active"]

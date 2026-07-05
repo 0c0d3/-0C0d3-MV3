@@ -1,1 +1,0 @@
-["div[class*=\"absolute\"][style*=\"width:\"][style*=\"height:\"]:has(> div:not([class], [id]) > div:not([class], [id]):only-child > div[class^=\"ad-width-\"]:only-child)"]

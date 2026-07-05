@@ -1,1 +1,0 @@
-[":matches-path(/^\\\\/$|\\\\/\\\\?/) div[data-zone-data*=\"bannerUrl\"]:not([data-zone-name=\"deals-banner\"])",".main > noindex:not([data-tid])"]

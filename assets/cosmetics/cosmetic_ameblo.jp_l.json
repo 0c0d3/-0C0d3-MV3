@@ -1,1 +1,0 @@
-["li[class^=\"_\"] > div[class^=\"_\"] > img[alt=\"PR\"]:upward(2)","li[class^=\"_\"] > div:not([class]):only-child:empty:upward(1)"]

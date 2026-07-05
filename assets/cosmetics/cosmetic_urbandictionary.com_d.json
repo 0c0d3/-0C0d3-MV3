@@ -1,1 +1,0 @@
-["div.definition[data-word] .mb-8 > div:has(button[onclick*=\"navigator.share\"])"]

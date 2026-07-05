@@ -1,1 +1,0 @@
-["[href*=\".ivank.net\"]",".window:has(> div.body > p:contains(blocked ads))",".window:has(> div.body > div > div:contains(ad blocker))",".app > div + div[style]:has(a[href*=\"blocking-ads\"])","#uniccmp"]

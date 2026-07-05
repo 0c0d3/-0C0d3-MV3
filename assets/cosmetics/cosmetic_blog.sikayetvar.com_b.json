@@ -1,1 +1,0 @@
-["body > div#root ~ div:not([class]):not([id]) > div[class*=\" \"]"]

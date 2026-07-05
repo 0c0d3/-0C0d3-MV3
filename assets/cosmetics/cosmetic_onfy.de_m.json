@@ -1,1 +1,0 @@
-["main > div[class^=\"sc-\"] > section[class^=\"sc-\"]:has(> div[class^=\"sc-\"] > div[class^=\"sc-\"] > ul > li > a[href^=\"https://app.adjust.com/\"][href*=\"?deep_link=onfy\"])"]

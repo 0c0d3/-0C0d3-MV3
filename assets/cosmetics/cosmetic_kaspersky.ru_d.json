@@ -1,1 +1,0 @@
-["div[class^=\"ArticleBody_articleSidebar\"] > div[class^=\"ArticleBody_articleSidebarBlock\"]:has(> div[class^=\"ArticleBody_htmlBody\"] div[class^=\"BitrixForm_formWrapper\"])","div[class^=\"ArticleBody_conten\"] > p > a[href^=\"/downloads/secure-connection-free-trial?\"]"]

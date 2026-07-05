@@ -1,1 +1,0 @@
-["body[class*=\"news_phone\"] div.news-container > span > div > div.unit:has(> div.turbo-advert__item)"]

@@ -1,1 +1,0 @@
-["[href^=\"https://go.nordvpn.net/\"]","#object_container",".vertical-view__column > .vertical-view__item:has(> div[style$=\"overflow: hidden;\"])",".popup:has(> .popup__box div:contains(adblocker))",".popup--sticky:not(:has(:is(div.login_popup_box, button[class^=\"PrimaryCloseButton_\"])))"]

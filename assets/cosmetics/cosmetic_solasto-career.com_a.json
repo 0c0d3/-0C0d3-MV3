@@ -1,1 +1,0 @@
-["article > div[class] ~ div[class]:has(> p > button[class^=\"react-share\"])"]

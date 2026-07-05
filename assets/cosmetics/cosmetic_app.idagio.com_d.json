@@ -1,1 +1,0 @@
-["div[class^=\"modals\"]:has(> div[class^=\"ReactModal\"] > div[aria-label=\"gdpr-opt-out-modal\"])"]

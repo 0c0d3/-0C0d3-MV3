@@ -1,1 +1,0 @@
-["div:has(> a[href=\"/user/profile/premium-membership\"]):not(:has(img[src=\"/dist/image/header/premiumImg.png\"]))"]

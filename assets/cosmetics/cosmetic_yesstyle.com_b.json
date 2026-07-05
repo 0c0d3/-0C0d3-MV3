@@ -1,1 +1,0 @@
-["body > div[class*=\"floatingActionBar\"]:has(> button[title=\"Message Us\"])","button[aria-label=\"friend rewards\"]"]

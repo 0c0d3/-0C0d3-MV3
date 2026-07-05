@@ -1,1 +1,0 @@
-["main[data-testid=\"zci-products\"] > nav + div > div:has( > h2 button[data-testid=\"ad-badge\"])"]

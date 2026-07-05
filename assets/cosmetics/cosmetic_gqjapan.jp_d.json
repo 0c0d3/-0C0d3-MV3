@@ -1,1 +1,0 @@
-["div[class*=\"ContentFooterWrapper-\"]:has(> div > div.wide-adrail)","div[class^=\"CurationBannerWrapper\"]","div[class^=\"NativeShareIconWrapper-\"]","div[class^=\"ContentHeaderNativeShareButton\"]","div[class^=\"TwoColumnsWithHorizontalAdMosaicWrapper\"]"]

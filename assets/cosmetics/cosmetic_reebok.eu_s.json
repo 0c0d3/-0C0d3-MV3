@@ -1,1 +1,0 @@
-["section[class^=\"css-\"]:has([data-test=\"newsletter-banner-title\"])","section[data-test=\"cookie-banner\"]"]

@@ -1,1 +1,0 @@
-["aside > div[class^=\"bg-dark\"]:has(> form[action=\"/api/newsletter/subscribe\"])","aside > div[class^=\"border-\"]:has(> h2 > span:contains(Ad-Free))"]

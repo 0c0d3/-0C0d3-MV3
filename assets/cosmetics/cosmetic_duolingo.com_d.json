@@ -1,1 +1,0 @@
-["div[class*=\" \"] > div[class^=\"_\"]:not([class*=\" \"]) > div[class*=\" \"]:has(> div[class^=\"_\"]:only-child > div[class^=\"_\"]:first-child > ins.adsbygoogle)","div[class^=\"_\"]:has(> div[class^=\"_\"] > a[href*=\"How-can-I-disable-my-ad-blocker-to-support-Duolingo\"])"]

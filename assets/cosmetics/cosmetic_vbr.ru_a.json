@@ -1,1 +1,0 @@
-["article > div[class*=\"Paper_root\"]:has(> div[class^=\"news-custom-banner_info\"] > div[class^=\"news-custom-banner_subtitle\"] > span:contains(Скачать приложение))"]

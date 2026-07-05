@@ -1,1 +1,0 @@
-["div[class^=\"_app_\"] > div[class^=\"PopupBaseInternal_root__\"]:has(> div[role=\"dialog\"] div[class*=\"CookieVolumoPopup_\"])"]

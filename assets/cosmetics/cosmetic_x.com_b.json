@@ -1,1 +1,0 @@
-["body > .flex > div[role=\"region\"][aria-label]:has(> .flex-col.gap-2 > button.text-body.bg-white.border-transparent + button.text-body.bg-white.border-transparent)"]

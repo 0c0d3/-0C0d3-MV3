@@ -1,1 +1,0 @@
-["body > div[id*=\"-wrapper\"]:has(> div[id*=\"-\"]:only-child > a[href=\"/vip/advertising\"])"]

@@ -1,1 +1,0 @@
-["#article-root ~ div[class]:has(> div[class] > div[class] > div[class] > button[data-logger=\"PushSubscribeButton\"])"]

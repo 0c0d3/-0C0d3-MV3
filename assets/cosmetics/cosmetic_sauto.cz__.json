@@ -1,1 +1,0 @@
-[".p-uw-item-list__list-wrapper > div > ul > li[class*=\"c-item\"] + li:not([class^=\"c-item\"])","#page > div[class] > div:not([class]):has(> div > div:empty:first-child + div:empty + div:empty + div:empty:last-child)"]

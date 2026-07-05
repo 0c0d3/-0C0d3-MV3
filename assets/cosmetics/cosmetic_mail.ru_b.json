@@ -1,1 +1,0 @@
-["body > div:has(> div > div.buttonWrapper > div.button-help)","body > div[class][style^=\"top:\"][style*=\"left:\"]:has(> div[class] > div[class] > div[class] > button[data-logger=\"PushSubscribeButton\"])","body > div.tooltip:has(div.m-push-notifications__buttons)","button[title=\"Поделиться\"]"]

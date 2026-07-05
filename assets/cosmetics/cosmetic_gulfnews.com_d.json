@@ -1,1 +1,0 @@
-["div[id*=\"-ad-slot-\"]","div[id^=\"div-gulfnews_sections_article_\"]","div[id$=\"-ad\"]","div[class]:has(> div[class] > div[class] > div[id] > iframe[id^=\"google_ads\"])","div[id^=\"top-component-section-page-row-ad\"]","div[style^=\"border-right:\"] > div:has(> div[class] > div[class] > div[id^=\"top-component-section-page-native-ad\"])"]

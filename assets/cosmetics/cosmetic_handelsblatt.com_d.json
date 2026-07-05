@@ -1,1 +1,0 @@
-["div[class]:has(> app-icon-link > a[href^=\"https://twitter.com/intent/tweet?\"])","div[class^=\"vhb-share-social\"]"]

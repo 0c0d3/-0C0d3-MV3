@@ -1,1 +1,0 @@
-["div[style^=\"width:\"][style*=\"height:\"][style*=\"padding-top:\"]:has(> ins[data-fluid-zoneid])","div[style*=\"margin-top:\"]:not([id]) div[style*=\"padding-bottom:\"]"]

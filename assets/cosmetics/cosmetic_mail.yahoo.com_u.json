@@ -1,1 +1,0 @@
-["ul > li:has(> div[data-test-id=\"swipeable-item-container\"] > div[data-test-id=\"swipeable-item-sliding-panel\"] > div > a[data-test-id=\"large-image-ad\"])"]

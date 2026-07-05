@@ -1,1 +1,0 @@
-[".entry_body > [href^=\"https://al.dmm.co.jp/\"]","#entry:has(> div.entry_box > div.entry_body > a[href^=\"https://al.dmm.co.jp\"]:only-child > img)"]

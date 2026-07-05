@@ -1,1 +1,0 @@
-[".gallery > figure:has(.img-num > spna):not(:has(.img-num > .fa-download ~ spna))"]

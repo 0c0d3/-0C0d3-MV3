@@ -1,1 +1,0 @@
-[".underplayer__info > div[class]:has(> div > a[href^=\"http\"][target=\"_blank\"][rel=\"nofollow\"])",".video-tube-friends ~ div:not(.wrapper)",".video-page__content > div.left + div[class]",".video-slider > div.video-slider-container:has(> div.list > div.item > a[href^=\"https://vid-gt.com/\"])",".header__nav > * > a[href][target=\"_blank\"]",".header__cookie"]

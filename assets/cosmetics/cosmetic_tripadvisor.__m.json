@@ -1,1 +1,0 @@
-["main > div[class]:has(> section:only-child > div[class] > div[class] > div[class]:only-child > a[href*=\"onelink.me\"])"]

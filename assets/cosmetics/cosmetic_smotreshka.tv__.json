@@ -1,1 +1,0 @@
-[".notifications-container:has(> div:not([data-cy=\"notification-auth-reg\"]))"]

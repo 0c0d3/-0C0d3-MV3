@@ -1,1 +1,0 @@
-["div[name=\"footerExpander\"] + div ~ div:not([style])"]

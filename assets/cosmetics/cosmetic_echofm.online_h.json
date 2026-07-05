@@ -1,1 +1,0 @@
-["header > div[class^=\"sc-\"]:has(a[href^=\"https://echofm.myspreadshop.net/\"])","header > div[class^=\"sc-\"]:has(> div[class] > div[class] > a[href^=\"https://merchmag.ru/echofm/\"])"]

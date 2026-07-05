@@ -1,1 +1,0 @@
-["div[class^=\"menu-blue-box\"] > div[style] > div[style]:has(> .like_a[onclick^=\"share\"])"]

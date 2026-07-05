@@ -1,1 +1,0 @@
-["#root > .MuiContainer-root > div[class$=\"-root\"]:has(> div[class$=\"-adTip\"])"]

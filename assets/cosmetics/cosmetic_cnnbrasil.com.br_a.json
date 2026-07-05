@@ -1,1 +1,0 @@
-["a[href^=\"https://news.google.com/publications/\"]","article > div.sticky:has(> div > input#single__sharer__trigger)","article > div.relative:has(> a > svg > path[d^=\"M18 16\"])"]

@@ -1,1 +1,0 @@
-["div[class^=\"page-grid_\"]:not([class*=\"main\"]):has(.ad__container)"]

@@ -1,1 +1,0 @@
-["body > div:has(> p[style] > span[style]:contains(AdBlock))"]

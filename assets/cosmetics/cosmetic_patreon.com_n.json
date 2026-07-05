@@ -1,1 +1,0 @@
-["nav div[class^=\"sc-\"]:has(> button[type=\"button\"] div[class^=\"sc-\"] > span[class^=\"sc-\"] > svg[data-tag=\"IconPhone\"])","nav > div[class^=\"CreatorWorldTopNav-\"][class$=\"tabsContainer\"] > a[href^=\"https://open.patreon.com/m/\"]"]

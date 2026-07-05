@@ -1,1 +1,0 @@
-["#__next > div:not([id]):not([class]) > div:not([id]):not([class]):has(> div.z-app-main button[aria-label=\"Close\"])",".bg-slate-100:contains(Ad)",".z-gdpr"]

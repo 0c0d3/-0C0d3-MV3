@@ -1,1 +1,0 @@
-["p > a[href][target=\"_blank\"]:has(> img[src$=\".gif\"])"]

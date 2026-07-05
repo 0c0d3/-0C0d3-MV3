@@ -1,1 +1,0 @@
-["main > div[class][style]:has(> a[href^=\"/donate\"])","main > header ~ div[class]:not([id]):has(> svg + div[class] a[href^=\"/donate?\"])"]

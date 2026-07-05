@@ -1,1 +1,0 @@
-["body > div.fixed:has(> a[href^=\"https://api.whatsapp.com/\"])"]

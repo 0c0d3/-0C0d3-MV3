@@ -1,1 +1,0 @@
-["article section[class^=\"css-\"] ~ aside[class^=\"css-\"]:has(div[id^=\"Companion_\"][id*=\"_\"])"]

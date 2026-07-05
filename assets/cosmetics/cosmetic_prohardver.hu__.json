@@ -1,1 +1,0 @@
-["#right > div[class*=\" \"] > h4 + [style^=\"width: calc(\"][style*=\"height: calc(\"]","#right > div[class*=\" \"]:has(> h4 + [style^=\"width: calc(\"][style*=\"height: calc(\"])","#accept-container"]

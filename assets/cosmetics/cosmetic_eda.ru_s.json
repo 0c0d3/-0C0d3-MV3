@@ -1,1 +1,0 @@
-["section > div[style=\"display:contents\"] + div[class^=\"emotion-\"]","section > div[class^=\"emotion-\"]:has(> div[class^=\"emotion-\"] > span:contains(Куда доставить продукты?))"]

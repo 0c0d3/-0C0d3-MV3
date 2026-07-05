@@ -1,1 +1,0 @@
-["table[width=\"100%\"] > tbody > tr > td:has(> a[href^=\"https://play.google.com\"])"]

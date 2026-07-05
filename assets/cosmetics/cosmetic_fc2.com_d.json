@@ -1,1 +1,0 @@
-["div[class] > div[class$=\"_in\"] > div[class$=\"_bt\"] > button[name=\"gdpr_agree_btn\"]:upward(3)"]

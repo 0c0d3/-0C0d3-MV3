@@ -1,1 +1,0 @@
-["div[class]:has(> button[aria-label=\"Get Notifications for Twitch News\"])","div.mt-6:has(> div[id^=\"FooterAd\"])"]

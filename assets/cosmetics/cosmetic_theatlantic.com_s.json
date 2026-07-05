@@ -1,1 +1,0 @@
-["section[class^=\"ArticleBody_\"] > p[class^=\"ArticleParagraph_\"]:has(> small > a[href^=\"https://www.theatlantic.com/newsletters/\"])"]

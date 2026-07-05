@@ -1,1 +1,0 @@
-["div:is(.w-full, .col-span-3) > .items-center[style*=\"min-height:\"]:has(> .ad-placeholder)"]

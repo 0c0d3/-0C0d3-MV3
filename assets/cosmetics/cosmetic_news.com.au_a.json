@@ -1,1 +1,0 @@
-["article[data-nca-asset-type=\"promo\"]:has(> a:not([href*=\"news.com.au\"]))"]

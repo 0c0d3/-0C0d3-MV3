@@ -1,1 +1,0 @@
-["main div[tabindex=\"-1\"]:has(> div.chakra-stack > a.chakra-button[href^=\"https://go.experts-exchange.com/ask\"])"]

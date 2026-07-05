@@ -1,1 +1,0 @@
-["div[class]:has(> div[class]:only-child > div[class]:first-child + form:last-child > div[class]:first-child > input[name=\"email\"])"]

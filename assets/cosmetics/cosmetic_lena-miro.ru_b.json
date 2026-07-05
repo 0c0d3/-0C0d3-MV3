@@ -1,1 +1,0 @@
-["body > div:not([class]):has(> div[style] button.js-install-prompt__close-btn)"]

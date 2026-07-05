@@ -1,1 +1,0 @@
-[".video-tube-friends + div[class]",".video-page__underplayer > div:not([class^=\"underplayer\"])",".video-page > div.video-related + div[class]",".jwplayer > div[style] > div[class]:has(> div[class]:contains(Advertisement))",".header__list > li > a[href][target=\"_blank\"]",".nopop"]

@@ -1,1 +1,0 @@
-["div[class$=\"container\"]:has(button[type=\"button\"] + div[class] div.tip-contents)"]

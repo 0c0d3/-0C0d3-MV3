@@ -1,1 +1,0 @@
-["div[data-ad-target^=\"header-ad\"]","div[class^=\"sc-\"]:not([id]):has(> div[id^=\"adspot-\"] + small[style=\"--text-color: var(--color-text-secondary);\"])","div[class*=\"__InfoShare-\"]"]

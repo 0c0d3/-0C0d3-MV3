@@ -1,1 +1,0 @@
-["#application > div.modal-enter-done:has(> div > img[src$=\"/cookie.svg\"])"]

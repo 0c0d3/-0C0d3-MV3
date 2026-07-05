@@ -1,1 +1,0 @@
-["button[aria-label=\"Share story\"]","button[class^=\"index-module_storyButton\"]:has(> [alt^=\"Share story\"])"]

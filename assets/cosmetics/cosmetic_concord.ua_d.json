@@ -1,1 +1,0 @@
-["div[class^=\"icon25-widget\"][class$=\"wrapper\"] li:not(:has(> a[href=\"https://my.neobank.one\"]))"]

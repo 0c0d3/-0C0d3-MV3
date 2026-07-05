@@ -1,1 +1,0 @@
-["body > div[class*=\" \"]:has(> div[class*=\" \"] > div[height=\"auto\"] > header > h3[class]:contains(/^Pomóż nam usprawnić stronę$/))"]

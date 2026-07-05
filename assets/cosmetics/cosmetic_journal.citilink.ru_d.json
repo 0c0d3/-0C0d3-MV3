@@ -1,1 +1,0 @@
-["div > div:has(> div > h2 ~ div input[placeholder=\"Введите почту\"])"]

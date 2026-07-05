@@ -1,1 +1,0 @@
-["div[role=\"dialog\"] ~ div > div > div > div > div > h2:contains(/^Get an email|Sign up for/):upward(2)"]

@@ -1,1 +1,0 @@
-["div[id^=\"ads-\"]","div[class]:has(> div[data-element-test=\"prominent-app-download-popover\"])","div[class^=\"Modalstyled__Dialog\"]:has(button[data-component=\"openAppButton\"])","div[class^=\"AdBannerCard__adContainer\"]"]

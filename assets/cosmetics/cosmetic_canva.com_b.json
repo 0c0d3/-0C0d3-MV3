@@ -1,1 +1,0 @@
-["body > div[style^=\"z-index:\"]:has(p > span > a[href*=\"cookie\"])","body div[style] div[class]:has(> div[class][role=\"dialog\"] > div[class] > span[class] > a[href*=\"cookie\"])"]

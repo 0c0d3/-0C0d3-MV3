@@ -1,1 +1,0 @@
-["#root > div > div[class^=\"sc-\"] > div[class^=\"sc-\"]:only-child:has(> p > a[href*=\"napster.com/privacy\"])"]

@@ -1,1 +1,0 @@
-["body > #__next > div[data-testid=\"container\"] > div[class] > div[class]:not([id]):empty","body > div[class^=\"_\"]> a[href][target=\"_blank\"]:only-child > div[style^=\"position:\"][style*=\"background-image: url\"]","button[aria-label=\"UDOSTĘPNIJ\"]"]

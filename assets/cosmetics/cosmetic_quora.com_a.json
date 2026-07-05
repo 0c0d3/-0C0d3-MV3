@@ -1,1 +1,0 @@
-["a[href=\"https://www.quora.com/\"][target=\"_top\"] + div[class] > button:has(> div > div > div:contains(App))"]

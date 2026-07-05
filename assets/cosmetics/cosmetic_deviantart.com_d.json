@@ -1,1 +1,0 @@
-["div[role=\"complementary\"] > div[class]:has(> div > iframe[title=\"DealerAdIframe\"])","div[role=\"complementary\"] > div[class]:empty:not(:has(>*))"]

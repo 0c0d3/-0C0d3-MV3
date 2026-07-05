@@ -1,1 +1,0 @@
-["#main > div > div[class]:has(> div[class] > div[class] > a[href=\"https://corp.bandsintown.com/cookie-policy\"])","#main > div > div[class*=\"index\"]:first-child"]

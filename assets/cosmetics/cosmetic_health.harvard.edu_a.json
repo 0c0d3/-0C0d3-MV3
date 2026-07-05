@@ -1,1 +1,0 @@
-["article > div.mt-12:has(> div > div > a[href^=\"https://www.facebook.com/sharer/sharer.php\"])","article > div.flex-col > div[class]:has(> a.social-share)"]

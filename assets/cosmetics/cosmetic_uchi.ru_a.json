@@ -1,1 +1,0 @@
-["article[class^=\"_\"] + article[class^=\"_\"]:has(> a[href=\"https://uchi.ru/profile/students\"])","article[class^=\"RecommendationCard\"]","a[class^=\"Question_banner__\"]"]

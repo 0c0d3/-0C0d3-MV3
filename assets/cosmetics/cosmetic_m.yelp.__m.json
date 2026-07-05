@@ -1,1 +1,0 @@
-["main[class^=\"content-\"] > section[class]:has(> div[class] > a[href^=\"https://www.yelp.\"][href*=\"app.adjust.com\"])","main[class^=\"content-\"] ~ div[class^=\"banner_\"]"]

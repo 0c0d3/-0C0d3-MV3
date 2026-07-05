@@ -1,1 +1,0 @@
-["div[id^=\"viewer-\"]:has(line[x2=\"100%\"])","div[data-testid=\"mesh-container-content\"] > div.wix-blog-hide-in-print:has(> wix-iframe)"]

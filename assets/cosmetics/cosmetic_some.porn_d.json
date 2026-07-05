@@ -1,1 +1,0 @@
-["div[class]:has(> div > div[data-spot-new^=\"ntv-\"])"]

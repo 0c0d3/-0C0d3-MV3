@@ -1,1 +1,0 @@
-["article > header + div[class^=\"sc-\"]:has(> ins.adsbygoogle)"]

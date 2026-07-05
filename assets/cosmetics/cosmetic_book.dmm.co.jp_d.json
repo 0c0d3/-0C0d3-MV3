@@ -1,1 +1,0 @@
-["div[data-testid=\"notification-setting-block\"] > div > div:has(> div > div > button[data-testid=\"share-line-button\"])"]

@@ -1,1 +1,0 @@
-["body > div[style=\"z-index: 1000;\"] > div > div[name=\"trap-focus\"] > div[role=\"dialog\"]:has(a[href=\"https://www.pinterest.com/_/_/policy/cookies/\"])","body > div[style^=\"z-index:\"]:has(> div[style] > div[style] > div > span[class] > a[href=\"https://www.pinterest.com/_/_/policy/cookies/\"])"]

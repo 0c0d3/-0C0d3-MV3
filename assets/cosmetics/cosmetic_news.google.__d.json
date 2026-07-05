@@ -1,1 +1,0 @@
-["div[role=\"heading\"] ~ div[jscontroller] > div[class] > div:not([jsname=\"link\"])"]

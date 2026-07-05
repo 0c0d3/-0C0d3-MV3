@@ -1,1 +1,0 @@
-[".items-center[class*=\"border\"]:has(> .w-full.relative.hidden > .absolute.items-center:only-child)",".items-center[class*=\"border\"]:has(> .w-full.relative.hidden > .absolute > div[id^=\"/\"][id*=\"_\"])"]

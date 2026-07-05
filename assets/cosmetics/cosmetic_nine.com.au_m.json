@@ -1,1 +1,0 @@
-["main > div[class]:has(> h3 > a[href*=\"newsletter=true\"])"]

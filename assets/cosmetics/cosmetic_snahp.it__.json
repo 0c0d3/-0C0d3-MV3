@@ -1,1 +1,0 @@
-[".sidebar-content > div.widget:has(> div.textwidget > iframe[src^=\"https://st.chatango.com/\"])"]

@@ -1,1 +1,0 @@
-[".grid-container > .grid-left > .list > ul > li > div[class*=\" \"]:matches-css(background-image: /^url\\(data:image/png;base64,iVBOR/):has(> div:first-child)",".grid-container > .grid-right div[class*=\" \"]:matches-css(background-image: /^url\\(data:image/png;base64,iVBOR/):has(> div:first-child)"]

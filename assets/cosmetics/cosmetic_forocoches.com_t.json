@@ -1,1 +1,0 @@
-["tr > td[class]:has(> div.navbar_notice > table a[href^=\"https://www.samsung.com/\"])"]

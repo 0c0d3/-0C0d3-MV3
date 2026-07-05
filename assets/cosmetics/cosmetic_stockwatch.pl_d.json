@@ -1,1 +1,0 @@
-["div[class*=\"-\"] > span[data-adsourl]:first-child + img:last-child","div[class*=\"-\"]:has(> span[data-adsourl]:first-child + img:last-child)"]

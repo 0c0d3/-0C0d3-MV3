@@ -1,1 +1,0 @@
-["main > figure:has(> div > div#mm-player-placeholder-smallAndMedium-screens)","main > div.viewablity-block > div:has(> figure > div > a[href=\"https://www.si.com/newsletter-soccer\"])","main > figure[class^=\"style_\"]:has(> div[class^=\"style_\"] > #mmvid)"]

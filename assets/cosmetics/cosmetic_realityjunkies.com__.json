@@ -1,1 +1,0 @@
-["#root > div[class^=\"sc-\"]:has(> p[class^=\"sc-\"] > a[href^=\"https://www.\"][href$=\"/legal/privacy\"])"]

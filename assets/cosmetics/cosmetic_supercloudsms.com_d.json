@@ -1,1 +1,0 @@
-["div[class^=\"col-\"] > div.card:has(> div.card-body > div[align=\"center\"] > ins.adsbygoogle)"]

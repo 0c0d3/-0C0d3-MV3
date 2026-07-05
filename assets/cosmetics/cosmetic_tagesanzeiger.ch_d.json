@@ -1,1 +1,0 @@
-["div[class^=\"ShareAndComment_buttonwrapper\"]:has(> button[aria-label=\"teilen\"])"]

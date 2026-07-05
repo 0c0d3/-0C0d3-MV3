@@ -1,1 +1,0 @@
-["main > div > section:has(> div > div[class] > a[href^=\"https://news.google.com/publications/\"])"]

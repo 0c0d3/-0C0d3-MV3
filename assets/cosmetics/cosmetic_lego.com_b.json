@@ -1,1 +1,0 @@
-["body > div[data-focus-lock-disabled=\"false\"]:has(> div div[data-test=\"cookie-modal-content\"])"]

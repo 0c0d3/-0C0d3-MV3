@@ -1,1 +1,0 @@
-["body > div[class*=\"DivContainer\"]:has(div[data-e2e=\"bottom-cta-container\"])","button[data-e2e=\"share-btn\"]","button[type=\"button\"]:has(> span[data-e2e=\"share-icon\"])"]

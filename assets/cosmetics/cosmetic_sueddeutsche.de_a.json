@@ -1,1 +1,0 @@
-["aside[data-testid^=\"sharing-bar-\"]","aside[data-testid=\"sharing-bottom\"]","aside[data-testid=\"sharing-top\"]","amp-embed[type=\"taboola\"]","amp-ad","amp-ad + div[class^=\"css-\"]","article > div[data-manual-remove=\"true\"]:has(> div[id^=\"iqadt\"])","article > div[class^=\"css-\"] > div[id^=\"iqad\"]:upward(1)"]

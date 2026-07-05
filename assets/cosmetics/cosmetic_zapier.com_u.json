@@ -1,1 +1,0 @@
-["ul[class^=\"css-\"] > li:has(> div[class^=\"css-\"] > div[data-testid=\"subscribe-card\"])"]

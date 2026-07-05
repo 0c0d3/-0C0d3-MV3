@@ -1,1 +1,0 @@
-["ul[data-aut-id=\"itemsList\"] > li[class]:not([data-aut-id]):has(h3 > div:contains(Want to see your stuff here?))"]

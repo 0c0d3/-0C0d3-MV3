@@ -1,1 +1,0 @@
-["section[class^=\"jow_prod\"] > div[class^=\"jow_prod\"] > div[class^=\"jow_prod\"]:has(> form[method=\"POST\"])"]

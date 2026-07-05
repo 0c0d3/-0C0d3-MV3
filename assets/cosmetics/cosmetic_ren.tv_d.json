@@ -1,1 +1,0 @@
-["div[class^=\"root_\"]:has(> button > svg > path[d^=\"M14.576\"])","div[class^=\"Content_\"][class*=\"InformationBlock_\"]","div[class^=\"Wrapper_\"]:has(> span.share-network)"]

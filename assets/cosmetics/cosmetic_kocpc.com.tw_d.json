@@ -1,1 +1,0 @@
-["div[id^=\"pum-\"]:has(> div[id^=\"popmake-\"] > div.pum-content > div[class^=\"popup\"] > p[style] > a[onclick^=\"window.open('https://news.google.com/publications/\"])","div[id=\"share_button info\"]"]

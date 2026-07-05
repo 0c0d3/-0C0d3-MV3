@@ -1,1 +1,0 @@
-["div[class*=\"Banner_banner_\"]:has(> div[role=\"dialog\"] > div > p > a[href$=\"/cookies\"])","div[class*=\"Toast\"] ~ div[class*=\"Wrapper\"] ~ div"]

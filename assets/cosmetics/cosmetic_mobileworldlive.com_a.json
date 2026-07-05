@@ -1,1 +1,0 @@
-["aside > div.flex:has(> a[href^=\"https://www.google.com/preferences/source?q=\"])"]

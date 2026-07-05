@@ -1,1 +1,0 @@
-["div[class=\"\"][data-scroll-anchor] > div[tabindex] + div[class]:has(> div > div[class] > a[rel])"]

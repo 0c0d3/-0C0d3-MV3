@@ -1,1 +1,0 @@
-["div[class^=\"rightSection_\"]","div[class^=\"Main_automatedSideBar\"] > div[class^=\"AutomatedModules_common_data_box_right\"]:not(:has(div[itemprop=\"articleSection\"][class]))","div[class^=\"Share_text_\"]","div[class^=\"Share_icons_\"] > div[class^=\"Share_shareBox_\"]:not(#rssFeedBurner)"]

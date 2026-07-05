@@ -1,1 +1,0 @@
-[".upanel > div.wall_item:has(> div.wi_body:contains(/Реклама.*erid:/i))",".wall_item > div.wi_head > div[class^=\"PostHeader\"] span[class^=\"PostHeader\"] > span:contains(/^Реклама( в сообществе)?/):upward(.wall_item)",".wall_item[data-ad-view]"]

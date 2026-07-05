@@ -1,1 +1,0 @@
-["div[data-id-module=\"col-width-watcher\"] > div.id-Container--hasNoHeadline:matches-css(before, content:*- Reklame)","div[data-id-module=\"col-width-watcher\"] > div.id-Container--hasHeadline:has(> h3 > span:contains(Auch interessant))"]

@@ -1,1 +1,0 @@
-["div[data-assistant-ads]","div[data-testid] div[class^=\"max-\"] > div[data-ad-card-root]","div[class]:has(> div.flex > button[aria-label=\"Ad options\"])"]

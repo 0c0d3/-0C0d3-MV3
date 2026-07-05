@@ -1,1 +1,0 @@
-["article > section[data-testid=\"container\"]:has(ul[class^=\"styles_shareList_\"])"]

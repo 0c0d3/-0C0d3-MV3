@@ -1,1 +1,0 @@
-["body.has-sticky-ad > a[id][class]:has(> div[id] + div[id]:contains(Hide))"]

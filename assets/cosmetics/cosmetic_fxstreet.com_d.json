@@ -1,1 +1,0 @@
-["div[class^=\"fxs_\"]:has(> p > a[href^=\"https://t.me/f\"])"]

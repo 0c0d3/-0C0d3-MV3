@@ -1,1 +1,0 @@
-["div[aria-label=\"live-models\"]","div[class^=\"index-module\"][class$=\"container\"] > button[class^=\"index-module\"][class$=\"wrapper\"]:has(> div[class$=\"imageContainer\"] > div[class$=\"liveCircle\"])","div[class^=\"sc-\"] > button[class]:has(> div[class] > img[src^=\"/assets/fullscreen\"])"]

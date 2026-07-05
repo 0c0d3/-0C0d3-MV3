@@ -1,1 +1,0 @@
-["ul[data-e2e=\"doc-actions-container\"] > li:has(> button[data-e2e=\"doc-actions-share-button-mobile_metadata\"])"]

@@ -1,1 +1,0 @@
-["div[class^=\"sc-\"] > button[class^=\"sc-\"]:has(> svg + div:contains(Włącz powiadomienia))"]

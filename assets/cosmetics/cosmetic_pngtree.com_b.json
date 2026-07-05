@@ -1,1 +1,0 @@
-["body > div > div:has(> button[data-huejs=\"usescookies-accept\"])"]

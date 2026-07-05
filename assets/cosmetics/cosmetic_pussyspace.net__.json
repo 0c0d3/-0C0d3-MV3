@@ -1,1 +1,0 @@
-[".mainBox div[id] img:not(a img)",".socialShareLink","#main-area-box div[id]:has(> iframe[src*=\"/lazyload\"])"]

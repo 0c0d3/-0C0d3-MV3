@@ -1,1 +1,0 @@
-["div[data-testid=\"BottomScreenWrapper\"]:has(> div[data-testid=\"DialogBody\"] > div[data-testid=\"WebToAppDialog\"])"]

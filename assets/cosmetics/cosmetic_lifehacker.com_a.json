@@ -1,1 +1,0 @@
-["aside[data-ga-module=\"content-rail\"] > div[data-pogo=\"sidebar\"]","a[data-ga*=\"commerce\"]","article > div[class*=\" \"]:has(> div > p:contains(Advertisement))","article > aside:has(> div > div > a[data-amazonsin])","a[href*=\"/newsletter\"]","amp-embed[type=\"taboola\"]"]

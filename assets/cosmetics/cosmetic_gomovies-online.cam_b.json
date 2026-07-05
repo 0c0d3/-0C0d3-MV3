@@ -1,1 +1,0 @@
-["body > div[class] > div[id]:has(> div[id] > a[href=\"/user/profile/premium-membership\"])","body > div[class^=\"_\"] > div[id^=\"_\"]:only-child > style + div[id^=\"_\"]"]

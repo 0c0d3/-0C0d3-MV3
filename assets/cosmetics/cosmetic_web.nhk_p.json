@@ -1,1 +1,0 @@
-["p[style$=\"calc(1rem * (var(--font-size-scale-factor, 1)))\"] + div[class] > div[class] > button[style^=\"--\"][style$=\"auto\"]"]

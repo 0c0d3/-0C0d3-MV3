@@ -1,1 +1,0 @@
-["#news > li > div.inner","#catalog > div.inner","#resList > li:not([id]):not([class]):not([name])","#resList > div.inner","#news > li > div.inner:upward(1)"]

@@ -1,1 +1,0 @@
-["div[class*=\"_\"]:has(> div.ogm-advert-static:first-child)","div[data-e2e=\"mol-advert\"]","div[data-dot=\"mol-social-share-popover\"]","div[data-dot=\"mol-social-share-buttons\"]"]

@@ -1,1 +1,0 @@
-["article div[class^=\"sc-\"]:has(> div > a[href^=\"https://abonnement.lesechos.fr/\"] + button)"]

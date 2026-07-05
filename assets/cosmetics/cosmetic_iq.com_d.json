@@ -1,1 +1,0 @@
-["div[class^=\"sc-\"]:has(> div.popup-container > p.cookie-desc)"]

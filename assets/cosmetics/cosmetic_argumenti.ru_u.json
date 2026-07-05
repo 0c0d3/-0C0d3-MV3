@@ -1,1 +1,0 @@
-["ul[class*=\"topanons\"] > li:has(> a[href^=\"https://t.me/\"])"]

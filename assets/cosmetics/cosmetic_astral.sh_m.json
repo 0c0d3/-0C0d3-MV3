@@ -1,1 +1,0 @@
-["main ~ div.container:has(> div > div.relative > div > a[href=\"https://docs.astral.sh/ruff/\"])"]

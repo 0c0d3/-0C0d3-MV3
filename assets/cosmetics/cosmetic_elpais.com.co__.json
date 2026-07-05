@@ -1,1 +1,0 @@
-[".prose > div.text-center:has(> a[href^=\"https://whatsapp.com/channel/\"])",".prose > div.not-prose:has(> form[name=\"newsletterForm\"])",".prose > div.leading-none:has(> a[href^=\"https://news.google.com/publications/\"])",".prose > div:not([class]):has(> div.not-prose > div.flex > div.flex > a[href^=\"https://play.google.com/store/apps/\"])"]

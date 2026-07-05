@@ -1,1 +1,0 @@
-["header ~ footer + div[class]:has(> div[data-test=\"cookie\"])"]

@@ -1,1 +1,0 @@
-["div[class^=\"css-\"] > div[class^=\"css-\"]:has(> div[class^=\"css-\"] > div.ad-disclaimer)","div[aria-label^=\"Privacy Disclosure\"]"]

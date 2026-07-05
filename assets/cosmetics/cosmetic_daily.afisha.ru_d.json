@@ -1,1 +1,0 @@
-["div[class^=\"HTMLTopBanner_\"]","div[class^=\"RightSidebar\"]:has(> div[style] > div[class^=\"BannerGallery_\"])","div[class^=\"ShareFriends_\"]"]

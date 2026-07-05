@@ -1,1 +1,0 @@
-["div[class^=\"css-\"] > div[class^=\"css-\"]:has(> div.chakra-stack > button.chakra-button)"]

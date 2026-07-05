@@ -1,1 +1,0 @@
-["article > div[class^=\"wrapper_\"]:has(> a[href^=\"https://redirect.appmetrica.yandex.com/\"])"]

@@ -1,1 +1,0 @@
-["main > section > div > div + div:has(div > img[src^=\"/phone-\"])"]

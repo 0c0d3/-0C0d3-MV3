@@ -1,1 +1,0 @@
-["div[class^=\"ProductGrid__FeedTileWidthWrapper-\"]:has(div[class^=\"DesignSpec__TextSpecWrapper-\"][color=\"#6B828F\"]:not([data-testid]))","div[class^=\"ProductTray__ProductStripItem-\"]:has(div[class^=\"DesignSpec__TextSpecWrapper-\"][color=\"#6B828F\"][data-testid] + div[class^=\"DesignSpec__TextSpecWrapper-\"][color=\"#6B828F\"])"]

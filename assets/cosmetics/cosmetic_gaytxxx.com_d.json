@@ -1,1 +1,0 @@
-["div[class^=\"video-conten\"] > div[class]:first-child > div[class]:has(> div[class] > div[class] > div[id])","div[class^=\"video-conten\"] div[class]:has(> div[class] > div[class] > div.direct-abnner)","div[class^=\"video-conten\"] > div > div:has(> div > a[href]:contains(Advertising))"]

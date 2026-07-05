@@ -1,1 +1,0 @@
-["#center_content_bottom_ad_box","#billboard","#desktop-takeover","#content-container > div[class*=\" \"] > div > div[class*=\" \"] > div[class*=\" \"] > div[class*=\" \"]:has(> div:not([class]):only-child:empty)"]

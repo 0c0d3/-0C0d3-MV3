@@ -1,1 +1,0 @@
-["div[data-testid*=\"main-content\"] > div[class]:has(> div[class] > img[alt=\"download_banner_logo\"])"]

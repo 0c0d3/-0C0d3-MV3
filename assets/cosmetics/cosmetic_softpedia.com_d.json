@@ -1,1 +1,0 @@
-["div[class^=\"grid\"]:has(> hr:first-child + .ad:last-child)","div[class^=\"grid\"][style=\"display: none !important;\"] + .grid_48:has(> hr:only-child)","div[class^=\"container_\"] > div[class^=\"grid_\"]:has(> div.ad:only-child)","div[class^=\"hdsocial\"]"]

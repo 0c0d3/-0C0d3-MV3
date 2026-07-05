@@ -1,1 +1,0 @@
-["body > script + div[id][class*=\" \"]:not(#wpcp-error-message, #ast-scroll-top, .Ad-Container)"]

@@ -1,1 +1,0 @@
-["a[href*=\"/sponsored/\"]","a[href*=\"/newsletter\"]","article > aside[class]:has(div.give-butter iframe[title=\"Give Butter Donations\"])"]

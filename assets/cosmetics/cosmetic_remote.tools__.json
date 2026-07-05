@@ -1,1 +1,0 @@
-["#product-grid > div.col-lg-6:has(> div.card > div[onclick^=\"sa_event('sponsored_product');\"])"]

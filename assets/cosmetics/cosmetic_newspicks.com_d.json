@@ -1,1 +1,0 @@
-["div[class^=\"css-\"]:has(> div[class^=\"css-\"] > button[data-testid=\"base-button\"] > svg[color=\"var(--third-party-color-facebook)\"])"]

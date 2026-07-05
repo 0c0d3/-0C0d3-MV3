@@ -1,1 +1,0 @@
-["article > div[class*=\" \"]:has(> div > p:contains(Advertisement))","article > aside:has(> div > div > a[data-amazonsin])"]

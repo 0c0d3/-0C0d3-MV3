@@ -1,1 +1,0 @@
-["section > div[style^=\"padding-top: 25px;border-top:\"]:has(> a[href][target=\"_blank\"][onclick*=\"&creation=\"] > img[onload*=\"onDetected\"])"]

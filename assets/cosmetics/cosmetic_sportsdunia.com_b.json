@@ -1,1 +1,0 @@
-["body > div[class^=\"__className_\"]:has(> div[class] > a[href^=\"https://smart.link/\"])"]

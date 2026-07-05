@@ -1,1 +1,0 @@
-["main > section#pr_main1","main > section#pr_main3","main > div[class]:has(> div[id^=\"ad_\"])","main > section + div[class^=\"_\"] > div[id^=\"ad_\"]:empty:only-child:upward(1)","main > section#artcldtl + div[class^=\"_\"] > div[id^=\"ad_\"]:upward(1)"]

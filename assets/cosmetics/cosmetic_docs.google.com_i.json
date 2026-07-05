@@ -1,1 +1,0 @@
-["iframe[src^=\"https://ogs.google.com\"][src*=\"/widget/callout/\"]:upward(div[style^=\"overflow: hidden; position: absolute; top: 0px; width:\"])"]

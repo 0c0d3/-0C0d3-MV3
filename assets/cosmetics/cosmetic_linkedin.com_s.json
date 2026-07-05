@@ -1,1 +1,0 @@
-["section > div[class^=\"_wrapper\"]:has(> div > div[class^=\"_messageWrapper_\"] > div[class^=\"_message_\"] > p a[href*=\"/settings/member-cookies\"])"]

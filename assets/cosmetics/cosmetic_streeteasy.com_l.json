@@ -1,1 +1,0 @@
-["li [class^=\"ListingCard-module\"]:has([class*=\"sponsoredTag\"])","li.searchCardList--listItem:has(.jsSponsoredListingCard)","li[class^=\"ListingCardsList_listCardWrapper_\"]:has(a[href$=\"?infeed=1\"])"]

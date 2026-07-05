@@ -1,1 +1,0 @@
-["article div[class^=\"sc-\"]:has(> span > div > div > a[class*=\"SocialButtonX\"])","a[data-cl-params$=\"cl_link:bnr_b;\"]"]

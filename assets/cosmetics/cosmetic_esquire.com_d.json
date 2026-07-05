@@ -1,1 +1,0 @@
-["div[aria-label^=\"Privacy Disclosure\"]","div[role=\"toolbar\"] > div[class^=\"css-\"]:has(> div[aria-label=\"Share article\"])"]

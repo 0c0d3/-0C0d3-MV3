@@ -1,1 +1,0 @@
-["#app > div:has(> div[class^=\"sc-\"] > div[class^=\"sc-\"] > svg + span > a[href^=\"https://help.mail.ru/legal/terms/youla/recommendation?\"])"]

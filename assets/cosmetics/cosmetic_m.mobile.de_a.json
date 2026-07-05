@@ -1,1 +1,0 @@
-["article[data-testid=\"srp-regular-ad\"] + div[class]:has(> div[id^=\"m_srp_slot_\"][data-label=\"Anzeige\"]:only-child)"]

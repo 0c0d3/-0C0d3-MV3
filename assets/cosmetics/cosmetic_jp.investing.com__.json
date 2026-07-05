@@ -1,1 +1,0 @@
-[".flex-col > div.flex:has(> div.flex-1 > div > nav > ul[data-test=\"footer-mobile-links\"])"]

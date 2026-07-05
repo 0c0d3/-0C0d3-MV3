@@ -1,1 +1,0 @@
-["div[class*=\"secondaryContent-\"] > div[class^=\"Layout-sc-\"]:has(> button[class^=\"ScCoreButton-sc-\"] [data-a-selector=\"tw-core-button-icon\"])","div[class*=\" secondaryContent--\"] > div[class^=\"Layout-sc-\"]:has(> button path[d*=\"l5-5 5 5z\"])"]

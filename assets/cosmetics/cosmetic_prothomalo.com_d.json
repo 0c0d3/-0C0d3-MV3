@@ -1,1 +1,0 @@
-["div[class]:has(> .dfp-ad-unit:only-child)","div[class]:has(> iframe[src*=\"2mdn.net/dfp\"]:only-child)"]

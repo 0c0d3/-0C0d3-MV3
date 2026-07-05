@@ -1,1 +1,0 @@
-["div[style^=\"padding-top:\"]:has(a > img[src])","div[style^=\"position: fixed; width: 100vw;\"][style$=\"z-index: 999999;\"]"]

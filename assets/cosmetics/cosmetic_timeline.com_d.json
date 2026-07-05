@@ -1,1 +1,0 @@
-["div[style*=\"position: absolute;\"][style*=\"transform: translate\"] button > svg[width=\"25px\"][height=\"25px\"][viewBox=\"0 0 24 24\"]:has(> path[d^=\"M13.\"]:not([fill-rule]))"]

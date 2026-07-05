@@ -1,1 +1,0 @@
-["tr > td[style]:has(> div > div[id][class] > div[style^=\"min-height:\"])"]

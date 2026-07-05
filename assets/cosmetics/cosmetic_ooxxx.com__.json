@@ -1,1 +1,0 @@
-[".video-ntv-wrapper",".wrapper > div[class]:has(> div > div > div > div[id^=\"suggestion_\"])",".tag__item:has(> a[target=\"_blank\"][href])",".nopop",".cookies-policy-block",".wrapper > section[style]:has(> div > span:matches-css(after, content: AD))",".underplayer > section:has(> div > h4 > a[href^=\"https://clickadilla.com/\"])"]

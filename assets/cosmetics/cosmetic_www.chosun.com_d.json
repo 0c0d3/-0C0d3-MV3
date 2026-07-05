@@ -1,1 +1,0 @@
-["div[class^=\"article-tags\"] ~ .flex-chain-wrapper:has(a[aria-label=\"조선일보 구독\"])"]

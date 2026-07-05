@@ -1,1 +1,0 @@
-["main#content > div[class] > div[class^=\"_\"]:has(> div[data-concert])"]

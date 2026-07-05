@@ -1,1 +1,0 @@
-["div[class^=\"sc-\"]:has(> div[class] > div[id^=\"InStream\"])","div[class]:has(> div#article-piano-template-plea-container)","div[data-cy=\"newsletters\"]","div[class^=\"tp-\"]","div[data-cy=\"subscriptionPlea\"]","div[class^=\"socialList__wrapper--\"]"]

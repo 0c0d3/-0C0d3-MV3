@@ -1,1 +1,0 @@
-["div[class^=\"NCU_ncu\"]:has(div[id^=\"div-gpt-ad\"])","div[class^=\"NCU_ncu\"][data-testid^=\"ncu-within-group\"]:has(> div.ncu)","div[data-testid=\"affiliate-contents-embed\"]","div[class^=\"Article_below-article-commercial-box\"]","div[data-testid^=\"commercial-\"]","div[data-testid^=\"non-commercial-\"]","div[class^=\"ShareBar_sharebar-inner-wrapper__\"]"]

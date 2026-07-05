@@ -1,1 +1,0 @@
-[".card:has([href*=\"marketplace&sponsored\"])",".flex:has(> div[data-test=\"adBanner\"])"]

@@ -1,1 +1,0 @@
-["div[class*=\"CookieWrapper-\"]","div[class*=\"NewsletterTeaser\"]","div[class^=\"DistanceElement-\"]:has(> div[class^=\"Container_\"] > div[class^=\"Row-\"] > div[class^=\"Col__Column-\"] > div[class*=\"SocialSharing__Wrapper-\"])"]

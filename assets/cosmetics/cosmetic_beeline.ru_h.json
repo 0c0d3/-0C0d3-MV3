@@ -1,1 +1,0 @@
-["header > div > div[aria-hidden=\"false\"]:has(> div > a[data-metric-name=\"headerMetric:handleTopBannerClick\"])"]

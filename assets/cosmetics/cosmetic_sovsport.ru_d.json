@@ -1,1 +1,0 @@
-["div[class^=\"share-\"]","div[class^=\"news-by-id_stWidget\"] > div[class^=\"st-widget_container\"]:has(> div[class^=\"st-widget_block\"] > div[class^=\"adv-marker\"])"]

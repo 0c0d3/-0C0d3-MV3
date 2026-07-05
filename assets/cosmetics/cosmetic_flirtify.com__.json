@@ -1,1 +1,0 @@
-["#app > div[class^=\"_stickyRoot\"]:has(> aside[class] > p[class] > a[href$=\"/info/privacy\"])"]

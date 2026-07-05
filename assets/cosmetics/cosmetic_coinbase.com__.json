@@ -1,1 +1,0 @@
-["#root > div > div[style*=\"position: fixed\"]:has(> div > p > a[href^=\"https://www.coinbase.com/legal/cookie\"])","#root > div > [class*=\"backgroundAlternate\"], #popup-root ~ div[class*=\"Layout\"] ~ div:not([data-element])"]

@@ -1,1 +1,0 @@
-["button:has(> svg[data-testid=\"share-sheet-outline\"])","button:has(> svg[data-testid=\"share-solid\"])"]

@@ -1,1 +1,0 @@
-["button + div:not([class],[id]):has(> div[class*=\"hoverable\"] svg > path)"]

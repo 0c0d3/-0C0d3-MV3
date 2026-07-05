@@ -1,1 +1,0 @@
-[":is(aside, .block) a:is([rel=\"sponsored\"], [href*=\"utm_campaign\"]) > span",".layout__middle .page-builder-main > section.block:has(> .ad-banner)",".newsletter-module",".modal"]

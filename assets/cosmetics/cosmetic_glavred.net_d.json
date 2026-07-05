@@ -1,1 +1,0 @@
-["div[style^=\"height: 360px\"]:has(> .bnr-block__ad)","div[data-main-page]:has(> .bnr__ad)"]

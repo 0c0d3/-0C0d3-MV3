@@ -1,1 +1,0 @@
-["#navstrip ~ br","#navstrip ~ div.borderwrap:has(> div.ddb-ft-wrap a[title^=\"DevDB\"])"]

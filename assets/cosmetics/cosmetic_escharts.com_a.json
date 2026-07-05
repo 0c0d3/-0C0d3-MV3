@@ -1,1 +1,0 @@
-["article div[class*=\"items-center lg-\"]:has(> ul.items > li > button[onclick^=\"share(\"])","article div[class*=\"items-center lg-\"]:has(> ul.items > li > button[onclick^=\"share(\"]) + div.border-r:empty"]

@@ -1,1 +1,0 @@
-["ul.detail-info-links > li:has(> .ads-stripchat-link)","ul.navmenu > li:has(> a[target=\"_blank\"]:not([class]))"]

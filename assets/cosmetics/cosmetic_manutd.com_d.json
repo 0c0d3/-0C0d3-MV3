@@ -1,1 +1,0 @@
-["div[data-impression^=\"Notification_Prompt\"]","div[class^=\"home-content-panel_\"] > div.left > ul > li:not(.email):not(.copy-link-btn)"]

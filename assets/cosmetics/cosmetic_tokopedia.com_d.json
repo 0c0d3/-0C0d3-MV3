@@ -1,1 +1,0 @@
-["div[data-testid=\"topadsCPMWrapper\"] ~ div[data-testid=\"divSRPContentProducts\"] > div[class^=\"css-\"] div:has(a[href*=\"src=topads\"])","div[data-testid=\"cntrFindProductsResult\"] div[data-testid^=\"divFindProduct\"]:has(a[href^=\"https://ta.tokopedia.com/promo/\"] span:contains(Ad))","div[data-testid=\"topadsCPMWrapper\"]","div[aria-label=\"unf-overlay\"]"]

@@ -1,1 +1,0 @@
-["main > div[class*=\" \"] > div[class*=\" \"] > div[class*=\" \"]:has(> hr:first-child + .dianomi_context:last-child)"]

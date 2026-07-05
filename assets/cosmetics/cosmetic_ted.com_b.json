@@ -1,1 +1,0 @@
-["body > div:not([id]):not([class])","button.sb[data-service-name=\"facebook\"]","button.sb[data-service-name=\"linkedin\"]","button.sb[data-service-name=\"twitter\"]"]

@@ -1,1 +1,0 @@
-["li[data-idx]:has(#mm-ebad)","li[class=\"b_ans\"][data-partnertag]:has(> div[class^=\"b_bza_\"])","li.b_algo:has(.rms_img[src*=\"id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F\"]):has(.tptt:contains(/^([Aa]mazon(\\.[acdefinps][aeglnorst]m?\\.?[abjmtu]?[kprux]?)?|Best Buy|Booking\\.com|eBay|eDreams|Lenovo US|Trip\\.com|Tripadvisor|Walmart)$/))"]

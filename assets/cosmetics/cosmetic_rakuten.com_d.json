@@ -1,1 +1,0 @@
-["div[data-productid]:has(a[href*=\"&fbbaid=\"])","div[data-productid]:has(div.productList_sponsoredAds_RUS)"]

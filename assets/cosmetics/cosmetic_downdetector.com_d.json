@@ -1,1 +1,0 @@
-["div[data-testid=\"card\"] > div > div.mx-auto:has(> div > div > a[href^=\"https://play.google.com/store/apps/details?id=\"])"]

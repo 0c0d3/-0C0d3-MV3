@@ -1,1 +1,0 @@
-["aside span > span.react-loading-skeleton","aside > div[class^=\"sc-\"]:has(> span > span.react-loading-skeleton)","a[data-testid=\"premium-button\"][href=\"/subscribe\"]"]

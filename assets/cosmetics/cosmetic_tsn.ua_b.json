@@ -1,1 +1,0 @@
-["button[on=\"tap:share\"]","body > aside.l-sheet:has(> .u-divider--t > amp-ad)","body > aside[class=\"l-sheet l-sheet__gap\"]:has(> div > amp-ad)","body > aside[class=\"l-sheet l-sheet__gap\"]:has(> div > amp-iframe)"]

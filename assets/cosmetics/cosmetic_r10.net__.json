@@ -1,1 +1,0 @@
-["#inlinemodform > ul > li.thread > a[href=\"/reklam/\"]",".container > div[class^=\"r\"]:has(> div[class] > a[href][target=\"_blank\"])",".postList > div[class^=\"r\"]:has(> a[href][target=\"_blank\"])",".container > div > a[target=\"_blank\"] > img"]

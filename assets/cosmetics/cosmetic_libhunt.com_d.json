@@ -1,1 +1,0 @@
-["div[class=\"flex mob:flex-col\"] > div.shrink > div.clickable-card:has(a[target=\"_blank\"][data-ref])"]

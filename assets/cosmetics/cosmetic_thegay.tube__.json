@@ -1,1 +1,0 @@
-[".content > div:not([class]) > .wrapper ~ div[class]:not(.wrapper)",".underplayer__info > div[class]:first-child",".video-page__content > div.left + div[class]:last-child",".header__nav > * > a[href][target=\"_blank\"]",".nopop",".header__cookie","#ablock-notify",".video-page > div:not(.video-page__content):has(> div > div >  iframe[width=\"300\"][height=\"100\"])"]

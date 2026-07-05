@@ -1,1 +1,0 @@
-["div[class*=\"overlay_\"]:has(> a[aria-label=\"Download the Yelp app\"])"]

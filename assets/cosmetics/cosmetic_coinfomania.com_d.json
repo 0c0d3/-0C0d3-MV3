@@ -1,1 +1,0 @@
-["div[class^=\"jsx-\"]:has(> div#wrapper-sevio-in-article)","div[class^=\"max-w-\"] > div.mt-5:has(> div.bg-white a:is([href=\"https://twitter.com/coinfomania\"], [href^=\"https://news.google.com/publications/\"]))"]

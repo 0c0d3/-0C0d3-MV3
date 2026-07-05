@@ -1,1 +1,0 @@
-["#__next > div[aria-hidden=\"true\"][class]:not([data-layout-container]):empty:has(+div[data-test=\"cookieBanner\"])"]

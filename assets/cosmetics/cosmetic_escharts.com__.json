@@ -1,1 +1,0 @@
-[".col-span-3 > .bg-card:has(> .relative > button[x-on\\:click*=\"get-pro\"])",".post-header > .flex > div[class*=\"order-1\"]:has(> ul.items > li > button[onclick^=\"share\"])"]

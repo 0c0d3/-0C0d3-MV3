@@ -1,1 +1,0 @@
-["#infinite-scroll-article + div > div > div.article ~ div:not([id]):not([class])"]

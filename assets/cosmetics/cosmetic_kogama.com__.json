@@ -1,1 +1,0 @@
-["#main-content div[class]:has(> div[id^=\"kogama\"]:first-child + div[class]:last-child)"]

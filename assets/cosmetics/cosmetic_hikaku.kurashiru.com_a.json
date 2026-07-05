@@ -1,1 +1,0 @@
-["aside[class^=\"wrapper_\"]:has(> div[class^=\"sp-only\"])"]

@@ -1,1 +1,0 @@
-["footer ~ div[class]:has(> div > script[src^=\"https://player.anyclip.com/\"])"]

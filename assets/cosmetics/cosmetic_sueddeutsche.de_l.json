@@ -1,1 +1,0 @@
-["li:has(> button[data-track*=\"\\\"teilen\"])","li[data-linktrack^=\"onclick.sharingbar\"]","li[data-szde-remove-on]"]

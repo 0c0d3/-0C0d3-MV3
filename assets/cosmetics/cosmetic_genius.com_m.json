@@ -1,1 +1,0 @@
-["main[class^=\"SongPage__Container\"] > div[class^=\"SectionLeaderboard__Container\"]:has(> div[class^=\"SectionLeaderboard__Center\"] > div[class^=\"sc-\"] > div[id^=\"div-gpt-ad\"])"]

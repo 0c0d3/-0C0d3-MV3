@@ -1,1 +1,0 @@
-["main ~ div[class]:has(> div.flex > div.inline-block > button:contains(Cookies))","main ~ div"]

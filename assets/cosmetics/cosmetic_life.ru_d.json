@@ -1,1 +1,0 @@
-["div[class^=\"CommonLayout_root\"] > div:has(> div > div > span > a[href=\"/legacy#persondata\"])","div[class^=\"styles_bannerWrapper__\"]","div[class^=\"styles_footerBlocksWrapper__\"] > div[class^=\"styles_container__\"]:has(a[title=\"Дзен.Новости\"])","div[class^=\"styles_shareWrapper__\"]","div[class^=\"styles_share__\"]"]

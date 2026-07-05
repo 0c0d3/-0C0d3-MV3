@@ -1,1 +1,0 @@
-["body > #page ~ div:not([class]):not([id])"]

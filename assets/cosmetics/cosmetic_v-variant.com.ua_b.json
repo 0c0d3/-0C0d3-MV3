@@ -1,1 +1,0 @@
-["body > div.bg-primary:has(> div.container form > button[type=\"submit\"])"]

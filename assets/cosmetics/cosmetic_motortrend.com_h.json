@@ -1,1 +1,0 @@
-["header[data-ids=\"GlobalHeader\"] ~ div.align-center:has(> div.items-center > div[data-testid=\"article_top_ad-mobile\"])","header + div[class$=\"\\[&>div\\]\\:backdrop-blur-xs\"]"]

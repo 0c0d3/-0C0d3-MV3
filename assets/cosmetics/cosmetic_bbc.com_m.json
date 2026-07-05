@@ -1,1 +1,0 @@
-["main > figure[class^=\"bbc-\"]:has(> div > amp-img[alt=\"Контекст\"]) + div[class^=\"bbc-\"]","main[role=\"main\"] > section[aria-labelledby=\"recommendations-heading\"][role=\"region\"]"]

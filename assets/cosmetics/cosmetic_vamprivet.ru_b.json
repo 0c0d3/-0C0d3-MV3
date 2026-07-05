@@ -1,1 +1,0 @@
-["body > div[class^=\"styles-module__container\"]:has(> div[class^=\"styles-module__holder\"] > div#cookie_message)"]

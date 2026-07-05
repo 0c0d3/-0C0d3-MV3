@@ -1,1 +1,0 @@
-["noindex ~ div[class*=\" \"]:has(> div[class] > div[class] > div[class] > form[name=\"MODAL_SUBSCRIPTION\"])","noindex[id^=\"gzab\"][class*=\" \"]"]

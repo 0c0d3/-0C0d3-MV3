@@ -1,1 +1,0 @@
-["div[class^=\"framer-\"] > div[class^=\"framer-\"]:has(> div[class^=\"framer-\"] > div[style] > div[style^=\"border-radius:\"] > svg)"]

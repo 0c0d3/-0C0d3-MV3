@@ -1,1 +1,0 @@
-["section[class^=\"NewsList\"] > ul > li[class^=\"NewsList_injection\"]:has(> div[data-tracker-name=\"bettingPage\"])"]

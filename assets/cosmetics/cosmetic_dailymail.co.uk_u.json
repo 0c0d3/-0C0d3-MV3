@@ -1,1 +1,0 @@
-["ul[class^=\"linksHolder-\"]","ul:has(> li[class*=\"shareIcon-\"])","ul[class^=\"socialButtons-\"]"]

@@ -1,1 +1,0 @@
-["article div[data-scroll-observer^=\"paragraph\"] ~ div:has(a[href^=\"https://vip.pudelek.pl/?\"] img)","aside[role=\"complementary\"] > div[data-st-area=\"st-article-reactions\"] > div > div:nth-child(2) > button"]

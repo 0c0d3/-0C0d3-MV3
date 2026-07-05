@@ -1,1 +1,0 @@
-[".CMP-CM05-block div:is([class*=\"footer\"], [class^=\"CMP-CM\"].section):has(div[class*=\"sns\"]):not(:has(a[href*=\"unicharm.co\"], .contents))"]

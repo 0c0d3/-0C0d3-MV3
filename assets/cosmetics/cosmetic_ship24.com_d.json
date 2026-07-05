@@ -1,1 +1,0 @@
-["div[style^=\"max-height:\"].flex.justify-center.h-24.w-full.mt-3","div:has(> app-ad):not(:has(> .flex.items-center ~ .flex.flex-col .items-start))"]

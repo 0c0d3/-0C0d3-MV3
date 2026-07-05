@@ -1,1 +1,0 @@
-["body > div[style^=\"margin-left: auto;\"]:has(> a[onclick^=\"ajax_bannerclicks\"])","body > div[style^=\"max-width:\"]:has(> div.s_bluebox > a[href=\"article.php?l=it&article=adblock\"])"]

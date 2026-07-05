@@ -1,1 +1,0 @@
-["div[style^=\"display:table-cell;\"] > div[align=\"right\"]:has(> div[style*=\"dashed\"] a[title^=\"Install\"][title$=\"extension\"])"]

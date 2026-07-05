@@ -1,1 +1,0 @@
-["div[class*=\"article\"] > div:not([class]) > div[class]:contains(/^Sponsored ads$/)"]

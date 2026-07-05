@@ -1,1 +1,0 @@
-["main > div[style*=\"height\"]:has(> .parent:only-child > div[class^=\"child-\"]:only-child > div[id^=\"div-gpt-\"])"]

@@ -1,1 +1,0 @@
-["main div[class^=\"sc-\"] > div[class^=\"sc-\"]:empty:has(+ .publift-ad-wrapper)"]

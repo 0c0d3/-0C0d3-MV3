@@ -1,1 +1,0 @@
-["body > div[class][style]:has(> .hide-from-print p  a[href$=\"/personaldata.html\"])"]

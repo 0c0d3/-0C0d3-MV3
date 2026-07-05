@@ -1,1 +1,0 @@
-["footer ~ div > div:has(> div p + div > a[href^=\"https://play.google.com/store/apps/details?id=com.medium.reader\"])"]

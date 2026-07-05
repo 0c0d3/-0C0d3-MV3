@@ -1,1 +1,0 @@
-["div[class^=\"SocialsBanner_\"]","div[class^=\"Share_wrapper\"]","div[class^=\"MainPageContent_banner\"]:has(> div[class^=\"NewSocialBanner_container\"])","div[class^=\"Share_wrapper\"] > div[class^=\"Share_linksBox\"]"]

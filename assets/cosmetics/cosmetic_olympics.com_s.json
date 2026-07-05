@@ -1,1 +1,0 @@
-["section[data-cy=\"story-parts-wrapper\"] > div:not([data-cy]):has(rect[clip-path=\"url(#loading)\"])"]

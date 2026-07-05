@@ -1,1 +1,0 @@
-["aside > div:has(> div.flex > a[href^=\"https://www.facebook.com/sharer/\"])"]

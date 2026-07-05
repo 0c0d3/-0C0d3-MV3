@@ -1,1 +1,0 @@
-["section[class]:has(> div[class*=\"image_links\"] > div.contents a[href^=\"https://app.adjust.com/\"])","span[style=\"box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative\"]:has(> img[src^=\"/public/_next/static/media/want_banner.\"])"]

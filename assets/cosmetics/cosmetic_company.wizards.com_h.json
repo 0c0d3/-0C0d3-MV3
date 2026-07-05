@@ -1,1 +1,0 @@
-["header > div[class^=\"css-\"]:has(> div > div > div > p > a[href$=\"privacy-policy\"])"]

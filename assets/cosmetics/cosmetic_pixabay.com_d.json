@@ -1,1 +1,0 @@
-["div[class^=\"adSponsoredMediaContainer-\"]","div[class^=\"sponsoredSection-\"]","div[class^=\"cell--\"]:has(button[aria-label=\"About this advertiser\"])","div[class^=\"mrxz\"]:has(button[aria-label=\"About this advertiser\"])","div[class^=\"adPlacement\"]"]

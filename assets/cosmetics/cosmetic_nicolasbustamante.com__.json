@@ -1,1 +1,0 @@
-[".home-sitemap > div.pencraft:has(> div.home-sitemap-signup-form)",".subscription-widget-wrap",".pencraft + div:has(> button > div.label)",".pencraft + div:has(> a[role=\"button\"].post-ufi-button > div.label)",".pencraft > button.pencraft:has(> svg > path[d^=\"M4 12v8a2\"])",".pencraft > div.style-compressed > a.no-label.post-ufi-button[href^=\"javascript\"] > svg"]

@@ -1,1 +1,0 @@
-["main > section ul.gap-4 > li.relative:has(> div[class*=\"grid-cols-\"]:first-child + div.group[id^=\"_\"]:last-child)"]

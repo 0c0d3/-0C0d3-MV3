@@ -1,1 +1,0 @@
-["div[class^=\"catPageContainer\"]:not(.catPageContainer) > div[style]:not([class]):has(> div[id^=\"snack-incontent-\"])","div[class^=\"vs_coachmark_\"]","div[class*=\"header_menu\"] > div[class*=\"header_menu_item\"]:has(> button[id*=\"go_vip_button\"])","div[id*=\"_nav_share\"]"]

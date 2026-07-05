@@ -1,1 +1,0 @@
-[".panel-body > .row > .col-md-4:has(> .panel > .panel-footer > a[href^=\"/download-fast/\"]:is([namehost^=\"UseNe\"], [namehost^=\"UseeNe\"]))",".content-body > .text-center:has(> a[href*=\"list_adblock.txt&\"])"]

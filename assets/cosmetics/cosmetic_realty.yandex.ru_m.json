@@ -1,1 +1,0 @@
-["main > div > div[class^=\"container-\"]:has(> div[class^=\"root-\"] > a[href=\"https://t.me/yatakzhivu_mag\"])","main > div > div[class^=\"container-\"]:has(> div[class^=\"container-\"] > form > div.Suggest)"]

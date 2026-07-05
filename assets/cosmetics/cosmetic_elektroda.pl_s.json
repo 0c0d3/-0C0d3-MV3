@@ -1,1 +1,0 @@
-["section[class] > [id]:has(> .text-center:only-child > div[class]:first-child + div[id^=\"div-gpt-ad-\"]:last-child)"]

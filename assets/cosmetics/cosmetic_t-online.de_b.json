@@ -1,1 +1,0 @@
-["body > #__next ~ div[role=\"presentation\"]:has(> div > section[data-testid=\"InactivityLayer.ModalView\"])"]

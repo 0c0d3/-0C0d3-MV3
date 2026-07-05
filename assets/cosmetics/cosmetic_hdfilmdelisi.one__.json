@@ -1,1 +1,0 @@
-[".flex > button + div[class]:has(> div.flex > div[class] > button[title=\"X'te Paylaş\"])"]

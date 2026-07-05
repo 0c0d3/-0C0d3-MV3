@@ -1,1 +1,0 @@
-[".clear ~ div[class]:has(> div.float100 > div[align=\"center\"] > div[id])",".rightcolumn > div.news","#Bl-Sidebar > div[id^=\"BlockVar-\"]:has(> h3.sorted > strong:contains(Подписка по))"]

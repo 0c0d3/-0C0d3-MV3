@@ -1,1 +1,0 @@
-["#sticky-banner-id","#mobile-story-card-1 + div[class]:has(.ad-text)",".secondSetStories-wrapper > div:not([id^=story-card]):has(.ad-text)",".thirdSetStories-wrapper > div:not([id^=story-card]):has(.ad-text)"]

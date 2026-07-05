@@ -1,1 +1,0 @@
-["div[class$=\"Video\"] ul[class$=\"Share\"] > li > button:not([class*=\"Code\"])"]

@@ -1,1 +1,0 @@
-["div[class^=\"AdBlockAlert_\"]","div[class^=\"RecommendationTechnologiesAlert_root__\"]","div[class^=\"App_app_\"] > div[class^=\"ScrollableComponent_container_\"]:has(> div[class*=\"NewsPopup_root_\"])","div[class*=\"StreamShareButton_root_\"]"]

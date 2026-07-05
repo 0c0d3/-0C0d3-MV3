@@ -1,1 +1,0 @@
-[".reactButtonWrapper:has(> button.toolbarButton > span.MuiButton-label > span[aria-label=\"Email icon\"])",".reactButtonWrapper:has(> button.toolbarButton > span.MuiButton-label > span[aria-label=\"Share icon\"])"]

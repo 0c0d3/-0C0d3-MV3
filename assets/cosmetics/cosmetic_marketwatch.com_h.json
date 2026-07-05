@@ -1,1 +1,0 @@
-["header:has(> h4:only-child > span:only-child:contains(/^Partner Center$/))","header + div[class^=\"css-\"]:has(> div[class^=\"css-\"] > div[class^=\"css-\"] > div[class*=\"css-\"]:only-child > .adWrapper)"]

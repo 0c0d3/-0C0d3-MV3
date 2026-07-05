@@ -1,1 +1,0 @@
-["li:has([data-testid=\"spons\"])","li[data-testid^=\"productTileTracker-\"]:has([data-testid=\"sponsored\"])","li[data-testid^=\"productTileTracker-\"]:has(button[data-testid=\"spo\"])"]

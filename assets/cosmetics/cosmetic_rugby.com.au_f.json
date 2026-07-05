@@ -1,1 +1,0 @@
-["figcaption > div:has(> div > ul > li > a[title^=\"Share on\"])"]

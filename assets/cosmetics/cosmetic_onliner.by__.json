@@ -1,1 +1,0 @@
-[".consent-app",".news-text > p[style]:has(> a[href=\"https://t.me/newsonliner_bot\"])",".news-text > p[style]:has(> strong > a[href=\"https://t.me/newsonliner_bot\"])",".news-text > p[style]:has(> strong:contains(/Наш канал в|Падпісвайцеся/))",".news-widget",".news-text > div.news-media_condensed:has(> div.news-media__inside a[target=\"_blank\"][href])",".b-top-line-1__items"]

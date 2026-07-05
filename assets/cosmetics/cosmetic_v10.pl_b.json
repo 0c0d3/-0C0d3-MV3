@@ -1,1 +1,0 @@
-["body > div[style^=\"width: 100%; background-color:\"][style*=\"position: fixed;\"][style*=\"z-index:\"]:not([class]):not([id])","body > div[style*=\"width\"]"]

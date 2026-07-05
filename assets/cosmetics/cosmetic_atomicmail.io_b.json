@@ -1,1 +1,0 @@
-["body > div[class^=\"_backdrop_\"]:has(> div[class^=\"_content_\"] a[href^=\"https://atomicmail.onelink.me/\"])","body > div[class^=\"_backdrop_\"]:has(> div[class^=\"_content_\"] > img[src*=\".atomicmail.io/Promo\"])"]

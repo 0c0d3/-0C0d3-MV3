@@ -1,1 +1,0 @@
-["body > main + script + div[class]:has(> div[id] > div[id] > a[href=\"/user/profile/premium-membership\"])"]

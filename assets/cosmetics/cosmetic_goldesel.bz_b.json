@@ -1,1 +1,0 @@
-["body > div[class^=\"p\"] > ul + div[class^=\"c\"] > div[class^=\"d_17\"]:has(input[name=\"Newsletter\"])"]

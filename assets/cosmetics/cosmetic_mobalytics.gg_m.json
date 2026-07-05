@@ -1,1 +1,0 @@
-["main > div[class]:has(> div[class]:only-child > div[data-fuse]:only-child)","main > div > div:has(> div > img[alt=\"Mobalytics\"])","main > div > div:has(> a[href^=\"https://mobalytics.gg/lol/glp/download-welcome\"])","main > div[class]:has(> div[class] > div#poe-2-video-all-pages-mobile)"]

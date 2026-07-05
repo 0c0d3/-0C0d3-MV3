@@ -1,1 +1,0 @@
-[".skyscraper",".ads",".col-lg-4 > .bar_container > .bar_headline:contains(/^Advertising$/):upward(1)",".container > .row > .col-sm-6:has(> .box_grey.ad)"]

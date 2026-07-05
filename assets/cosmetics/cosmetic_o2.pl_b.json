@@ -1,1 +1,0 @@
-["body > .mx-auto:has(> h6:first-child + div[data-testid^=\"ad-placeholder-\"] + #section-for-you:last-child)","body > div[class^=\"_\"]> a[href][target=\"_blank\"]:only-child > div[style^=\"position:\"][style*=\"background-image: url\"]"]

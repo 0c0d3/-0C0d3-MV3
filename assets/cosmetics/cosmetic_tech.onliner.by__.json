@@ -1,1 +1,0 @@
-[".news-text > p[style^=\"text-align:\"]:has(> strong > a[href^=\"https://t.elegram.ru/\"])"]

@@ -1,1 +1,0 @@
-["body > div.relative:has(> div.relative input[type=\"email\"])","body > div.fixed:has(> div.ad-container)"]

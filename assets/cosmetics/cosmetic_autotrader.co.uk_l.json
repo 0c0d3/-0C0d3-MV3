@@ -1,1 +1,0 @@
-["li:has(section[data-testid=\"trader-seller-listing\"] > span[data-testid=\"FEATURED_LISTING\"])","li:has(section[data-testid=\"trader-seller-listing\"] > span[data-testid=\"PROMOTED_LISTING\"])","li[class]:has(span[data-testid=\"FEATURED_LISTING\"])","li[class]:has(span[data-testid=\"PROMOTED_LISTING\"])","li[data-is-promoted-listing=\"true\"]"]

@@ -1,1 +1,0 @@
-["div[data-vueapp=\"campaigns\"]:has(> div > div > a[data-action=\"campaignClick\"][data-creative])","div[data-vueapp=\"campaigns\"] > div > div > a[data-action=\"campaignClick\"][data-creative]"]

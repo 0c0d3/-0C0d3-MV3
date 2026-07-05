@@ -1,1 +1,0 @@
-["body > div:not([class]):not([id]) > div[data-cy]:has(> div[data-cy=\"Popup cookies\"])"]

@@ -1,1 +1,0 @@
-[".bottom-spots",".container-aside",".items-holder",".native-holder",".banner",".spot:not(#style_important)",".player-inner > div:is(#pre-items, #end-play)",".container-side > .item:has(> ins[data-zoneid])",".bottom-container:has(> div#bottom-banner1 > ins)","#under-video",".text_adv",".bottom-banners","#after-adv"]

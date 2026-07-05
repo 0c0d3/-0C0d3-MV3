@@ -1,1 +1,0 @@
-["main[class^=\"_layout_\"] > div[class^=\"_block_\"][class*=\"_appear_\"]:has(> div[class^=\"_cookie_\"])"]

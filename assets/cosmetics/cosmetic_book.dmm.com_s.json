@@ -1,1 +1,0 @@
-["section[class^=\"style_section_\"]:has(> div[class^=\"sc-\"] > div[class*=\"-1 \"] + div[class*=\"-2 \"] > div[class*=\"-0 \"] > button[class*=\"-1 \"] + span[class*=\"-2 \"][data-size=\"sm\"])"]

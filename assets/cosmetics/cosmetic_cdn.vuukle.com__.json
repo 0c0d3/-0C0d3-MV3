@@ -1,1 +1,0 @@
-["#app > div[class]:has(> h4:contains(Trending Stories))",".social-button",".sharebar-popover-button",".vuukle-actions > button.more-btn","#app .shares-badge","#app .shares-badge + .more-btn"]

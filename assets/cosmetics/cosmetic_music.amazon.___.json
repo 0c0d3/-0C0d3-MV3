@@ -1,1 +1,0 @@
-["#banner:has(> div[class]:only-child > #bannerFooter [aria-label*=\"ookie\"])"]

@@ -1,1 +1,0 @@
-["article ~ hr.w3r_hr","article > div.mdl-grid:has(> div[id*=\"banner_block\"])"]

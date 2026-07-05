@@ -1,1 +1,0 @@
-["div[data-testid=\"div-gpt-ad-topbanner\"]","div[data-testid=\"pre-ad-text\"]","div[data-testid=\"pre-ad-text\"] + div[class]","div[data-testid=\"ad-with-pre-text\"]","div[data-testid=\"forecast-module-row\"] > div[class^=\"sc-\"]:has(> div[data-testid=\"ad-with-pre-text\"]:only-child)","div[data-testid=\"cookie-bar\"]"]

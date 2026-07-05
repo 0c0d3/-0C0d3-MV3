@@ -1,1 +1,0 @@
-["div[class] > div[class]:has(> small:contains(Suggestions))"]

@@ -1,1 +1,0 @@
-["dialog[open]:has(> div[class] > div[class] > a[href*=\"/account/cookie\"])","div[class*=\"salesocialshare\"]"]

@@ -1,1 +1,0 @@
-["aside[class*=\"AfterContentContainer\"]:has(> div > p:contains(Sponsored))"]

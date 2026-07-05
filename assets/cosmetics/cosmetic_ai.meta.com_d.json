@@ -1,1 +1,0 @@
-["div[class*=\" _\"] > div[class*=\" _\"]:has(> div[style] a[href$=\"/subscribe/\"])","div[class^=\"_\"] > div[class*=\" _\"]:has(> div[class^=\"_\"] > a[href*=\"facebook.com/sharer/sharer.php\"])"]

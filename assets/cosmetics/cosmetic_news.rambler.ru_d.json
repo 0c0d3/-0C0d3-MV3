@@ -1,1 +1,0 @@
-["div[data-news_media-mobile] > div.mobile-draft > div > div[class]:contains(/^Продолжение истории после рекламы$/i)","div[style^=\"min-height:\"][style*=\"250px\"]:has(> div[id^=\"capirs-\"])"]

@@ -1,1 +1,0 @@
-["div[class*=\"html.aa-logged-in_\"]:has(> .text-sm > a:is([href=\"/contact\"], [href=\"/faq#ads\"]))"]

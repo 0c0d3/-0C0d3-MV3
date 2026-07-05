@@ -1,1 +1,0 @@
-["aside > div:has(> div > div > div.ad-container)","aside > div:has(> div > div.ad-container)","article:has(> div[class^=\"css-\"] > div[data-type] > div.ad-container)"]

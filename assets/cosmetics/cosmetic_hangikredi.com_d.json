@@ -1,1 +1,0 @@
-["div[class*=\"bg-bannerLeftGradient\"]","div.w-full > .relative[data-testid=\"nativeCard\"]:has(> a[target=\"_blank\"][rel])","div.w-full > div[class]:has(> div[class^=\"product-list-card\"] > div[class^=\"product-list-card_card_banner\"])"]

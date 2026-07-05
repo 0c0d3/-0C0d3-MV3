@@ -1,1 +1,0 @@
-["div[id^=\"carouse\"] > .items > .col-sm-3:has(> div[id^=\"main-content-ad-\"])"]

@@ -1,1 +1,0 @@
-["div[class*=\"flex-col\"]:has(>h2:contains(Sponsored))"]

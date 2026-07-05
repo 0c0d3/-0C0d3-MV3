@@ -1,1 +1,0 @@
-["div[class^=\"ItemCardGrid__\"] > div[class^=\"ItemCardContainer__\"]:has(> div[class*=\" AdCard__\"])","div[class*=\"AdBanner_\"]","div[class^=\"ShareThingBlock__\"]"]

@@ -1,1 +1,0 @@
-["body > div[class]:has(> div.flex > a[href=\"/privacy\"])"]

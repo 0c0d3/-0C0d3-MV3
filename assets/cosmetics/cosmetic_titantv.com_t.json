@@ -1,1 +1,0 @@
-["td[id^=\"menutablelogocell\"]","tr.gridRow > td > [id] > div:first-child","tr:has(> td[align=\"center\"][valign=\"middle\"][colspan=\"2\"][class=\"gC\"])"]

@@ -1,1 +1,0 @@
-["#root > div[class^=\"mocked-styled-\"] > div[class^=\"mocked-styled-\"][style] + div:not([class^=\"mocked-styled-\"]) > div:not([class^=\"mocked-styled-\"]):has(button)"]

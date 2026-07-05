@@ -1,1 +1,0 @@
-["div[type=\"infobox\"]:has(a[href=\"https://www.linkedin.com/company/lessentiellu/\"])","div[type=\"authors\"] div[class]:has(> button[data-testid=\"ButtonShare\"])","div[class^=\"Article_element__\"] > div[type=\"typeInfoboxSummary\"]:has(> .elementCrosshead > h2 > a[href*=\"whatsapp.com\"])"]

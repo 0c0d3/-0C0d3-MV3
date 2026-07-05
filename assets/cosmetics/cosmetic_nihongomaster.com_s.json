@@ -1,1 +1,0 @@
-["section:has(> div[class]:only-child > picture:first-child + div:last-child > div > a[href^=\"https://apps.apple.com\"])"]

@@ -1,1 +1,0 @@
-["main div[class*=\":hidden\"]:has(> div[data-cptid])"]

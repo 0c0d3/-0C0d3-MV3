@@ -1,1 +1,0 @@
-["article > div[class^=\"sc-\"]:has(> div[class*=\"lngtd\"])","article > div[class^=\"sc-\"]:has(> a[href^=\"https://google.com/preferences/source?q=\"])","article > div[class^=\"sc-\"]:has(> form#aigeon-form)","a[href^=\"https://google.com/preferences/source?q=\"]"]

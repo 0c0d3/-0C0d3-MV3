@@ -1,1 +1,0 @@
-["div[aria-hidden=\"true\"] > div[id^=\"ad-slot-\"]:first-child + div[class]:last-child","div[aria-hidden=\"true\"] > div[id^=\"ad-slot-\"]:first-child + div[class]:last-child:upward(1)"]

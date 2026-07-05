@@ -1,1 +1,0 @@
-["button[class*=\"FixedHeader_shareBtn__\"]","button:has(> svg[data-component=\"ShareWeb\"])"]

@@ -1,1 +1,0 @@
-["section[class^=\"artikel-\"] > ul > li:not([class]):has(> a[href] > h3.post:contains(Anzeige))"]

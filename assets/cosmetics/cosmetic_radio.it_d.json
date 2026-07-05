@@ -1,1 +1,0 @@
-["div[class] > div[class]:has(> div[class] > div[id^=\"RAD_D_\"])","div[class*=\"md\\:min-h-\\[90px\\] lg\\:min-h-\\[250px\\]\"]:has(div[id^=\"RAD_D_\"])"]

@@ -1,1 +1,0 @@
-["ul > li:has(> div[class^=\"adg_\"])","ul > li:has(> div[id^=\"taboola-mid-home-stream\"])"]
