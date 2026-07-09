@@ -7,6 +7,16 @@
 > Those lists are the property of their respective authors and are provided as-is.  
 > This project's source code is released under the MIT License — see `build.js` header.
 
+## Privacy & Data Collection
+
+**0c0d3 does not collect, transmit, or store any personal data.**
+
+- The extension runs entirely locally. No data is sent to any server by the extension code itself.
+- Filter lists are downloaded from third-party maintainers at build time and at runtime (hourly auto-update + manual refresh). Only the list URLs are requested — no browsing data is transmitted.
+- The third-party filter lists incorporated may contain domain names, URL patterns, and CSS selectors used solely for local ad and tracker blocking. The maintainers of those lists may collect anonymous usage statistics via their own CDNs; refer to each list's homepage for their privacy practices.
+- Network blocking uses Firefox's `webRequest` API with host-based matching and URL pattern checks. No request bodies are read or exfiltrated.
+
+
 ## Third-party filter lists
 
 | # | List | URL | Homepage |
