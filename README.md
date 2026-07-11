@@ -56,3 +56,7 @@
 
 The source code in `build.js` and related scripts is MIT License.  
 The third-party filter lists listed above are subject to their own licenses.
+
+
+## Donate
+https://cafecito.app/0c0d3
