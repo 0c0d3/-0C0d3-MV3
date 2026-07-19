@@ -1,0 +1,29 @@
+{
+  "name": "0c0d3-builder",
+  "version": "3.0.6",
+  "description": "Builder para 0c0d3 Ad-Blocker (MV3 con reglas dinámicas)",
+  "type": "module",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js",
+    "clean": "rm -rf extension 0c0d3.xpi"
+  },
+  "dependencies": {
+    "@adguard/agtree": "^2.2.0",
+    "archiver": "^7.0.1",
+    "axios": "^1.7.9",
+    "node-fetch": "^3.3.2",
+    "sharp": "^0.33.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "adblocker",
+    "firefox",
+    "mv3",
+    "dnr"
+  ],
+  "author": "0c0d3",
+  "license": "MIT"
+}
