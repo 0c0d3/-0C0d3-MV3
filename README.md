@@ -52,11 +52,6 @@
 | 29 | AdGuard Anti-Adblock | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/refs/heads/master/AnnoyancesFilter/Popups/sections/antiadblock.txt | https://github.com/AdguardTeam/AdguardFilters |
 | 30 | Admiral Domains | https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt | https://github.com/LanikSJ/ubo-filters |
 
-## License
-
-The source code in `build.js` and related scripts is MIT License.  
-The third-party filter lists listed above are subject to their own licenses.
-
 
 ## Donate
 https://cafecito.app/0c0d3
